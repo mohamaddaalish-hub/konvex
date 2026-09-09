@@ -1,0 +1,65 @@
+
+> konvex-industrial-catalog@1.0.0 build
+> next build --webpack
+
+▲ Next.js 16.3.4 (webpack)
+- Environments: .env.local
+✓ Running next.config.ts took 35ms
+- Experiments (use with caution):
+  · cpus: 2
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 5.3s
+  Running TypeScript ...
+  Finished TypeScript in 761ms ...
+  Collecting page data using 2 workers ...
+  Generating static pages using 2 workers (0/11) ...
+  Generating static pages using 2 workers (2/11) 
+  Generating static pages using 2 workers (5/11) 
+  Generating static pages using 2 workers (8/11) 
+✓ Generating static pages using 2 workers (11/11) in 467ms
+  Finalizing page optimization ...
+  Collecting build traces ...
+
+Route (app)
+┌ ƒ /
+├ ƒ /_not-found
+├ ƒ /about
+├ ƒ /admin
+├ ƒ /api/admin/entities
+├ ƒ /api/admin/login
+├ ƒ /api/admin/logout
+├ ƒ /api/admin/products
+├ ƒ /api/admin/quotes
+├ ƒ /api/admin/settings
+├ ƒ /api/admin/upload
+├ ƒ /api/csrf
+├ ƒ /api/products/[id]/datasheet
+├ ƒ /api/quotes
+├ ƒ /api/search
+├ ƒ /applications
+├ ƒ /applications/[slug]
+├ ƒ /brands
+├ ƒ /compare
+├ ƒ /contact
+├ ƒ /featured-products
+├ ƒ /knowledge
+├ ƒ /knowledge/[slug]
+├ ƒ /new-products
+├ ƒ /popular-products
+├ ƒ /print/catalog
+├ ƒ /privacy
+├ ƒ /product/[slug]
+├ ƒ /products
+├ ƒ /products/[category]
+├ ƒ /quote
+├ ƒ /robots.txt
+├ ƒ /search
+├ ƒ /sitemap.xml
+├ ƒ /terms
+├ ƒ /uploads/[file]
+└ ƒ /wishlist
+
+
+ƒ  (Dynamic)  server-rendered on demand
+

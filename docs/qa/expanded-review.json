@@ -1,0 +1,646 @@
+[
+  {
+    "route": "/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/products",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/applications",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/applications/construction",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/brands",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/about",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/knowledge",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/knowledge/laser-distance-meter-buying-guide",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/privacy",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/terms",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/wishlist",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/compare",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-chisel-6-400",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-caster-160-6",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-level-120",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-lm-120-pro",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-disc-115-6",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-meter-wrist-strap",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/products",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/applications",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/applications/construction",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/brands",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/about",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/knowledge",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/knowledge/laser-distance-meter-buying-guide",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/privacy",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/terms",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/wishlist",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/compare",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-chisel-6-400",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-caster-160-6",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-level-120",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-lm-120-pro",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-disc-115-6",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-meter-wrist-strap",
+    "width": 768,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/products",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/applications",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/applications/construction",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/brands",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/about",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/knowledge",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/knowledge/laser-distance-meter-buying-guide",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/privacy",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/terms",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/wishlist",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/compare",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-chisel-6-400",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-caster-160-6",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-level-120",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-lm-120-pro",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-disc-115-6",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/product/konvex-meter-wrist-strap",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "badImages": [],
+    "pageErrors": [],
+    "violations": []
+  },
+  {
+    "route": "/compare [3 items]",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/not-a-route",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "route": "/product/not-a-product",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "route": "/products/not-a-category",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "route": "/applications/not-an-application",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "route": "/knowledge/not-an-article",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "route": "/.env.local",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "route": "/data/konvex.sqlite",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "route": "/private/admin-access.txt",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "route": "/admin [authenticated]",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/admin [product editor tab 0]",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/admin [product editor tab 1]",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/admin [product editor tab 2]",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/admin [product editor tab 3]",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/admin [settings]",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/admin [authenticated]",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/admin [product editor tab 0]",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/admin [product editor tab 1]",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/admin [product editor tab 2]",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/admin [product editor tab 3]",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  },
+  {
+    "route": "/admin [settings]",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "violations": []
+  }
+]

@@ -1,0 +1,4171 @@
+{
+  "products": [
+    {
+      "id": "abrasives-1",
+      "sku": "KV-5001",
+      "slug": "konvex-disc-125-1",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "abrasives",
+      "subcategory": "برش",
+      "name": "صفحه برش فلز ۱۲۵ میلی‌متری",
+      "model": "KV-AD125-1",
+      "shortDescription": "قطر ۱۲۵ و ضخامت ۱٫۲ میلی‌متر؛ برای برش فلز.",
+      "longDescription": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر صفحه",
+          "value": "125 mm",
+          "highlight": true
+        },
+        {
+          "key": "thickness",
+          "label": "ضخامت",
+          "value": "1.2 mm",
+          "highlight": true
+        },
+        {
+          "key": "rpm",
+          "label": "حداکثر دور مجاز",
+          "value": "12200 rpm",
+          "highlight": true
+        },
+        {
+          "key": "bore",
+          "label": "قطر سوراخ مرکزی",
+          "value": "22.23 mm",
+          "highlight": false
+        },
+        {
+          "key": "workpiece",
+          "label": "جنس قطعه‌کار",
+          "value": "فلز",
+          "highlight": false
+        },
+        {
+          "key": "type",
+          "label": "نوع صفحه",
+          "value": "برش",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "نوع ساینده",
+          "value": "آلومینیوم اکسید",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "metalworking",
+        "workshop"
+      ],
+      "features": [
+        "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه"
+      ],
+      "images": [
+        {
+          "url": "/images/abrasives.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس"
+        },
+        {
+          "url": "/images/workshop.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "محصولات سایش",
+        "ABRASIVES",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": true,
+      "isNew": true,
+      "popularityRank": 9,
+      "isSample": true,
+      "seoTitle": "صفحه برش فلز ۱۲۵ میلی‌متری KV-AD125-1 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه صفحه برش فلز ۱۲۵ میلی‌متری مدل KV-AD125-1. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-29T10:00:00.000Z",
+      "updatedAt": "2026-08-29T10:00:00.000Z"
+    },
+    {
+      "id": "abrasives-2",
+      "sku": "KV-5002",
+      "slug": "konvex-disc-115-2",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "abrasives",
+      "subcategory": "ساب",
+      "name": "صفحه ساب فلز ۱۱۵ میلی‌متری",
+      "model": "KV-AD115-2",
+      "shortDescription": "قطر ۱۱۵ و ضخامت ۶ میلی‌متر؛ برای ساب فلز.",
+      "longDescription": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر صفحه",
+          "value": "115 mm",
+          "highlight": true
+        },
+        {
+          "key": "thickness",
+          "label": "ضخامت",
+          "value": "6 mm",
+          "highlight": true
+        },
+        {
+          "key": "rpm",
+          "label": "حداکثر دور مجاز",
+          "value": "13300 rpm",
+          "highlight": true
+        },
+        {
+          "key": "bore",
+          "label": "قطر سوراخ مرکزی",
+          "value": "22.23 mm",
+          "highlight": false
+        },
+        {
+          "key": "workpiece",
+          "label": "جنس قطعه‌کار",
+          "value": "فلز",
+          "highlight": false
+        },
+        {
+          "key": "type",
+          "label": "نوع صفحه",
+          "value": "ساب",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "نوع ساینده",
+          "value": "آلومینیوم اکسید",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "metalworking",
+        "workshop"
+      ],
+      "features": [
+        "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه"
+      ],
+      "images": [
+        {
+          "url": "/images/abrasives.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس"
+        },
+        {
+          "url": "/images/workshop.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "محصولات سایش",
+        "ABRASIVES",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": true,
+      "popularityRank": 8,
+      "isSample": true,
+      "seoTitle": "صفحه ساب فلز ۱۱۵ میلی‌متری KV-AD115-2 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه صفحه ساب فلز ۱۱۵ میلی‌متری مدل KV-AD115-2. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-28T10:00:00.000Z",
+      "updatedAt": "2026-08-28T10:00:00.000Z"
+    },
+    {
+      "id": "abrasives-3",
+      "sku": "KV-5003",
+      "slug": "konvex-disc-180-3",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "abrasives",
+      "subcategory": "برش",
+      "name": "صفحه برش سنگ ۱۸۰ میلی‌متری",
+      "model": "KV-AD180-3",
+      "shortDescription": "قطر ۱۸۰ و ضخامت ۳ میلی‌متر؛ برای برش سنگ.",
+      "longDescription": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر صفحه",
+          "value": "180 mm",
+          "highlight": true
+        },
+        {
+          "key": "thickness",
+          "label": "ضخامت",
+          "value": "3 mm",
+          "highlight": true
+        },
+        {
+          "key": "rpm",
+          "label": "حداکثر دور مجاز",
+          "value": "8500 rpm",
+          "highlight": true
+        },
+        {
+          "key": "bore",
+          "label": "قطر سوراخ مرکزی",
+          "value": "22.23 mm",
+          "highlight": false
+        },
+        {
+          "key": "workpiece",
+          "label": "جنس قطعه‌کار",
+          "value": "سنگ",
+          "highlight": false
+        },
+        {
+          "key": "type",
+          "label": "نوع صفحه",
+          "value": "برش",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "نوع ساینده",
+          "value": "سیلیکون کارباید",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "metalworking",
+        "workshop"
+      ],
+      "features": [
+        "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه"
+      ],
+      "images": [
+        {
+          "url": "/images/abrasives.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس"
+        },
+        {
+          "url": "/images/workshop.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "محصولات سایش",
+        "ABRASIVES",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 7,
+      "isSample": true,
+      "seoTitle": "صفحه برش سنگ ۱۸۰ میلی‌متری KV-AD180-3 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه صفحه برش سنگ ۱۸۰ میلی‌متری مدل KV-AD180-3. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-27T10:00:00.000Z",
+      "updatedAt": "2026-08-27T10:00:00.000Z"
+    },
+    {
+      "id": "abrasives-4",
+      "sku": "KV-5004",
+      "slug": "konvex-disc-230-4",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "abrasives",
+      "subcategory": "برش",
+      "name": "صفحه برش بتن ۲۳۰ میلی‌متری",
+      "model": "KV-AD230-4",
+      "shortDescription": "قطر ۲۳۰ و ضخامت ۳ میلی‌متر؛ برای برش بتن.",
+      "longDescription": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر صفحه",
+          "value": "230 mm",
+          "highlight": true
+        },
+        {
+          "key": "thickness",
+          "label": "ضخامت",
+          "value": "3 mm",
+          "highlight": true
+        },
+        {
+          "key": "rpm",
+          "label": "حداکثر دور مجاز",
+          "value": "6600 rpm",
+          "highlight": true
+        },
+        {
+          "key": "bore",
+          "label": "قطر سوراخ مرکزی",
+          "value": "22.23 mm",
+          "highlight": false
+        },
+        {
+          "key": "workpiece",
+          "label": "جنس قطعه‌کار",
+          "value": "بتن",
+          "highlight": false
+        },
+        {
+          "key": "type",
+          "label": "نوع صفحه",
+          "value": "برش",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "نوع ساینده",
+          "value": "سیلیکون کارباید",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "metalworking",
+        "workshop",
+        "concrete",
+        "construction"
+      ],
+      "features": [
+        "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه"
+      ],
+      "images": [
+        {
+          "url": "/images/abrasives.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس"
+        },
+        {
+          "url": "/images/workshop.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "محصولات سایش",
+        "ABRASIVES",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 6,
+      "isSample": true,
+      "seoTitle": "صفحه برش بتن ۲۳۰ میلی‌متری KV-AD230-4 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه صفحه برش بتن ۲۳۰ میلی‌متری مدل KV-AD230-4. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-26T10:00:00.000Z",
+      "updatedAt": "2026-08-26T10:00:00.000Z"
+    },
+    {
+      "id": "abrasives-5",
+      "sku": "KV-5005",
+      "slug": "konvex-disc-125-5",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "abrasives",
+      "subcategory": "ساب",
+      "name": "صفحه ساب فلز ۱۲۵ میلی‌متری",
+      "model": "KV-AD125-5",
+      "shortDescription": "قطر ۱۲۵ و ضخامت ۶ میلی‌متر؛ برای ساب فلز.",
+      "longDescription": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر صفحه",
+          "value": "125 mm",
+          "highlight": true
+        },
+        {
+          "key": "thickness",
+          "label": "ضخامت",
+          "value": "6 mm",
+          "highlight": true
+        },
+        {
+          "key": "rpm",
+          "label": "حداکثر دور مجاز",
+          "value": "12200 rpm",
+          "highlight": true
+        },
+        {
+          "key": "bore",
+          "label": "قطر سوراخ مرکزی",
+          "value": "22.23 mm",
+          "highlight": false
+        },
+        {
+          "key": "workpiece",
+          "label": "جنس قطعه‌کار",
+          "value": "فلز",
+          "highlight": false
+        },
+        {
+          "key": "type",
+          "label": "نوع صفحه",
+          "value": "ساب",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "نوع ساینده",
+          "value": "آلومینیوم اکسید",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "metalworking",
+        "workshop"
+      ],
+      "features": [
+        "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه"
+      ],
+      "images": [
+        {
+          "url": "/images/abrasives.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس"
+        },
+        {
+          "url": "/images/workshop.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "محصولات سایش",
+        "ABRASIVES",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 5,
+      "isSample": true,
+      "seoTitle": "صفحه ساب فلز ۱۲۵ میلی‌متری KV-AD125-5 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه صفحه ساب فلز ۱۲۵ میلی‌متری مدل KV-AD125-5. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-25T10:00:00.000Z",
+      "updatedAt": "2026-08-25T10:00:00.000Z"
+    },
+    {
+      "id": "abrasives-6",
+      "sku": "KV-5006",
+      "slug": "konvex-disc-115-6",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "abrasives",
+      "subcategory": "برش",
+      "name": "صفحه برش استیل ۱۱۵ میلی‌متری",
+      "model": "KV-AD115-6",
+      "shortDescription": "قطر ۱۱۵ و ضخامت ۱ میلی‌متر؛ برای برش استیل.",
+      "longDescription": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر صفحه",
+          "value": "115 mm",
+          "highlight": true
+        },
+        {
+          "key": "thickness",
+          "label": "ضخامت",
+          "value": "1 mm",
+          "highlight": true
+        },
+        {
+          "key": "rpm",
+          "label": "حداکثر دور مجاز",
+          "value": "13300 rpm",
+          "highlight": true
+        },
+        {
+          "key": "bore",
+          "label": "قطر سوراخ مرکزی",
+          "value": "22.23 mm",
+          "highlight": false
+        },
+        {
+          "key": "workpiece",
+          "label": "جنس قطعه‌کار",
+          "value": "استیل",
+          "highlight": false
+        },
+        {
+          "key": "type",
+          "label": "نوع صفحه",
+          "value": "برش",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "نوع ساینده",
+          "value": "آلومینیوم اکسید",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "metalworking",
+        "workshop"
+      ],
+      "features": [
+        "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه"
+      ],
+      "images": [
+        {
+          "url": "/images/abrasives.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس"
+        },
+        {
+          "url": "/images/workshop.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "محصولات سایش",
+        "ABRASIVES",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 4,
+      "isSample": true,
+      "seoTitle": "صفحه برش استیل ۱۱۵ میلی‌متری KV-AD115-6 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه صفحه برش استیل ۱۱۵ میلی‌متری مدل KV-AD115-6. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-24T10:00:00.000Z",
+      "updatedAt": "2026-08-24T10:00:00.000Z"
+    },
+    {
+      "id": "accessories-1",
+      "sku": "KV-6001",
+      "slug": "konvex-meter-case",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "accessories",
+      "subcategory": "",
+      "name": "کیف نگهداری متر لیزری",
+      "model": "KV-BG01",
+      "shortDescription": "کیف محافظ برای نگهداری و حمل متر لیزری؛ سازگاری ابعاد پیش از سفارش بررسی شود.",
+      "longDescription": "برای حمل و نگهداری متر لیزری، کیف متناسب با ابعاد دستگاه انتخاب کنید. تصویر این محصول نمایشی است و تصویر مجموعه متعلقات برای معرفی خانواده محصول استفاده شده است.",
+      "specifications": [
+        {
+          "key": "type",
+          "label": "نوع متعلقات",
+          "value": "کیف",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس",
+          "value": "پارچه مقاوم",
+          "highlight": false
+        },
+        {
+          "key": "dimensions",
+          "label": "ابعاد داخلی",
+          "value": "130 × 65 × 40 mm",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "equipment"
+      ],
+      "features": [],
+      "images": [
+        {
+          "url": "/images/accessories.webp",
+          "alt": "تصویر نمونه متعلقات متر لیزری؛ کیف نگهداری و بند مچی"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "متعلقات",
+        "ACCESSORIES",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [
+        "laser-distance-meters-1",
+        "laser-distance-meters-2",
+        "laser-distance-meters-3",
+        "laser-distance-meters-4",
+        "laser-distance-meters-5",
+        "laser-distance-meters-6"
+      ],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 9,
+      "isSample": true,
+      "seoTitle": "کیف نگهداری متر لیزری KV-BG01 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه کیف نگهداری متر لیزری مدل KV-BG01. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-29T10:00:00.000Z",
+      "updatedAt": "2026-08-29T10:00:00.000Z"
+    },
+    {
+      "id": "accessories-2",
+      "sku": "KV-6002",
+      "slug": "konvex-meter-wrist-strap",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "accessories",
+      "subcategory": "",
+      "name": "بند مچی متر لیزری",
+      "model": "KV-WS01",
+      "shortDescription": "متعلقات نگهداری متر لیزری؛ نوع محل اتصال دستگاه باید بررسی شود.",
+      "longDescription": "بند مچی، جایگزین نگهداری صحیح دستگاه نیست. پیش از استفاده، سلامت بند و سازگاری محل اتصال را بررسی کنید. تصویر این محصول نمایشی است و تصویر مجموعه متعلقات برای معرفی خانواده محصول استفاده شده است.",
+      "specifications": [
+        {
+          "key": "type",
+          "label": "نوع متعلقات",
+          "value": "بند مچی",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس",
+          "value": "نایلون",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "equipment"
+      ],
+      "features": [],
+      "images": [
+        {
+          "url": "/images/accessories.webp",
+          "alt": "تصویر نمونه متعلقات متر لیزری؛ بند مچی و کیف نگهداری"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "متعلقات",
+        "ACCESSORIES",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [
+        "laser-distance-meters-1",
+        "laser-distance-meters-2",
+        "laser-distance-meters-3",
+        "laser-distance-meters-4",
+        "laser-distance-meters-5",
+        "laser-distance-meters-6"
+      ],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 8,
+      "isSample": true,
+      "seoTitle": "بند مچی متر لیزری KV-WS01 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه بند مچی متر لیزری مدل KV-WS01. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-28T10:00:00.000Z",
+      "updatedAt": "2026-08-28T10:00:00.000Z"
+    },
+    {
+      "id": "concrete-chisels-1",
+      "sku": "KV-1001",
+      "slug": "konvex-chisel-1-400",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "concrete-chisels",
+      "subcategory": "نوک‌تیز",
+      "name": "قلم بتن‌کن نوک‌تیز ۴۰۰ میلی‌متری",
+      "model": "KV-CH400-1",
+      "shortDescription": "قلم نوک‌تیز با اتصال SDS Max؛ برای کار روی بتن و مصالح سازگار.",
+      "longDescription": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "400 mm",
+          "highlight": true
+        },
+        {
+          "key": "shank",
+          "label": "نوع اتصال",
+          "value": "SDS Max",
+          "highlight": true
+        },
+        {
+          "key": "diameter",
+          "label": "قطر بدنه",
+          "value": "18 mm",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع قلم",
+          "value": "نوک‌تیز",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس",
+          "value": "فولاد آلیاژی",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "720 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "concrete",
+        "construction"
+      ],
+      "features": [
+        "انتخاب شکل نوک متناسب با نوع تخریب",
+        "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "بدنه فولادی با مقطع مناسب انتقال ضربه"
+      ],
+      "images": [
+        {
+          "url": "/images/chisels.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "قلم بتن‌کن",
+        "CONCRETE",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد قلم بتن‌کن"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": true,
+      "isNew": true,
+      "popularityRank": 9,
+      "isSample": true,
+      "seoTitle": "قلم بتن‌کن نوک‌تیز ۴۰۰ میلی‌متری KV-CH400-1 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن نوک‌تیز ۴۰۰ میلی‌متری مدل KV-CH400-1. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-29T10:00:00.000Z",
+      "updatedAt": "2026-08-29T10:00:00.000Z"
+    },
+    {
+      "id": "concrete-chisels-2",
+      "sku": "KV-1002",
+      "slug": "konvex-chisel-2-250",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "concrete-chisels",
+      "subcategory": "تخت",
+      "name": "قلم بتن‌کن تخت ۲۵۰ میلی‌متری",
+      "model": "KV-CH250-2",
+      "shortDescription": "قلم تخت با اتصال SDS Plus؛ برای کار روی بتن و مصالح سازگار.",
+      "longDescription": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "250 mm",
+          "highlight": true
+        },
+        {
+          "key": "shank",
+          "label": "نوع اتصال",
+          "value": "SDS Plus",
+          "highlight": true
+        },
+        {
+          "key": "diameter",
+          "label": "قطر بدنه",
+          "value": "14 mm",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع قلم",
+          "value": "تخت",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس",
+          "value": "فولاد آلیاژی",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "450 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "concrete",
+        "construction"
+      ],
+      "features": [
+        "انتخاب شکل نوک متناسب با نوع تخریب",
+        "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "بدنه فولادی با مقطع مناسب انتقال ضربه"
+      ],
+      "images": [
+        {
+          "url": "/images/chisels.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "قلم بتن‌کن",
+        "CONCRETE",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد قلم بتن‌کن"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": true,
+      "popularityRank": 8,
+      "isSample": true,
+      "seoTitle": "قلم بتن‌کن تخت ۲۵۰ میلی‌متری KV-CH250-2 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن تخت ۲۵۰ میلی‌متری مدل KV-CH250-2. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-28T10:00:00.000Z",
+      "updatedAt": "2026-08-28T10:00:00.000Z"
+    },
+    {
+      "id": "concrete-chisels-3",
+      "sku": "KV-1003",
+      "slug": "konvex-chisel-3-400",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "concrete-chisels",
+      "subcategory": "شیارزن",
+      "name": "قلم بتن‌کن شیارزن ۴۰۰ میلی‌متری",
+      "model": "KV-CH400-3",
+      "shortDescription": "قلم شیارزن با اتصال SDS Max؛ برای کار روی بتن و مصالح سازگار.",
+      "longDescription": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "400 mm",
+          "highlight": true
+        },
+        {
+          "key": "shank",
+          "label": "نوع اتصال",
+          "value": "SDS Max",
+          "highlight": true
+        },
+        {
+          "key": "diameter",
+          "label": "قطر بدنه",
+          "value": "18 mm",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع قلم",
+          "value": "شیارزن",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس",
+          "value": "فولاد آلیاژی",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "720 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "concrete",
+        "construction"
+      ],
+      "features": [
+        "انتخاب شکل نوک متناسب با نوع تخریب",
+        "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "بدنه فولادی با مقطع مناسب انتقال ضربه"
+      ],
+      "images": [
+        {
+          "url": "/images/chisels.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "قلم بتن‌کن",
+        "CONCRETE",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد قلم بتن‌کن"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 7,
+      "isSample": true,
+      "seoTitle": "قلم بتن‌کن شیارزن ۴۰۰ میلی‌متری KV-CH400-3 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن شیارزن ۴۰۰ میلی‌متری مدل KV-CH400-3. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-27T10:00:00.000Z",
+      "updatedAt": "2026-08-27T10:00:00.000Z"
+    },
+    {
+      "id": "concrete-chisels-4",
+      "sku": "KV-1004",
+      "slug": "konvex-chisel-4-600",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "concrete-chisels",
+      "subcategory": "تخت پهن",
+      "name": "قلم بتن‌کن تخت پهن ۶۰۰ میلی‌متری",
+      "model": "KV-CH600-4",
+      "shortDescription": "قلم تخت پهن با اتصال Hex 30؛ برای کار روی بتن و مصالح سازگار.",
+      "longDescription": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "600 mm",
+          "highlight": true
+        },
+        {
+          "key": "shank",
+          "label": "نوع اتصال",
+          "value": "Hex 30",
+          "highlight": true
+        },
+        {
+          "key": "diameter",
+          "label": "قطر بدنه",
+          "value": "30 mm",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع قلم",
+          "value": "تخت پهن",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس",
+          "value": "فولاد آلیاژی",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "1080 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "concrete",
+        "construction"
+      ],
+      "features": [
+        "انتخاب شکل نوک متناسب با نوع تخریب",
+        "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "بدنه فولادی با مقطع مناسب انتقال ضربه"
+      ],
+      "images": [
+        {
+          "url": "/images/chisels.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "قلم بتن‌کن",
+        "CONCRETE",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد قلم بتن‌کن"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 6,
+      "isSample": true,
+      "seoTitle": "قلم بتن‌کن تخت پهن ۶۰۰ میلی‌متری KV-CH600-4 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن تخت پهن ۶۰۰ میلی‌متری مدل KV-CH600-4. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-26T10:00:00.000Z",
+      "updatedAt": "2026-08-26T10:00:00.000Z"
+    },
+    {
+      "id": "concrete-chisels-5",
+      "sku": "KV-1005",
+      "slug": "konvex-chisel-5-280",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "concrete-chisels",
+      "subcategory": "نوک‌تیز",
+      "name": "قلم بتن‌کن نوک‌تیز ۲۸۰ میلی‌متری",
+      "model": "KV-CH280-5",
+      "shortDescription": "قلم نوک‌تیز با اتصال SDS Plus؛ برای کار روی بتن و مصالح سازگار.",
+      "longDescription": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "280 mm",
+          "highlight": true
+        },
+        {
+          "key": "shank",
+          "label": "نوع اتصال",
+          "value": "SDS Plus",
+          "highlight": true
+        },
+        {
+          "key": "diameter",
+          "label": "قطر بدنه",
+          "value": "14 mm",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع قلم",
+          "value": "نوک‌تیز",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس",
+          "value": "فولاد آلیاژی",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "504 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "concrete",
+        "construction"
+      ],
+      "features": [
+        "انتخاب شکل نوک متناسب با نوع تخریب",
+        "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "بدنه فولادی با مقطع مناسب انتقال ضربه"
+      ],
+      "images": [
+        {
+          "url": "/images/chisels.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "قلم بتن‌کن",
+        "CONCRETE",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد قلم بتن‌کن"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 5,
+      "isSample": true,
+      "seoTitle": "قلم بتن‌کن نوک‌تیز ۲۸۰ میلی‌متری KV-CH280-5 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن نوک‌تیز ۲۸۰ میلی‌متری مدل KV-CH280-5. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-25T10:00:00.000Z",
+      "updatedAt": "2026-08-25T10:00:00.000Z"
+    },
+    {
+      "id": "concrete-chisels-6",
+      "sku": "KV-1006",
+      "slug": "konvex-chisel-6-400",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "concrete-chisels",
+      "subcategory": "تخت",
+      "name": "قلم بتن‌کن تخت ۴۰۰ میلی‌متری",
+      "model": "KV-CH400-6",
+      "shortDescription": "قلم تخت با اتصال Hex 17؛ برای کار روی بتن و مصالح سازگار.",
+      "longDescription": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "400 mm",
+          "highlight": true
+        },
+        {
+          "key": "shank",
+          "label": "نوع اتصال",
+          "value": "Hex 17",
+          "highlight": true
+        },
+        {
+          "key": "diameter",
+          "label": "قطر بدنه",
+          "value": "17 mm",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع قلم",
+          "value": "تخت",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس",
+          "value": "فولاد آلیاژی",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "720 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "concrete",
+        "construction"
+      ],
+      "features": [
+        "انتخاب شکل نوک متناسب با نوع تخریب",
+        "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "بدنه فولادی با مقطع مناسب انتقال ضربه"
+      ],
+      "images": [
+        {
+          "url": "/images/chisels.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "قلم بتن‌کن",
+        "CONCRETE",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد قلم بتن‌کن"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 4,
+      "isSample": true,
+      "seoTitle": "قلم بتن‌کن تخت ۴۰۰ میلی‌متری KV-CH400-6 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن تخت ۴۰۰ میلی‌متری مدل KV-CH400-6. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-24T10:00:00.000Z",
+      "updatedAt": "2026-08-24T10:00:00.000Z"
+    },
+    {
+      "id": "industrial-casters-1",
+      "sku": "KV-2001",
+      "slug": "konvex-caster-150-1",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "industrial-casters",
+      "subcategory": "گردان",
+      "name": "چرخ صنعتی گردان ترمزدار ۱۵۰",
+      "model": "KV-IC150-1",
+      "shortDescription": "رویه پلی‌یورتان، ظرفیت اسمی نمونه ۴۰۰ کیلوگرم برای هر چرخ.",
+      "longDescription": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر چرخ",
+          "value": "150 mm",
+          "highlight": true
+        },
+        {
+          "key": "capacity",
+          "label": "ظرفیت هر چرخ",
+          "value": "400 kg",
+          "highlight": true
+        },
+        {
+          "key": "material",
+          "label": "جنس رویه",
+          "value": "پلی‌یورتان",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع حرکت",
+          "value": "گردان",
+          "highlight": false
+        },
+        {
+          "key": "brake",
+          "label": "ترمز",
+          "value": "دارد",
+          "highlight": false
+        },
+        {
+          "key": "height",
+          "label": "ارتفاع نصب",
+          "value": "198 mm",
+          "highlight": false
+        },
+        {
+          "key": "mount",
+          "label": "نوع نصب",
+          "value": "صفحه‌ای چهارپیچ",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "2.1 kg",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "industrial",
+        "equipment",
+        "workshop"
+      ],
+      "features": [
+        "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "مدل ثابت یا گردان برای طراحی مسیر حرکت"
+      ],
+      "images": [
+        {
+          "url": "/images/caster.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "چرخ صنعتی",
+        "INDUSTRIAL",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": true,
+      "isNew": true,
+      "popularityRank": 9,
+      "isSample": true,
+      "seoTitle": "چرخ صنعتی گردان ترمزدار ۱۵۰ KV-IC150-1 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی گردان ترمزدار ۱۵۰ مدل KV-IC150-1. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-29T10:00:00.000Z",
+      "updatedAt": "2026-08-29T10:00:00.000Z"
+    },
+    {
+      "id": "industrial-casters-2",
+      "sku": "KV-2002",
+      "slug": "konvex-caster-100-2",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "industrial-casters",
+      "subcategory": "ثابت",
+      "name": "چرخ صنعتی ثابت ۱۰۰",
+      "model": "KV-IC100-2",
+      "shortDescription": "رویه پلی‌یورتان، ظرفیت اسمی نمونه ۲۰۰ کیلوگرم برای هر چرخ.",
+      "longDescription": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر چرخ",
+          "value": "100 mm",
+          "highlight": true
+        },
+        {
+          "key": "capacity",
+          "label": "ظرفیت هر چرخ",
+          "value": "200 kg",
+          "highlight": true
+        },
+        {
+          "key": "material",
+          "label": "جنس رویه",
+          "value": "پلی‌یورتان",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع حرکت",
+          "value": "ثابت",
+          "highlight": false
+        },
+        {
+          "key": "brake",
+          "label": "ترمز",
+          "value": "ندارد",
+          "highlight": false
+        },
+        {
+          "key": "height",
+          "label": "ارتفاع نصب",
+          "value": "148 mm",
+          "highlight": false
+        },
+        {
+          "key": "mount",
+          "label": "نوع نصب",
+          "value": "صفحه‌ای چهارپیچ",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "1.4 kg",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "industrial",
+        "equipment",
+        "workshop"
+      ],
+      "features": [
+        "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "مدل ثابت یا گردان برای طراحی مسیر حرکت"
+      ],
+      "images": [
+        {
+          "url": "/images/caster.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "چرخ صنعتی",
+        "INDUSTRIAL",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": true,
+      "popularityRank": 8,
+      "isSample": true,
+      "seoTitle": "چرخ صنعتی ثابت ۱۰۰ KV-IC100-2 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی ثابت ۱۰۰ مدل KV-IC100-2. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-28T10:00:00.000Z",
+      "updatedAt": "2026-08-28T10:00:00.000Z"
+    },
+    {
+      "id": "industrial-casters-3",
+      "sku": "KV-2003",
+      "slug": "konvex-caster-125-3",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "industrial-casters",
+      "subcategory": "گردان",
+      "name": "چرخ صنعتی گردان ترمزدار ۱۲۵",
+      "model": "KV-IC125-3",
+      "shortDescription": "رویه لاستیک، ظرفیت اسمی نمونه ۲۵۰ کیلوگرم برای هر چرخ.",
+      "longDescription": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر چرخ",
+          "value": "125 mm",
+          "highlight": true
+        },
+        {
+          "key": "capacity",
+          "label": "ظرفیت هر چرخ",
+          "value": "250 kg",
+          "highlight": true
+        },
+        {
+          "key": "material",
+          "label": "جنس رویه",
+          "value": "لاستیک",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع حرکت",
+          "value": "گردان",
+          "highlight": false
+        },
+        {
+          "key": "brake",
+          "label": "ترمز",
+          "value": "دارد",
+          "highlight": false
+        },
+        {
+          "key": "height",
+          "label": "ارتفاع نصب",
+          "value": "173 mm",
+          "highlight": false
+        },
+        {
+          "key": "mount",
+          "label": "نوع نصب",
+          "value": "صفحه‌ای چهارپیچ",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "1.8 kg",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "industrial",
+        "equipment",
+        "workshop"
+      ],
+      "features": [
+        "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "مدل ثابت یا گردان برای طراحی مسیر حرکت"
+      ],
+      "images": [
+        {
+          "url": "/images/caster.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "چرخ صنعتی",
+        "INDUSTRIAL",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 7,
+      "isSample": true,
+      "seoTitle": "چرخ صنعتی گردان ترمزدار ۱۲۵ KV-IC125-3 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی گردان ترمزدار ۱۲۵ مدل KV-IC125-3. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-27T10:00:00.000Z",
+      "updatedAt": "2026-08-27T10:00:00.000Z"
+    },
+    {
+      "id": "industrial-casters-4",
+      "sku": "KV-2004",
+      "slug": "konvex-caster-200-4",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "industrial-casters",
+      "subcategory": "گردان",
+      "name": "چرخ صنعتی گردان ۲۰۰",
+      "model": "KV-IC200-4",
+      "shortDescription": "رویه پلی‌یورتان، ظرفیت اسمی نمونه ۶۰۰ کیلوگرم برای هر چرخ.",
+      "longDescription": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر چرخ",
+          "value": "200 mm",
+          "highlight": true
+        },
+        {
+          "key": "capacity",
+          "label": "ظرفیت هر چرخ",
+          "value": "600 kg",
+          "highlight": true
+        },
+        {
+          "key": "material",
+          "label": "جنس رویه",
+          "value": "پلی‌یورتان",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع حرکت",
+          "value": "گردان",
+          "highlight": false
+        },
+        {
+          "key": "brake",
+          "label": "ترمز",
+          "value": "ندارد",
+          "highlight": false
+        },
+        {
+          "key": "height",
+          "label": "ارتفاع نصب",
+          "value": "248 mm",
+          "highlight": false
+        },
+        {
+          "key": "mount",
+          "label": "نوع نصب",
+          "value": "صفحه‌ای چهارپیچ",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "2.9 kg",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "industrial",
+        "equipment",
+        "workshop"
+      ],
+      "features": [
+        "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "مدل ثابت یا گردان برای طراحی مسیر حرکت"
+      ],
+      "images": [
+        {
+          "url": "/images/caster.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "چرخ صنعتی",
+        "INDUSTRIAL",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 6,
+      "isSample": true,
+      "seoTitle": "چرخ صنعتی گردان ۲۰۰ KV-IC200-4 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی گردان ۲۰۰ مدل KV-IC200-4. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-26T10:00:00.000Z",
+      "updatedAt": "2026-08-26T10:00:00.000Z"
+    },
+    {
+      "id": "industrial-casters-5",
+      "sku": "KV-2005",
+      "slug": "konvex-caster-100-5",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "industrial-casters",
+      "subcategory": "گردان",
+      "name": "چرخ صنعتی گردان ترمزدار ۱۰۰",
+      "model": "KV-IC100-5",
+      "shortDescription": "رویه نایلون، ظرفیت اسمی نمونه ۱۵۰ کیلوگرم برای هر چرخ.",
+      "longDescription": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر چرخ",
+          "value": "100 mm",
+          "highlight": true
+        },
+        {
+          "key": "capacity",
+          "label": "ظرفیت هر چرخ",
+          "value": "150 kg",
+          "highlight": true
+        },
+        {
+          "key": "material",
+          "label": "جنس رویه",
+          "value": "نایلون",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع حرکت",
+          "value": "گردان",
+          "highlight": false
+        },
+        {
+          "key": "brake",
+          "label": "ترمز",
+          "value": "دارد",
+          "highlight": false
+        },
+        {
+          "key": "height",
+          "label": "ارتفاع نصب",
+          "value": "148 mm",
+          "highlight": false
+        },
+        {
+          "key": "mount",
+          "label": "نوع نصب",
+          "value": "صفحه‌ای چهارپیچ",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "1.4 kg",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "industrial",
+        "equipment",
+        "workshop"
+      ],
+      "features": [
+        "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "مدل ثابت یا گردان برای طراحی مسیر حرکت"
+      ],
+      "images": [
+        {
+          "url": "/images/caster.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "چرخ صنعتی",
+        "INDUSTRIAL",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 5,
+      "isSample": true,
+      "seoTitle": "چرخ صنعتی گردان ترمزدار ۱۰۰ KV-IC100-5 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی گردان ترمزدار ۱۰۰ مدل KV-IC100-5. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-25T10:00:00.000Z",
+      "updatedAt": "2026-08-25T10:00:00.000Z"
+    },
+    {
+      "id": "industrial-casters-6",
+      "sku": "KV-2006",
+      "slug": "konvex-caster-160-6",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "industrial-casters",
+      "subcategory": "ثابت",
+      "name": "چرخ صنعتی ثابت ۱۶۰",
+      "model": "KV-IC160-6",
+      "shortDescription": "رویه چدن، ظرفیت اسمی نمونه ۵۰۰ کیلوگرم برای هر چرخ.",
+      "longDescription": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+      "specifications": [
+        {
+          "key": "diameter",
+          "label": "قطر چرخ",
+          "value": "160 mm",
+          "highlight": true
+        },
+        {
+          "key": "capacity",
+          "label": "ظرفیت هر چرخ",
+          "value": "500 kg",
+          "highlight": true
+        },
+        {
+          "key": "material",
+          "label": "جنس رویه",
+          "value": "چدن",
+          "highlight": true
+        },
+        {
+          "key": "type",
+          "label": "نوع حرکت",
+          "value": "ثابت",
+          "highlight": false
+        },
+        {
+          "key": "brake",
+          "label": "ترمز",
+          "value": "ندارد",
+          "highlight": false
+        },
+        {
+          "key": "height",
+          "label": "ارتفاع نصب",
+          "value": "208 mm",
+          "highlight": false
+        },
+        {
+          "key": "mount",
+          "label": "نوع نصب",
+          "value": "صفحه‌ای چهارپیچ",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "2.3 kg",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "industrial",
+        "equipment",
+        "workshop"
+      ],
+      "features": [
+        "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "مدل ثابت یا گردان برای طراحی مسیر حرکت"
+      ],
+      "images": [
+        {
+          "url": "/images/caster.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "چرخ صنعتی",
+        "INDUSTRIAL",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 4,
+      "isSample": true,
+      "seoTitle": "چرخ صنعتی ثابت ۱۶۰ KV-IC160-6 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی ثابت ۱۶۰ مدل KV-IC160-6. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-24T10:00:00.000Z",
+      "updatedAt": "2026-08-24T10:00:00.000Z"
+    },
+    {
+      "id": "laser-distance-meters-1",
+      "sku": "KV-4001",
+      "slug": "konvex-lm-60",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "laser-distance-meters",
+      "subcategory": "",
+      "name": "متر لیزری ۶۰ متری",
+      "model": "KV-LM60",
+      "shortDescription": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+      "longDescription": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+      "specifications": [
+        {
+          "key": "range",
+          "label": "برد اندازه‌گیری",
+          "value": "60 m",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±1.5 mm",
+          "highlight": true
+        },
+        {
+          "key": "protection",
+          "label": "درجه حفاظت",
+          "value": "IP54",
+          "highlight": true
+        },
+        {
+          "key": "measurement",
+          "label": "نوع اندازه‌گیری",
+          "value": "فاصله، مساحت و حجم",
+          "highlight": false
+        },
+        {
+          "key": "battery",
+          "label": "نوع باتری",
+          "value": "2 × AAA",
+          "highlight": false
+        },
+        {
+          "key": "bluetooth",
+          "label": "بلوتوث",
+          "value": "ندارد",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "120 g",
+          "highlight": false
+        },
+        {
+          "key": "dimensions",
+          "label": "ابعاد",
+          "value": "115 × 50 × 28 mm",
+          "highlight": false
+        },
+        {
+          "key": "laser",
+          "label": "کلاس لیزر",
+          "value": "Class 2",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "concrete",
+        "workshop"
+      ],
+      "features": [
+        "محاسبه فاصله، مساحت و حجم",
+        "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "حافظه اندازه‌گیری و تغییر واحد"
+      ],
+      "images": [
+        {
+          "url": "/images/laser.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس"
+        },
+        {
+          "url": "/images/measurement.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "متر لیزری",
+        "MEASUREMENT",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [
+        "accessories-1",
+        "accessories-2"
+      ],
+      "included": [
+        "متر لیزری",
+        "کیف نگهداری نمونه",
+        "بند مچی"
+      ],
+      "faq": [
+        {
+          "question": "برای فضای داخلی، چه بردی مناسب است؟",
+          "answer": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند."
+        },
+        {
+          "question": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+          "answer": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود."
+        },
+        {
+          "question": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+          "answer": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید."
+        }
+      ],
+      "featured": true,
+      "isNew": true,
+      "popularityRank": 9,
+      "isSample": true,
+      "seoTitle": "متر لیزری ۶۰ متری KV-LM60 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۶۰ متری مدل KV-LM60. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-29T10:00:00.000Z",
+      "updatedAt": "2026-08-29T10:00:00.000Z"
+    },
+    {
+      "id": "laser-distance-meters-2",
+      "sku": "KV-4002",
+      "slug": "konvex-lm-40",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "laser-distance-meters",
+      "subcategory": "",
+      "name": "متر لیزری ۴۰ متری",
+      "model": "KV-LM40",
+      "shortDescription": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+      "longDescription": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+      "specifications": [
+        {
+          "key": "range",
+          "label": "برد اندازه‌گیری",
+          "value": "40 m",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±2 mm",
+          "highlight": true
+        },
+        {
+          "key": "protection",
+          "label": "درجه حفاظت",
+          "value": "IP54",
+          "highlight": true
+        },
+        {
+          "key": "measurement",
+          "label": "نوع اندازه‌گیری",
+          "value": "فاصله، مساحت و حجم",
+          "highlight": false
+        },
+        {
+          "key": "battery",
+          "label": "نوع باتری",
+          "value": "2 × AAA",
+          "highlight": false
+        },
+        {
+          "key": "bluetooth",
+          "label": "بلوتوث",
+          "value": "ندارد",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "120 g",
+          "highlight": false
+        },
+        {
+          "key": "dimensions",
+          "label": "ابعاد",
+          "value": "115 × 50 × 28 mm",
+          "highlight": false
+        },
+        {
+          "key": "laser",
+          "label": "کلاس لیزر",
+          "value": "Class 2",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "concrete",
+        "workshop"
+      ],
+      "features": [
+        "محاسبه فاصله، مساحت و حجم",
+        "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "حافظه اندازه‌گیری و تغییر واحد"
+      ],
+      "images": [
+        {
+          "url": "/images/laser.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس"
+        },
+        {
+          "url": "/images/measurement.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "متر لیزری",
+        "MEASUREMENT",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [
+        "accessories-1",
+        "accessories-2"
+      ],
+      "included": [
+        "متر لیزری",
+        "کیف نگهداری نمونه",
+        "بند مچی"
+      ],
+      "faq": [
+        {
+          "question": "برای فضای داخلی، چه بردی مناسب است؟",
+          "answer": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند."
+        },
+        {
+          "question": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+          "answer": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود."
+        },
+        {
+          "question": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+          "answer": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید."
+        }
+      ],
+      "featured": false,
+      "isNew": true,
+      "popularityRank": 8,
+      "isSample": true,
+      "seoTitle": "متر لیزری ۴۰ متری KV-LM40 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۴۰ متری مدل KV-LM40. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-28T10:00:00.000Z",
+      "updatedAt": "2026-08-28T10:00:00.000Z"
+    },
+    {
+      "id": "laser-distance-meters-3",
+      "sku": "KV-4003",
+      "slug": "konvex-lm-80-pro",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "laser-distance-meters",
+      "subcategory": "",
+      "name": "متر لیزری ۸۰ متری حرفه‌ای",
+      "model": "KV-LM80 PRO",
+      "shortDescription": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+      "longDescription": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+      "specifications": [
+        {
+          "key": "range",
+          "label": "برد اندازه‌گیری",
+          "value": "80 m",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±1.5 mm",
+          "highlight": true
+        },
+        {
+          "key": "protection",
+          "label": "درجه حفاظت",
+          "value": "IP65",
+          "highlight": true
+        },
+        {
+          "key": "measurement",
+          "label": "نوع اندازه‌گیری",
+          "value": "فاصله، مساحت و حجم",
+          "highlight": false
+        },
+        {
+          "key": "battery",
+          "label": "نوع باتری",
+          "value": "لیتیومی شارژی",
+          "highlight": false
+        },
+        {
+          "key": "bluetooth",
+          "label": "بلوتوث",
+          "value": "دارد",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "165 g",
+          "highlight": false
+        },
+        {
+          "key": "dimensions",
+          "label": "ابعاد",
+          "value": "115 × 50 × 28 mm",
+          "highlight": false
+        },
+        {
+          "key": "laser",
+          "label": "کلاس لیزر",
+          "value": "Class 2",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "concrete",
+        "workshop"
+      ],
+      "features": [
+        "محاسبه فاصله، مساحت و حجم",
+        "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "حافظه اندازه‌گیری و تغییر واحد"
+      ],
+      "images": [
+        {
+          "url": "/images/laser.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس"
+        },
+        {
+          "url": "/images/measurement.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "متر لیزری",
+        "MEASUREMENT",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [
+        "accessories-1",
+        "accessories-2"
+      ],
+      "included": [
+        "متر لیزری",
+        "کیف نگهداری نمونه",
+        "بند مچی"
+      ],
+      "faq": [
+        {
+          "question": "برای فضای داخلی، چه بردی مناسب است؟",
+          "answer": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند."
+        },
+        {
+          "question": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+          "answer": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود."
+        },
+        {
+          "question": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+          "answer": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 7,
+      "isSample": true,
+      "seoTitle": "متر لیزری ۸۰ متری حرفه‌ای KV-LM80 PRO | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۸۰ متری حرفه‌ای مدل KV-LM80 PRO. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-27T10:00:00.000Z",
+      "updatedAt": "2026-08-27T10:00:00.000Z"
+    },
+    {
+      "id": "laser-distance-meters-4",
+      "sku": "KV-4004",
+      "slug": "konvex-lm-100-pro",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "laser-distance-meters",
+      "subcategory": "",
+      "name": "متر لیزری ۱۰۰ متری حرفه‌ای",
+      "model": "KV-LM100 PRO",
+      "shortDescription": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+      "longDescription": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+      "specifications": [
+        {
+          "key": "range",
+          "label": "برد اندازه‌گیری",
+          "value": "100 m",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±1.5 mm",
+          "highlight": true
+        },
+        {
+          "key": "protection",
+          "label": "درجه حفاظت",
+          "value": "IP65",
+          "highlight": true
+        },
+        {
+          "key": "measurement",
+          "label": "نوع اندازه‌گیری",
+          "value": "فاصله، مساحت و حجم",
+          "highlight": false
+        },
+        {
+          "key": "battery",
+          "label": "نوع باتری",
+          "value": "لیتیومی شارژی",
+          "highlight": false
+        },
+        {
+          "key": "bluetooth",
+          "label": "بلوتوث",
+          "value": "دارد",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "165 g",
+          "highlight": false
+        },
+        {
+          "key": "dimensions",
+          "label": "ابعاد",
+          "value": "115 × 50 × 28 mm",
+          "highlight": false
+        },
+        {
+          "key": "laser",
+          "label": "کلاس لیزر",
+          "value": "Class 2",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "concrete",
+        "workshop"
+      ],
+      "features": [
+        "محاسبه فاصله، مساحت و حجم",
+        "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "حافظه اندازه‌گیری و تغییر واحد"
+      ],
+      "images": [
+        {
+          "url": "/images/laser.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس"
+        },
+        {
+          "url": "/images/measurement.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "متر لیزری",
+        "MEASUREMENT",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [
+        "accessories-1",
+        "accessories-2"
+      ],
+      "included": [
+        "متر لیزری",
+        "کیف نگهداری نمونه",
+        "بند مچی"
+      ],
+      "faq": [
+        {
+          "question": "برای فضای داخلی، چه بردی مناسب است؟",
+          "answer": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند."
+        },
+        {
+          "question": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+          "answer": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود."
+        },
+        {
+          "question": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+          "answer": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 6,
+      "isSample": true,
+      "seoTitle": "متر لیزری ۱۰۰ متری حرفه‌ای KV-LM100 PRO | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۱۰۰ متری حرفه‌ای مدل KV-LM100 PRO. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-26T10:00:00.000Z",
+      "updatedAt": "2026-08-26T10:00:00.000Z"
+    },
+    {
+      "id": "laser-distance-meters-5",
+      "sku": "KV-4005",
+      "slug": "konvex-lm-30",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "laser-distance-meters",
+      "subcategory": "",
+      "name": "متر لیزری ۳۰ متری",
+      "model": "KV-LM30",
+      "shortDescription": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+      "longDescription": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+      "specifications": [
+        {
+          "key": "range",
+          "label": "برد اندازه‌گیری",
+          "value": "30 m",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±2 mm",
+          "highlight": true
+        },
+        {
+          "key": "protection",
+          "label": "درجه حفاظت",
+          "value": "IP54",
+          "highlight": true
+        },
+        {
+          "key": "measurement",
+          "label": "نوع اندازه‌گیری",
+          "value": "فاصله، مساحت و حجم",
+          "highlight": false
+        },
+        {
+          "key": "battery",
+          "label": "نوع باتری",
+          "value": "2 × AAA",
+          "highlight": false
+        },
+        {
+          "key": "bluetooth",
+          "label": "بلوتوث",
+          "value": "ندارد",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "120 g",
+          "highlight": false
+        },
+        {
+          "key": "dimensions",
+          "label": "ابعاد",
+          "value": "115 × 50 × 28 mm",
+          "highlight": false
+        },
+        {
+          "key": "laser",
+          "label": "کلاس لیزر",
+          "value": "Class 2",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "concrete",
+        "workshop"
+      ],
+      "features": [
+        "محاسبه فاصله، مساحت و حجم",
+        "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "حافظه اندازه‌گیری و تغییر واحد"
+      ],
+      "images": [
+        {
+          "url": "/images/laser.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس"
+        },
+        {
+          "url": "/images/measurement.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "متر لیزری",
+        "MEASUREMENT",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [
+        "accessories-1",
+        "accessories-2"
+      ],
+      "included": [
+        "متر لیزری",
+        "کیف نگهداری نمونه",
+        "بند مچی"
+      ],
+      "faq": [
+        {
+          "question": "برای فضای داخلی، چه بردی مناسب است؟",
+          "answer": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند."
+        },
+        {
+          "question": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+          "answer": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود."
+        },
+        {
+          "question": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+          "answer": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 5,
+      "isSample": true,
+      "seoTitle": "متر لیزری ۳۰ متری KV-LM30 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۳۰ متری مدل KV-LM30. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-25T10:00:00.000Z",
+      "updatedAt": "2026-08-25T10:00:00.000Z"
+    },
+    {
+      "id": "laser-distance-meters-6",
+      "sku": "KV-4006",
+      "slug": "konvex-lm-120-pro",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "laser-distance-meters",
+      "subcategory": "",
+      "name": "متر لیزری ۱۲۰ متری حرفه‌ای",
+      "model": "KV-LM120 PRO",
+      "shortDescription": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+      "longDescription": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+      "specifications": [
+        {
+          "key": "range",
+          "label": "برد اندازه‌گیری",
+          "value": "120 m",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±1.5 mm",
+          "highlight": true
+        },
+        {
+          "key": "protection",
+          "label": "درجه حفاظت",
+          "value": "IP65",
+          "highlight": true
+        },
+        {
+          "key": "measurement",
+          "label": "نوع اندازه‌گیری",
+          "value": "فاصله، مساحت و حجم",
+          "highlight": false
+        },
+        {
+          "key": "battery",
+          "label": "نوع باتری",
+          "value": "لیتیومی شارژی",
+          "highlight": false
+        },
+        {
+          "key": "bluetooth",
+          "label": "بلوتوث",
+          "value": "دارد",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "165 g",
+          "highlight": false
+        },
+        {
+          "key": "dimensions",
+          "label": "ابعاد",
+          "value": "115 × 50 × 28 mm",
+          "highlight": false
+        },
+        {
+          "key": "laser",
+          "label": "کلاس لیزر",
+          "value": "Class 2",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "concrete",
+        "workshop"
+      ],
+      "features": [
+        "محاسبه فاصله، مساحت و حجم",
+        "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "حافظه اندازه‌گیری و تغییر واحد"
+      ],
+      "images": [
+        {
+          "url": "/images/laser.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس"
+        },
+        {
+          "url": "/images/measurement.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "متر لیزری",
+        "MEASUREMENT",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [
+        "accessories-1",
+        "accessories-2"
+      ],
+      "included": [
+        "متر لیزری",
+        "کیف نگهداری نمونه",
+        "بند مچی"
+      ],
+      "faq": [
+        {
+          "question": "برای فضای داخلی، چه بردی مناسب است؟",
+          "answer": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند."
+        },
+        {
+          "question": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+          "answer": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود."
+        },
+        {
+          "question": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+          "answer": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 4,
+      "isSample": true,
+      "seoTitle": "متر لیزری ۱۲۰ متری حرفه‌ای KV-LM120 PRO | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۱۲۰ متری حرفه‌ای مدل KV-LM120 PRO. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-24T10:00:00.000Z",
+      "updatedAt": "2026-08-24T10:00:00.000Z"
+    },
+    {
+      "id": "spirit-levels-1",
+      "sku": "KV-3001",
+      "slug": "konvex-level-60",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "spirit-levels",
+      "subcategory": "",
+      "name": "تراز حرفه‌ای ۶۰ سانتی‌متری",
+      "model": "KV-SL60",
+      "shortDescription": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+      "longDescription": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "60 cm",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±0.5 mm/m",
+          "highlight": true
+        },
+        {
+          "key": "vials",
+          "label": "تعداد محفظه",
+          "value": "3",
+          "highlight": true
+        },
+        {
+          "key": "magnetic",
+          "label": "آهن‌ربا",
+          "value": "دارد",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس بدنه",
+          "value": "آلومینیوم",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "540 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "metalworking",
+        "workshop"
+      ],
+      "features": [
+        "سه محفظه برای بررسی جهت‌های مختلف",
+        "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "سطح تماس مناسب برای قرائت پایدار"
+      ],
+      "images": [
+        {
+          "url": "/images/level.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده تراز کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "تراز",
+        "LEVELLING",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": true,
+      "isNew": true,
+      "popularityRank": 9,
+      "isSample": true,
+      "seoTitle": "تراز حرفه‌ای ۶۰ سانتی‌متری KV-SL60 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۶۰ سانتی‌متری مدل KV-SL60. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-29T10:00:00.000Z",
+      "updatedAt": "2026-08-29T10:00:00.000Z"
+    },
+    {
+      "id": "spirit-levels-2",
+      "sku": "KV-3002",
+      "slug": "konvex-level-40",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "spirit-levels",
+      "subcategory": "",
+      "name": "تراز حرفه‌ای ۴۰ سانتی‌متری",
+      "model": "KV-SL40",
+      "shortDescription": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+      "longDescription": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "40 cm",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±0.5 mm/m",
+          "highlight": true
+        },
+        {
+          "key": "vials",
+          "label": "تعداد محفظه",
+          "value": "3",
+          "highlight": true
+        },
+        {
+          "key": "magnetic",
+          "label": "آهن‌ربا",
+          "value": "ندارد",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس بدنه",
+          "value": "آلومینیوم",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "360 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "metalworking",
+        "workshop"
+      ],
+      "features": [
+        "سه محفظه برای بررسی جهت‌های مختلف",
+        "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "سطح تماس مناسب برای قرائت پایدار"
+      ],
+      "images": [
+        {
+          "url": "/images/level.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده تراز کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "تراز",
+        "LEVELLING",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": true,
+      "popularityRank": 8,
+      "isSample": true,
+      "seoTitle": "تراز حرفه‌ای ۴۰ سانتی‌متری KV-SL40 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۴۰ سانتی‌متری مدل KV-SL40. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-28T10:00:00.000Z",
+      "updatedAt": "2026-08-28T10:00:00.000Z"
+    },
+    {
+      "id": "spirit-levels-3",
+      "sku": "KV-3003",
+      "slug": "konvex-level-80",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "spirit-levels",
+      "subcategory": "",
+      "name": "تراز حرفه‌ای ۸۰ سانتی‌متری",
+      "model": "KV-SL80",
+      "shortDescription": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+      "longDescription": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "80 cm",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±0.5 mm/m",
+          "highlight": true
+        },
+        {
+          "key": "vials",
+          "label": "تعداد محفظه",
+          "value": "3",
+          "highlight": true
+        },
+        {
+          "key": "magnetic",
+          "label": "آهن‌ربا",
+          "value": "دارد",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس بدنه",
+          "value": "آلومینیوم",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "720 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "metalworking",
+        "workshop"
+      ],
+      "features": [
+        "سه محفظه برای بررسی جهت‌های مختلف",
+        "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "سطح تماس مناسب برای قرائت پایدار"
+      ],
+      "images": [
+        {
+          "url": "/images/level.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده تراز کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "تراز",
+        "LEVELLING",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 7,
+      "isSample": true,
+      "seoTitle": "تراز حرفه‌ای ۸۰ سانتی‌متری KV-SL80 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۸۰ سانتی‌متری مدل KV-SL80. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-27T10:00:00.000Z",
+      "updatedAt": "2026-08-27T10:00:00.000Z"
+    },
+    {
+      "id": "spirit-levels-4",
+      "sku": "KV-3004",
+      "slug": "konvex-level-100",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "spirit-levels",
+      "subcategory": "",
+      "name": "تراز حرفه‌ای ۱۰۰ سانتی‌متری",
+      "model": "KV-SL100",
+      "shortDescription": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+      "longDescription": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "100 cm",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±0.5 mm/m",
+          "highlight": true
+        },
+        {
+          "key": "vials",
+          "label": "تعداد محفظه",
+          "value": "3",
+          "highlight": true
+        },
+        {
+          "key": "magnetic",
+          "label": "آهن‌ربا",
+          "value": "ندارد",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس بدنه",
+          "value": "آلومینیوم",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "900 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "metalworking",
+        "workshop"
+      ],
+      "features": [
+        "سه محفظه برای بررسی جهت‌های مختلف",
+        "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "سطح تماس مناسب برای قرائت پایدار"
+      ],
+      "images": [
+        {
+          "url": "/images/level.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده تراز کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "تراز",
+        "LEVELLING",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 6,
+      "isSample": true,
+      "seoTitle": "تراز حرفه‌ای ۱۰۰ سانتی‌متری KV-SL100 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۱۰۰ سانتی‌متری مدل KV-SL100. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-26T10:00:00.000Z",
+      "updatedAt": "2026-08-26T10:00:00.000Z"
+    },
+    {
+      "id": "spirit-levels-5",
+      "sku": "KV-3005",
+      "slug": "konvex-level-30",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "spirit-levels",
+      "subcategory": "",
+      "name": "تراز حرفه‌ای ۳۰ سانتی‌متری",
+      "model": "KV-SL30",
+      "shortDescription": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+      "longDescription": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "30 cm",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±0.5 mm/m",
+          "highlight": true
+        },
+        {
+          "key": "vials",
+          "label": "تعداد محفظه",
+          "value": "3",
+          "highlight": true
+        },
+        {
+          "key": "magnetic",
+          "label": "آهن‌ربا",
+          "value": "دارد",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس بدنه",
+          "value": "آلومینیوم",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "270 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "metalworking",
+        "workshop"
+      ],
+      "features": [
+        "سه محفظه برای بررسی جهت‌های مختلف",
+        "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "سطح تماس مناسب برای قرائت پایدار"
+      ],
+      "images": [
+        {
+          "url": "/images/level.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده تراز کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "تراز",
+        "LEVELLING",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 5,
+      "isSample": true,
+      "seoTitle": "تراز حرفه‌ای ۳۰ سانتی‌متری KV-SL30 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۳۰ سانتی‌متری مدل KV-SL30. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-25T10:00:00.000Z",
+      "updatedAt": "2026-08-25T10:00:00.000Z"
+    },
+    {
+      "id": "spirit-levels-6",
+      "sku": "KV-3006",
+      "slug": "konvex-level-120",
+      "brandId": "konvex",
+      "brand": "KONVEX",
+      "categoryId": "spirit-levels",
+      "subcategory": "",
+      "name": "تراز حرفه‌ای ۱۲۰ سانتی‌متری",
+      "model": "KV-SL120",
+      "shortDescription": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+      "longDescription": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+      "specifications": [
+        {
+          "key": "length",
+          "label": "طول",
+          "value": "120 cm",
+          "highlight": true
+        },
+        {
+          "key": "accuracy",
+          "label": "دقت",
+          "value": "±0.5 mm/m",
+          "highlight": true
+        },
+        {
+          "key": "vials",
+          "label": "تعداد محفظه",
+          "value": "3",
+          "highlight": true
+        },
+        {
+          "key": "magnetic",
+          "label": "آهن‌ربا",
+          "value": "ندارد",
+          "highlight": false
+        },
+        {
+          "key": "material",
+          "label": "جنس بدنه",
+          "value": "آلومینیوم",
+          "highlight": false
+        },
+        {
+          "key": "weight",
+          "label": "وزن",
+          "value": "1080 g",
+          "highlight": false
+        }
+      ],
+      "applications": [
+        "construction",
+        "metalworking",
+        "workshop"
+      ],
+      "features": [
+        "سه محفظه برای بررسی جهت‌های مختلف",
+        "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "سطح تماس مناسب برای قرائت پایدار"
+      ],
+      "images": [
+        {
+          "url": "/images/level.webp",
+          "alt": "تصویر استودیویی نمونه از خانواده تراز کانوکس"
+        },
+        {
+          "url": "/images/hero.webp",
+          "alt": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس"
+        }
+      ],
+      "videos": [],
+      "documents": [],
+      "manuals": [],
+      "warranty": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+      "availability": "inquiry",
+      "price": null,
+      "discount": 0,
+      "tags": [
+        "تراز",
+        "LEVELLING",
+        "کانوکس",
+        "konvex"
+      ],
+      "relatedProductIds": [],
+      "compatibleProductIds": [],
+      "accessoryIds": [],
+      "included": [
+        "یک عدد محصول نمونه معرفی‌شده"
+      ],
+      "faq": [
+        {
+          "question": "آیا این مشخصات مبنای سفارش هستند؟",
+          "answer": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند."
+        },
+        {
+          "question": "چطور قیمت و موجودی این مدل را بپرسم؟",
+          "answer": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست."
+        }
+      ],
+      "featured": false,
+      "isNew": false,
+      "popularityRank": 4,
+      "isSample": true,
+      "seoTitle": "تراز حرفه‌ای ۱۲۰ سانتی‌متری KV-SL120 | کانوکس",
+      "seoDescription": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۱۲۰ سانتی‌متری مدل KV-SL120. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+      "createdAt": "2026-08-24T10:00:00.000Z",
+      "updatedAt": "2026-08-24T10:00:00.000Z"
+    }
+  ],
+  "entities": [
+    {
+      "type": "application",
+      "data": {
+        "id": "concrete",
+        "slug": "concrete",
+        "name": "بتن",
+        "title": "برای سطوح سخت، انتخاب دقیق.",
+        "description": "نوع اتصال، شکل نوک و طول قلم، سه نقطه شروع انتخاب برای تخریب و شیارزنی بتن هستند.",
+        "image": "/images/hero.webp",
+        "icon": "blocks",
+        "categories": [
+          "concrete-chisels",
+          "abrasives",
+          "laser-distance-meters"
+        ]
+      }
+    },
+    {
+      "type": "application",
+      "data": {
+        "id": "construction",
+        "slug": "construction",
+        "name": "ساختمان",
+        "title": "از اولین اندازه، تا آخرین جزئیات.",
+        "description": "برای اندازه‌گیری، تراز کردن و آماده‌سازی سطوح در پروژه‌های ساختمانی، ابزار را بر اساس مرحله کار انتخاب کنید.",
+        "image": "/images/measurement.webp",
+        "icon": "building",
+        "categories": [
+          "laser-distance-meters",
+          "spirit-levels",
+          "concrete-chisels"
+        ]
+      }
+    },
+    {
+      "type": "application",
+      "data": {
+        "id": "equipment",
+        "slug": "equipment",
+        "name": "تجهیزات",
+        "title": "حرکت بهتر، در هر گوشه کارگاه.",
+        "description": "چرخ مناسب را با توجه به وزن تجهیز، سطح زمین، جنس رویه و نیاز به ترمز انتخاب کنید.",
+        "image": "/images/caster.webp",
+        "icon": "settings",
+        "categories": [
+          "industrial-casters",
+          "accessories"
+        ]
+      }
+    },
+    {
+      "type": "application",
+      "data": {
+        "id": "industrial",
+        "slug": "industrial",
+        "name": "صنعت",
+        "title": "انتخابی متناسب با کارِ سنگین.",
+        "description": "ظرفیت بار، شرایط محیط و سازگاری را کنار هم بررسی کنید؛ برای تجهیز خطوط کار و نگهداری صنعتی.",
+        "image": "/images/hero.webp",
+        "icon": "factory",
+        "categories": [
+          "industrial-casters",
+          "abrasives"
+        ]
+      }
+    },
+    {
+      "type": "application",
+      "data": {
+        "id": "metalworking",
+        "slug": "metalworking",
+        "name": "فلزکاری",
+        "title": "دقتی که در نتیجه دیده می‌شود.",
+        "description": "برای هر آلیاژ و هر مرحله از کار، صفحه مناسب را پیدا کنید. برش، ساب و پرداخت را با مشخصات درست آغاز کنید.",
+        "image": "/images/workshop.webp",
+        "icon": "spark",
+        "categories": [
+          "abrasives",
+          "spirit-levels"
+        ]
+      }
+    },
+    {
+      "type": "application",
+      "data": {
+        "id": "workshop",
+        "slug": "workshop",
+        "name": "کارگاه",
+        "title": "همراهِ هر روزِ کارگاه شما.",
+        "description": "از برش و پرداخت تا جابه‌جایی تجهیزات؛ انتخاب‌های کاربردی برای یک کارگاه منظم و حرفه‌ای.",
+        "image": "/images/workshop.webp",
+        "icon": "workshop",
+        "categories": [
+          "abrasives",
+          "industrial-casters",
+          "spirit-levels"
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "data": {
+        "id": "choose-caster",
+        "slug": "industrial-caster-selection-guide",
+        "title": "پنج نکته برای انتخاب چرخ صنعتی",
+        "excerpt": "ظرفیت بار، جنس رویه و شرایط کف؛ جزئیاتی که حرکت تجهیزات را تغییر می‌دهند.",
+        "image": "/images/caster.webp",
+        "category": "راهنمای انتخاب",
+        "readTime": 7,
+        "relatedCategory": "industrial-casters",
+        "publishedAt": "2026-08-15",
+        "seoTitle": "راهنمای انتخاب چرخ صنعتی | کانوکس",
+        "seoDescription": "چگونه ظرفیت بار، نوع حرکت، ترمز و جنس چرخ صنعتی مناسب را انتخاب کنیم؟",
+        "sections": [
+          {
+            "title": "ظرفیت را فقط تقسیم بر چهار نکنید",
+            "body": "وزن تجهیز به‌همراه بار، شرایط حرکت و توزیع نامتوازن وزن را در نظر بگیرید. روی سطح ناهموار ممکن است همه چرخ‌ها همزمان بار یکسانی تحمل نکنند. ضریب طراحی و ظرفیت مجموعه را با سازنده یا کارشناس تأیید کنید."
+          },
+          {
+            "title": "جنس رویه و جنس کف",
+            "body": "پلی‌یورتان، لاستیک، نایلون و چدن رفتار متفاوتی از نظر صدا، مقاومت حرکت، اثر روی کف و تحمل شرایط محیطی دارند. رطوبت، مواد شیمیایی، دما و وضعیت سطح باید در انتخاب دیده شوند."
+          },
+          {
+            "title": "ثابت، گردان یا ترکیبی؟",
+            "body": "چرخ ثابت حرکت خطی را هدایت می‌کند و چرخ گردان تغییر جهت را آسان‌تر می‌کند. آرایش مناسب به طول مسیر، فضای مانور و شکل شاسی وابسته است؛ انتخاب همه چرخ‌ها به یک شکل همیشه بهترین نتیجه را ندارد."
+          },
+          {
+            "title": "ترمز و ارتفاع نصب",
+            "body": "نوع ترمز را بررسی کنید: بعضی مدل‌ها فقط چرخ را متوقف می‌کنند و برخی چرخ و گردان را قفل می‌کنند. ارتفاع کل، ابعاد صفحه نصب و فاصله سوراخ‌ها باید با تجهیز سازگار باشند."
+          },
+          {
+            "title": "قبل از سفارش، شرایط را بنویسید",
+            "body": "وزن کل، نوع کف، سرعت و تناوب حرکت، شرایط محیطی و ابعاد نصب را در درخواست قیمت درج کنید. این اطلاعات انتخاب مدل سازگار و مقایسه پیشنهادها را ساده‌تر می‌کند."
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "data": {
+        "id": "choose-chisel",
+        "slug": "concrete-chisel-shank-guide",
+        "title": "راهنمای انتخاب قلم و اتصال بتن‌کن",
+        "excerpt": "تفاوت قلم نوک‌تیز، تخت و شیارزن و اهمیت اتصال سازگار با دستگاه.",
+        "image": "/images/chisels.webp",
+        "category": "راهنمای انتخاب",
+        "readTime": 5,
+        "relatedCategory": "concrete-chisels",
+        "publishedAt": "2026-08-10",
+        "seoTitle": "انتخاب قلم بتن‌کن و نوع اتصال | کانوکس",
+        "seoDescription": "مقایسه قلم تخت و نوک‌تیز و اتصال SDS Plus، SDS Max و شش‌گوش.",
+        "sections": [
+          {
+            "title": "ابتدا نوع ابزارگیر را بررسی کنید",
+            "body": "SDS Plus، SDS Max و اتصال‌های شش‌گوش همگی قابل جایگزینی با یکدیگر نیستند. مدل دقیق دستگاه و اتصال مجاز را از دفترچه آن بخوانید و با مشخصات قلم تطبیق دهید."
+          },
+          {
+            "title": "شکل نوک را متناسب با کار انتخاب کنید",
+            "body": "نوک‌تیز نیرو را روی ناحیه کوچک متمرکز می‌کند؛ تخت برای برداشت کنترل‌شده سطح و شیارزن برای ایجاد مسیر کاربرد دارد. کاربری دقیق هر قلم به طراحی و تأیید سازنده بستگی دارد."
+          },
+          {
+            "title": "طول بیشتر همیشه بهتر نیست",
+            "body": "طول را بر اساس دسترسی و کنترل انتخاب کنید. در بسیاری از کارها، قلم بلندتر کنترل متفاوت و نیاز به توجه بیشتر به زاویه کار دارد. از قلم آسیب‌دیده استفاده نکنید و با ابزار بدون مهار مناسب کار نکنید."
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "data": {
+        "id": "choose-disc",
+        "slug": "cutting-and-grinding-disc-guide",
+        "title": "صفحه برش یا ساب؟ درست انتخاب کنید.",
+        "excerpt": "تفاوت فقط در ضخامت نیست؛ جنس قطعه‌کار، دور دستگاه و نوع عملیات تعیین‌کننده‌اند.",
+        "image": "/images/workshop.webp",
+        "category": "دانش فنی",
+        "readTime": 5,
+        "relatedCategory": "abrasives",
+        "publishedAt": "2026-08-20",
+        "seoTitle": "تفاوت صفحه برش و صفحه ساب | کانوکس",
+        "seoDescription": "راهنمای انتخاب صفحه مناسب برش و ساب و نکات مهم سازگاری و ایمنی.",
+        "sections": [
+          {
+            "title": "نوع عملیات را مشخص کنید",
+            "body": "صفحه برش برای جدا کردن قطعه و صفحه ساب برای برداشت و پرداخت سطح طراحی شده است. فشار جانبی روی صفحه برش می‌تواند خطرناک باشد؛ از هر صفحه فقط برای کاربری تأییدشده سازنده استفاده کنید."
+          },
+          {
+            "title": "چهار عدد مهم روی صفحه",
+            "body": "قطر، ضخامت، قطر سوراخ مرکزی و حداکثر دور مجاز را با مشخصات دستگاه تطبیق دهید. صفحه‌ای با قطر نامناسب یا سرعت مجاز کمتر از سرعت دستگاه انتخاب نکنید. نصب و محافظ باید دقیقاً مطابق دستورالعمل دستگاه باشد."
+          },
+          {
+            "title": "جنس قطعه‌کار اهمیت دارد",
+            "body": "صفحه مناسب فلز، استیل، سنگ یا بتن یکسان نیست. ترکیب ساینده و نوع اتصال باید برای قطعه‌کار مجاز باشد. عبارت عمومی همه‌کاره را جایگزین بررسی برچسب رسمی و دفترچه نکنید."
+          },
+          {
+            "title": "پیش از هر بار استفاده",
+            "body": "صفحه را از نظر ترک، آسیب، شرایط نگهداری و تاریخ مصرف احتمالی بررسی کنید. از محافظ دستگاه و تجهیزات حفاظت چشم، صورت، شنوایی و تنفس مطابق ارزیابی خطر و دستورالعمل استفاده کنید. قطعه‌کار باید مهار شده باشد."
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "data": {
+        "id": "choose-laser",
+        "slug": "laser-distance-meter-buying-guide",
+        "title": "متر لیزری مناسب پروژه شما کدام است؟",
+        "excerpt": "برد بیشتر همیشه انتخاب بهتر نیست. دقت، شرایط محیط و قابلیت‌های واقعاً موردنیاز را بشناسید.",
+        "image": "/images/measurement.webp",
+        "category": "راهنمای انتخاب",
+        "readTime": 6,
+        "relatedCategory": "laser-distance-meters",
+        "publishedAt": "2026-08-24",
+        "seoTitle": "راهنمای انتخاب متر لیزری | دانشنامه کانوکس",
+        "seoDescription": "نکات کاربردی انتخاب متر لیزری بر اساس برد، دقت، شرایط محیط و حفاظت.",
+        "sections": [
+          {
+            "title": "از فاصله‌های واقعی پروژه شروع کنید",
+            "body": "بلندترین فاصله‌ای را که به‌طور معمول اندازه می‌گیرید مشخص کنید. برد اسمی ابزار در شرایط آزمون مناسب تعریف می‌شود؛ نور شدید، سطح تیره یا بازتابنده و زاویه نامناسب می‌تواند قرائت را دشوار کند. صرفاً به بزرگ‌ترین عدد روی جعبه تکیه نکنید."
+          },
+          {
+            "title": "برد و دقت، دو ویژگی متفاوت‌اند",
+            "body": "برد، محدوده قابل اندازه‌گیری است؛ دقت، میزان انحراف اعلام‌شده در شرایط مشخص. در برآورد ابعاد یک فضا و در نصب جزئیات ظریف، نیازها یکسان نیستند. دقت را همراه با روش اندازه‌گیری، مرجع جلویی یا پشتی دستگاه و شرایط اعلام‌شده در دفترچه بررسی کنید."
+          },
+          {
+            "title": "قابلیت‌هایی که واقعاً استفاده می‌کنید",
+            "body": "محاسبه مساحت و حجم، اندازه‌گیری پیوسته، حافظه و انتقال داده می‌توانند کار را ساده‌تر کنند. اما برای انتخاب، ابتدا کارهای پرتکرار خود را بنویسید. قابلیت بیشتر بدون نیاز واقعی، الزاماً انتخاب بهتری نیست."
+          },
+          {
+            "title": "ایمنی و حفاظت محیطی",
+            "body": "پرتو لیزر را به سمت چشم هدایت نکنید و به سطوح بازتابنده توجه کنید. درجه IP را از دفترچه رسمی بخوانید؛ مقاومت در برابر پاشش آب با امکان غوطه‌وری فرق دارد. ابزار را مطابق دستورالعمل نگهداری و در صورت نیاز کالیبره کنید."
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "data": {
+        "id": "choose-level",
+        "slug": "spirit-level-selection-guide",
+        "title": "تراز مناسب؛ از طول تا دقت قرائت",
+        "excerpt": "چگونه بین طول، دقت و قابلیت مغناطیسی انتخاب متناسب با کار داشته باشیم؟",
+        "image": "/images/level.webp",
+        "category": "دانش فنی",
+        "readTime": 4,
+        "relatedCategory": "spirit-levels",
+        "publishedAt": "2026-08-05",
+        "seoTitle": "راهنمای انتخاب تراز دستی | کانوکس",
+        "seoDescription": "انتخاب تراز بر اساس طول، دقت و جنس سطح کار.",
+        "sections": [
+          {
+            "title": "طول متناسب با سطح",
+            "body": "برای سطوح بلند، طول مناسب می‌تواند ارزیابی بهتری از سطح بدهد؛ برای نصب در فضای محدود، تراز کوتاه‌تر کاربردی است. طول را با توجه به سطح تماس واقعی و فضای در دسترس انتخاب کنید."
+          },
+          {
+            "title": "دقت را همراه واحد بخوانید",
+            "body": "دقت معمولاً به صورت میلی‌متر بر متر بیان می‌شود. عدد کوچک‌تر به‌تنهایی کافی نیست؛ سلامت بدنه، روش قرار دادن و شرایط قرائت نیز اهمیت دارند. مشخصه رسمی هر مدل را از سند سازنده بررسی کنید."
+          },
+          {
+            "title": "سلامت ابزار را کنترل کنید",
+            "body": "سطح تماس و محفظه‌ها را تمیز نگه دارید. بعد از ضربه یا پیش از کار حساس، قرائت را با روش توصیه‌شده سازنده کنترل کنید. آهن‌ربا روی سطح فلزی می‌تواند نگهداری را ساده کند، اما جایگزین بررسی پایداری و صحت قرائت نیست."
+          }
+        ]
+      }
+    },
+    {
+      "type": "brand",
+      "data": {
+        "id": "konvex",
+        "name": "کانوکس",
+        "english": "KONVEX",
+        "description": "ابزار و تجهیزات صنعتی؛ از انتخاب دقیق تا اجرای حرفه‌ای. کاتالوگ کانوکس، مشخصات و کاربرد ابزار را در مرکز تجربه انتخاب قرار می‌دهد.",
+        "logo": ""
+      }
+    },
+    {
+      "type": "category",
+      "data": {
+        "id": "abrasives",
+        "slug": "abrasives",
+        "name": "محصولات سایش",
+        "english": "ABRASIVES",
+        "description": "برش تمیز و پرداخت حرفه‌ای سطوح",
+        "image": "/images/abrasives.webp",
+        "order": 5,
+        "filters": [
+          {
+            "key": "diameter",
+            "label": "قطر صفحه",
+            "numeric": true
+          },
+          {
+            "key": "thickness",
+            "label": "ضخامت",
+            "numeric": true
+          },
+          {
+            "key": "bore",
+            "label": "قطر سوراخ مرکزی"
+          },
+          {
+            "key": "workpiece",
+            "label": "جنس قطعه‌کار"
+          },
+          {
+            "key": "rpm",
+            "label": "حداکثر دور مجاز",
+            "numeric": true
+          },
+          {
+            "key": "type",
+            "label": "نوع صفحه"
+          }
+        ]
+      }
+    },
+    {
+      "type": "category",
+      "data": {
+        "id": "accessories",
+        "slug": "accessories",
+        "name": "متعلقات",
+        "english": "ACCESSORIES",
+        "description": "جزئیات تکمیلی برای یک مجموعه کاربردی",
+        "image": "/images/accessories.webp",
+        "order": 6,
+        "filters": [
+          {
+            "key": "type",
+            "label": "نوع متعلقات"
+          },
+          {
+            "key": "material",
+            "label": "جنس"
+          }
+        ]
+      }
+    },
+    {
+      "type": "category",
+      "data": {
+        "id": "concrete-chisels",
+        "slug": "concrete-chisels",
+        "name": "قلم بتن‌کن",
+        "english": "CONCRETE",
+        "description": "برای تخریب دقیق و پیشروی مطمئن در بتن",
+        "image": "/images/chisels.webp",
+        "order": 1,
+        "filters": [
+          {
+            "key": "type",
+            "label": "نوع قلم"
+          },
+          {
+            "key": "shank",
+            "label": "نوع اتصال"
+          },
+          {
+            "key": "length",
+            "label": "طول",
+            "numeric": true
+          },
+          {
+            "key": "diameter",
+            "label": "قطر",
+            "numeric": true
+          },
+          {
+            "key": "material",
+            "label": "جنس"
+          }
+        ]
+      }
+    },
+    {
+      "type": "category",
+      "data": {
+        "id": "industrial-casters",
+        "slug": "industrial-casters",
+        "name": "چرخ صنعتی",
+        "english": "INDUSTRIAL",
+        "description": "حرکت روان، متناسب با بار و محیط کار",
+        "image": "/images/caster.webp",
+        "order": 2,
+        "filters": [
+          {
+            "key": "diameter",
+            "label": "قطر چرخ",
+            "numeric": true
+          },
+          {
+            "key": "capacity",
+            "label": "ظرفیت هر چرخ",
+            "numeric": true
+          },
+          {
+            "key": "type",
+            "label": "نوع حرکت"
+          },
+          {
+            "key": "brake",
+            "label": "ترمز"
+          },
+          {
+            "key": "material",
+            "label": "جنس رویه"
+          },
+          {
+            "key": "height",
+            "label": "ارتفاع نصب",
+            "numeric": true
+          }
+        ]
+      }
+    },
+    {
+      "type": "category",
+      "data": {
+        "id": "laser-distance-meters",
+        "slug": "laser-distance-meters",
+        "name": "متر لیزری",
+        "english": "MEASUREMENT",
+        "description": "فاصله، مساحت و حجم؛ ساده و دقیق",
+        "image": "/images/laser.webp",
+        "order": 4,
+        "filters": [
+          {
+            "key": "range",
+            "label": "برد اندازه‌گیری",
+            "numeric": true
+          },
+          {
+            "key": "accuracy",
+            "label": "دقت"
+          },
+          {
+            "key": "measurement",
+            "label": "نوع اندازه‌گیری"
+          },
+          {
+            "key": "protection",
+            "label": "درجه حفاظت"
+          },
+          {
+            "key": "battery",
+            "label": "نوع باتری"
+          },
+          {
+            "key": "bluetooth",
+            "label": "بلوتوث"
+          }
+        ]
+      }
+    },
+    {
+      "type": "category",
+      "data": {
+        "id": "spirit-levels",
+        "slug": "spirit-levels",
+        "name": "تراز",
+        "english": "LEVELLING",
+        "description": "وقتی کوچک‌ترین انحراف اهمیت دارد",
+        "image": "/images/level.webp",
+        "order": 3,
+        "filters": [
+          {
+            "key": "length",
+            "label": "طول",
+            "numeric": true
+          },
+          {
+            "key": "accuracy",
+            "label": "دقت"
+          },
+          {
+            "key": "magnetic",
+            "label": "آهن‌ربا"
+          },
+          {
+            "key": "vials",
+            "label": "تعداد محفظه"
+          },
+          {
+            "key": "material",
+            "label": "جنس بدنه"
+          }
+        ]
+      }
+    }
+  ]
+}

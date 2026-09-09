@@ -1,0 +1,12 @@
+
+Running 7 tests using 1 worker
+
+  ✓  1 tests/redesign.spec.ts:14:5 › Language navigation preserves URL state and browser document; themes persist (3.5s)
+  ✓  2 tests/redesign.spec.ts:69:5 › Quote draft and reference survive language switching without storing personal data in localStorage (2.7s)
+  ✓  3 tests/redesign.spec.ts:129:5 › English validation, search, filters and comparison retain the original behavior (5.0s)
+  ✓  4 tests/redesign.spec.ts:183:5 › Calm particles respond gently to scroll, pause, resize and reduced motion (2.5s)
+  ✓  5 tests/redesign.spec.ts:216:5 › English keyboard tabs move in LTR order (1.4s)
+  ✓  6 tests/redesign.spec.ts:229:5 › Translations are editable, searchable and never overwrite Persian or technical data (4.7s)
+  ✓  7 tests/redesign.spec.ts:364:5 › Localized SEO, files and genuine 404s preserve canonical route contracts (1.2s)
+
+  7 passed (21.9s)

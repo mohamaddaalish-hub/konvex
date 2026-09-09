@@ -1,0 +1,51 @@
+{
+  "name": "konvex-industrial-catalog",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack --hostname 0.0.0.0",
+    "build": "next build --webpack",
+    "start": "next start --hostname 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "test:e2e": "playwright test",
+    "db:seed": "tsx scripts/seed.ts",
+    "catalog:pdf": "node scripts/generate-catalog.mjs",
+    "db:reindex": "tsx scripts/reindex.ts",
+    "db:backup": "node scripts/backup.mjs",
+    "test:scale": "tsx scripts/scale-test.ts",
+    "qa:smoke": "node scripts/smoke.mjs",
+    "qa:lighthouse": "node scripts/lighthouse.mjs",
+    "images:optimize": "node scripts/optimize-images.mjs",
+    "format": "prettier --write app components lib data/seed.ts scripts tests docs/*.md README.md",
+    "prebuild": "node scripts/build-styles.mjs",
+    "predev": "node scripts/build-styles.mjs --dev",
+    "styles:build": "node scripts/build-styles.mjs",
+    "test:redesign": "playwright test tests/redesign.spec.ts",
+    "qa:matrix": "node scripts/redesign-audit.mjs",
+    "qa:mobile": "node scripts/redesign-webkit.mjs",
+    "qa:performance": "node scripts/redesign-performance.mjs"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "lucide-react": "^1.41.0",
+    "next": "^16.3.4",
+    "next-intl": "^4.14.2",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "sharp": "^0.35.4",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.63.0",
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/node": "^26.4.1",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "lighthouse": "^12.8.2",
+    "prettier": "^3.9.6",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2",
+    "typescript-ast": "npm:typescript@^5.9.3"
+  }
+}

@@ -1,0 +1,28 @@
+
+> konvex-industrial-catalog@1.0.0 test:e2e
+> playwright test
+
+
+Running 19 tests using 1 worker
+
+  ✓   1 tests/admin-entities.spec.ts:32:5 › CMS entities: hierarchy, cycles, dynamic filters, brand cascade, articles and safe deletion (531ms)
+  ✓   2 tests/admin-entities.spec.ts:226:5 › Contact settings save and reflect publicly without changing page code (882ms)
+  ✓   3 tests/admin-entities.spec.ts:271:5 › Security: bounded JSON streams, malformed JSON, upload isolation and rate limiting (228ms)
+  ✓   4 tests/catalog.spec.ts:16:5 › Desktop: visual navigation and category discovery (1.5s)
+  ✓   5 tests/catalog.spec.ts:32:5 › Search: Persian digits, model, units, no results and keyboard autocomplete (2.0s)
+  ✓   6 tests/catalog.spec.ts:68:5 › Filters: category-specific, OR/AND logic, URL state, clear and pagination (4.1s)
+  ✓   7 tests/catalog.spec.ts:124:5 › Product gallery, wishlist persistence, same-category comparison and limits (4.8s)
+  ✓   8 tests/catalog.spec.ts:167:5 › Quote: validation, Persian number normalization, persisted reference and form recovery (1.8s)
+  ✓   9 tests/catalog.spec.ts:207:5 › Security: CSRF and origin rejection, idempotency and protected admin APIs (128ms)
+  ✓  10 tests/catalog.spec.ts:253:5 › CMS: secure login, product creation, update, upload, public reflection and deletion (4.6s)
+  ✓  11 tests/catalog.spec.ts:336:5 › Mobile: menu, filters as bottom sheet, sticky product CTA and no overflow (2.6s)
+  ✓  12 tests/catalog.spec.ts:372:5 › SEO, documents, catalogue download and genuine 404 responses (936ms)
+  ✓  13 tests/redesign.spec.ts:14:5 › Language navigation preserves URL state and browser document; themes persist (3.0s)
+  ✓  14 tests/redesign.spec.ts:69:5 › Quote draft and reference survive language switching without storing personal data in localStorage (2.9s)
+  ✓  15 tests/redesign.spec.ts:129:5 › English validation, search, filters and comparison retain the original behavior (6.9s)
+  ✓  16 tests/redesign.spec.ts:183:5 › Calm particles respond gently to scroll, pause, resize and reduced motion (2.4s)
+  ✓  17 tests/redesign.spec.ts:216:5 › English keyboard tabs move in LTR order (1.4s)
+  ✓  18 tests/redesign.spec.ts:229:5 › Translations are editable, searchable and never overwrite Persian or technical data (4.3s)
+  ✓  19 tests/redesign.spec.ts:362:5 › Localized SEO, files and genuine 404s preserve canonical route contracts (1.1s)
+
+  19 passed (47.5s)

@@ -1,0 +1,74 @@
+
+> konvex-industrial-catalog@2.0.0 prebuild
+> node scripts/build-styles.mjs
+
+Production design system combined into one stylesheet.
+
+> konvex-industrial-catalog@2.0.0 build
+> next build --webpack
+
+▲ Next.js 16.3.4 (webpack)
+- Environments: .env.local
+✓ Running next.config.ts took 46ms
+- Experiments (use with caution):
+  · cpus: 2
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 6.6s
+  Running TypeScript ...
+  Finished TypeScript in 1251ms ...
+  Collecting page data using 2 workers ...
+  Generating static pages using 2 workers (0/13) ...
+  Generating static pages using 2 workers (3/13) 
+  Generating static pages using 2 workers (6/13) 
+  Generating static pages using 2 workers (9/13) 
+✓ Generating static pages using 2 workers (13/13) in 317ms
+  Finalizing page optimization ...
+  Collecting build traces ...
+
+Route (app)
+┌ ƒ /_not-found
+├ ƒ /[locale]
+├ ƒ /[locale]/about
+├ ƒ /[locale]/admin
+├ ƒ /[locale]/applications
+├ ƒ /[locale]/applications/[slug]
+├ ƒ /[locale]/brands
+├ ƒ /[locale]/compare
+├ ƒ /[locale]/contact
+├ ƒ /[locale]/featured-products
+├ ƒ /[locale]/knowledge
+├ ƒ /[locale]/knowledge/[slug]
+├ ƒ /[locale]/new-products
+├ ƒ /[locale]/popular-products
+├ ƒ /[locale]/print/catalog
+├ ƒ /[locale]/privacy
+├ ƒ /[locale]/product/[slug]
+├ ƒ /[locale]/products
+├ ƒ /[locale]/products/[category]
+├ ƒ /[locale]/quote
+├ ƒ /[locale]/search
+├ ƒ /[locale]/terms
+├ ƒ /[locale]/wishlist
+├ ƒ /api/admin/entities
+├ ƒ /api/admin/login
+├ ƒ /api/admin/logout
+├ ƒ /api/admin/products
+├ ƒ /api/admin/quotes
+├ ƒ /api/admin/settings
+├ ƒ /api/admin/translations
+├ ƒ /api/admin/upload
+├ ƒ /api/csrf
+├ ƒ /api/products/[id]/datasheet
+├ ƒ /api/quotes
+├ ƒ /api/search
+├ ƒ /api/selections
+├ ƒ /robots.txt
+├ ƒ /sitemap.xml
+└ ƒ /uploads/[file]
+
+
+ƒ Proxy (Middleware)
+
+ƒ  (Dynamic)  server-rendered on demand
+

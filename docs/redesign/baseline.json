@@ -1,0 +1,353 @@
+{
+  "products": [
+    {
+      "id": "abrasives-1",
+      "slug": "konvex-disc-125-1",
+      "sha256": "278a394eea0c0ebdc1cb03158b4761ee05fc602d3c9670fe50f07453d1107e8c"
+    },
+    {
+      "id": "abrasives-2",
+      "slug": "konvex-disc-115-2",
+      "sha256": "9997aa6ed720a34b56b877f3fcf44cc5ffb4d428e3921c11a1c3b5aec2d1361b"
+    },
+    {
+      "id": "abrasives-3",
+      "slug": "konvex-disc-180-3",
+      "sha256": "9a2d43b1098976e0891acbf62d38a13a434376fa3a904110d4ce73d1cbfdf1d6"
+    },
+    {
+      "id": "abrasives-4",
+      "slug": "konvex-disc-230-4",
+      "sha256": "3c2cc18e96ae8bef002ec91799f07cee502577f7c4db3c98197a612f5e392814"
+    },
+    {
+      "id": "abrasives-5",
+      "slug": "konvex-disc-125-5",
+      "sha256": "2fa4a41784e3d5ecc496b2b78517db73b7011b9d8db7f4a3512c62aad320a108"
+    },
+    {
+      "id": "abrasives-6",
+      "slug": "konvex-disc-115-6",
+      "sha256": "6ec388f5af69c49443b3c6dd3cff6207768c07f5b4a1398a5b6b33e07e773a1e"
+    },
+    {
+      "id": "accessories-1",
+      "slug": "konvex-meter-case",
+      "sha256": "a3d03f600c183ee21262e0bce2b8a929744e863503386a329d66d633964412e3"
+    },
+    {
+      "id": "accessories-2",
+      "slug": "konvex-meter-wrist-strap",
+      "sha256": "c1dfa82e97adfb6276bf44cceec3bfdbee499513d77a326d4b2bca12a661e756"
+    },
+    {
+      "id": "concrete-chisels-1",
+      "slug": "konvex-chisel-1-400",
+      "sha256": "631503430d1407f02bf9098274d2306504479ff9bb958733f4e3c60ca2006d9d"
+    },
+    {
+      "id": "concrete-chisels-2",
+      "slug": "konvex-chisel-2-250",
+      "sha256": "6ab1f275a7d2a2c98631f5fc06a9d9e4e7d711c8e3e24809d812a74238561b83"
+    },
+    {
+      "id": "concrete-chisels-3",
+      "slug": "konvex-chisel-3-400",
+      "sha256": "d29354eb4fe50f8533c17d169a9639e4c7fb7ae57906c16f43c24fdc3f00a058"
+    },
+    {
+      "id": "concrete-chisels-4",
+      "slug": "konvex-chisel-4-600",
+      "sha256": "b2c16a4d944f1357f51eec39bbd084e8b96fdbfde49e4f0c4b1641f937175eeb"
+    },
+    {
+      "id": "concrete-chisels-5",
+      "slug": "konvex-chisel-5-280",
+      "sha256": "c43f3eb7ccd009fe2c3533681cb38bc0dff2ce9d0630c80f164f1b940c550a4e"
+    },
+    {
+      "id": "concrete-chisels-6",
+      "slug": "konvex-chisel-6-400",
+      "sha256": "d875c482a7cbae8add6f20a1fe27051060f5d623f6069ec977a2c115d1617c27"
+    },
+    {
+      "id": "industrial-casters-1",
+      "slug": "konvex-caster-150-1",
+      "sha256": "92fbd17ea3f42129a2c2f68864aa1a35fdfc86cb39b90049a558f184b86b7b17"
+    },
+    {
+      "id": "industrial-casters-2",
+      "slug": "konvex-caster-100-2",
+      "sha256": "765079e283d90c3271841e830e0c61ed30f5abaa72386cd2180bb024d2c554fa"
+    },
+    {
+      "id": "industrial-casters-3",
+      "slug": "konvex-caster-125-3",
+      "sha256": "b173effb2bdb6f797688c02407971e846b668123256a8c42700646664a902d2d"
+    },
+    {
+      "id": "industrial-casters-4",
+      "slug": "konvex-caster-200-4",
+      "sha256": "1eaecfbaa8acf367c5df753521bfa1ac720226c63ecafdd63890d42b2b2035ad"
+    },
+    {
+      "id": "industrial-casters-5",
+      "slug": "konvex-caster-100-5",
+      "sha256": "7f6d1f85c140d88ce3690e311f4d3abcd5bdbcf9cacb14dfc42113a8bb507e16"
+    },
+    {
+      "id": "industrial-casters-6",
+      "slug": "konvex-caster-160-6",
+      "sha256": "fb8aa62723435b28fd31f644455653b2491b217abafc2fc70c9acd4a5b2100a8"
+    },
+    {
+      "id": "laser-distance-meters-1",
+      "slug": "konvex-lm-60",
+      "sha256": "2e00d4a99c8d6b7e60aec75e7ce825516d18eee947306e711aae8503ad54af57"
+    },
+    {
+      "id": "laser-distance-meters-2",
+      "slug": "konvex-lm-40",
+      "sha256": "00b0e5e5c2251c20fa91104bbeaf03b3a0a20639d62a2f0604a8596357fdb120"
+    },
+    {
+      "id": "laser-distance-meters-3",
+      "slug": "konvex-lm-80-pro",
+      "sha256": "dffcb29e77d5924ae9adf2450885b907cdedc617a827f3249a3f1849d3783de0"
+    },
+    {
+      "id": "laser-distance-meters-4",
+      "slug": "konvex-lm-100-pro",
+      "sha256": "1758cc146579297ccaf8b9de1f9caffd4ff618b92fb00cb67cd658119af8a71d"
+    },
+    {
+      "id": "laser-distance-meters-5",
+      "slug": "konvex-lm-30",
+      "sha256": "89cb7e4fccbc2a3a05c582c1854ff6f3a3fac38942e484e7aa9c5b7e2a7bf559"
+    },
+    {
+      "id": "laser-distance-meters-6",
+      "slug": "konvex-lm-120-pro",
+      "sha256": "f6eb663181bd141ed5e0c4e7bb703caa53639ddb3791a5474f5e5869c27a4fc6"
+    },
+    {
+      "id": "spirit-levels-1",
+      "slug": "konvex-level-60",
+      "sha256": "e3d5f67d865f1994499cc07cdda0dcbd27d94da67d3bd61aeb066e3db0707e82"
+    },
+    {
+      "id": "spirit-levels-2",
+      "slug": "konvex-level-40",
+      "sha256": "13e9780fafa80d03d653f40ba207b5e26981f51289de94d03c93a593d0fdee25"
+    },
+    {
+      "id": "spirit-levels-3",
+      "slug": "konvex-level-80",
+      "sha256": "40169feb1cc9c5a4eeb3fe3cca25d12446e664535cb8719ad3b421d7ac86d4ea"
+    },
+    {
+      "id": "spirit-levels-4",
+      "slug": "konvex-level-100",
+      "sha256": "bb60b8adca2077bb0b8c7d30d8059ef1b6937cd1c73355cc6a4a6fbd47b617fb"
+    },
+    {
+      "id": "spirit-levels-5",
+      "slug": "konvex-level-30",
+      "sha256": "6fc5e58bf448d78361a1efc42520fb0e6e817cd4c7458caccb1b1fa066c43f64"
+    },
+    {
+      "id": "spirit-levels-6",
+      "slug": "konvex-level-120",
+      "sha256": "7d3704a24e77b88320c12d141ef14582779bfedfb266beae0ff635a4532cfaff"
+    }
+  ],
+  "entities": [
+    {
+      "type": "application",
+      "id": "concrete",
+      "slug": "concrete",
+      "sha256": "d5e51c087abe06c3a21dae36cdeb31fa9d7650a147b2c79ae4423cd1829b0460"
+    },
+    {
+      "type": "application",
+      "id": "construction",
+      "slug": "construction",
+      "sha256": "3293059f9e93e0e160eb5b2f39a8f2711fa66a7ead25859418785303a09f2ec8"
+    },
+    {
+      "type": "application",
+      "id": "equipment",
+      "slug": "equipment",
+      "sha256": "76ec60e4acec6ed3fcb5c94e22b9df5c712f38ac1a2ffe32e47b43774a3a719e"
+    },
+    {
+      "type": "application",
+      "id": "industrial",
+      "slug": "industrial",
+      "sha256": "3e65573d2c31dfbd784719c33defa31b095a9ada63d2d44ec68e7bc95d848502"
+    },
+    {
+      "type": "application",
+      "id": "metalworking",
+      "slug": "metalworking",
+      "sha256": "c80f09a634266777befc346098b5e3936486b40dca669babe072ec5b0c8760dd"
+    },
+    {
+      "type": "application",
+      "id": "workshop",
+      "slug": "workshop",
+      "sha256": "a39132219872e919efe156b56f72b65ea0b7938b42bcb051ee604b75be28c7fc"
+    },
+    {
+      "type": "article",
+      "id": "choose-caster",
+      "slug": "industrial-caster-selection-guide",
+      "sha256": "43a325daef3e73efd213ea54990af76164709b37dfe66ef8998acff8f048d673"
+    },
+    {
+      "type": "article",
+      "id": "choose-chisel",
+      "slug": "concrete-chisel-shank-guide",
+      "sha256": "c1dd193d999a470c1eae3dfac341ff66786c7465d04279a78b403614fc1c30ac"
+    },
+    {
+      "type": "article",
+      "id": "choose-disc",
+      "slug": "cutting-and-grinding-disc-guide",
+      "sha256": "2046fe5fe85e96c6f64b0fd18da70729c16693efcdeb8943f82297c2754fa733"
+    },
+    {
+      "type": "article",
+      "id": "choose-laser",
+      "slug": "laser-distance-meter-buying-guide",
+      "sha256": "f94687fe8e9e7aa994c4557b14730174432617058a39d2caee0af860d94758d8"
+    },
+    {
+      "type": "article",
+      "id": "choose-level",
+      "slug": "spirit-level-selection-guide",
+      "sha256": "a3dd1eb83a5c6cbd700ba2a3fbbd651031e47c255bcc7063bee2ee2fe621423b"
+    },
+    {
+      "type": "brand",
+      "id": "konvex",
+      "slug": "konvex",
+      "sha256": "d62f7c44ebe2ad130210cf45163c3d69724282fbd8d70433190fd2e67c8a3173"
+    },
+    {
+      "type": "category",
+      "id": "abrasives",
+      "slug": "abrasives",
+      "sha256": "c96b83b4de1a6d57d28f9920651890828d5e08cdb9ef7f8e9ad9ea8f63be6580"
+    },
+    {
+      "type": "category",
+      "id": "accessories",
+      "slug": "accessories",
+      "sha256": "697f4cbf8962ad15bebb8158b691516b99962451e0052a790b84b7260dfda1f3"
+    },
+    {
+      "type": "category",
+      "id": "concrete-chisels",
+      "slug": "concrete-chisels",
+      "sha256": "89808a97b2de0e5b7ef9e7a0afa8e8461189039d1329f8575041b4f22261b6be"
+    },
+    {
+      "type": "category",
+      "id": "industrial-casters",
+      "slug": "industrial-casters",
+      "sha256": "f6e9712636a8746feaaf171ac71097cdc24b0f061f06e6fe5800848809319329"
+    },
+    {
+      "type": "category",
+      "id": "laser-distance-meters",
+      "slug": "laser-distance-meters",
+      "sha256": "16730781f8e3d13a5f8ac527954b715514b8394c1066c87a98324a2ce11b85e7"
+    },
+    {
+      "type": "category",
+      "id": "spirit-levels",
+      "slug": "spirit-levels",
+      "sha256": "de5a7ebbb8a4305d6748e9bb0e2ebe7c597114ceba90cc3057a0314b35e113de"
+    }
+  ],
+  "settings_sha256": "2c9f3b8b8b85e84111d9327e5e82d0fef5a073d81b2ac89a3e6cb2be604c2772",
+  "quotes": 0,
+  "files": [
+    "app/about/page.tsx",
+    "app/admin/layout.tsx",
+    "app/admin/loading.tsx",
+    "app/admin/page.tsx",
+    "app/api/admin/entities/route.ts",
+    "app/api/admin/login/route.ts",
+    "app/api/admin/logout/route.ts",
+    "app/api/admin/products/route.ts",
+    "app/api/admin/quotes/route.ts",
+    "app/api/admin/settings/route.ts",
+    "app/api/admin/upload/route.ts",
+    "app/api/csrf/route.ts",
+    "app/api/products/[id]/datasheet/route.ts",
+    "app/api/quotes/route.ts",
+    "app/api/search/route.ts",
+    "app/applications/[slug]/page.tsx",
+    "app/applications/page.tsx",
+    "app/brands/page.tsx",
+    "app/compare/page.tsx",
+    "app/contact/page.tsx",
+    "app/error.tsx",
+    "app/featured-products/page.tsx",
+    "app/globals.css",
+    "app/knowledge/[slug]/page.tsx",
+    "app/knowledge/page.tsx",
+    "app/layout.tsx",
+    "app/new-products/page.tsx",
+    "app/not-found.tsx",
+    "app/page.tsx",
+    "app/popular-products/page.tsx",
+    "app/print/catalog/page.tsx",
+    "app/print/layout.tsx",
+    "app/print/print.css",
+    "app/privacy/page.tsx",
+    "app/product/[slug]/layout.tsx",
+    "app/product/[slug]/page.tsx",
+    "app/products/[category]/layout.tsx",
+    "app/products/[category]/page.tsx",
+    "app/products/page.tsx",
+    "app/quote/loading.tsx",
+    "app/quote/page.tsx",
+    "app/robots.ts",
+    "app/search/loading.tsx",
+    "app/search/page.tsx",
+    "app/sitemap.ts",
+    "app/terms/page.tsx",
+    "app/uploads/[file]/route.ts",
+    "app/wishlist/page.tsx",
+    "components/admin/admin.css",
+    "components/admin/dashboard.tsx",
+    "components/admin/entity-editor.tsx",
+    "components/admin/fields.tsx",
+    "components/admin/login.tsx",
+    "components/admin/product-editor.tsx",
+    "components/admin/settings-editor.tsx",
+    "components/catalog-explorer.tsx",
+    "components/catalog-page.tsx",
+    "components/comparison.tsx",
+    "components/contact-links.tsx",
+    "components/footer.tsx",
+    "components/header.tsx",
+    "components/home-interactions.tsx",
+    "components/legal-page.tsx",
+    "components/modal.tsx",
+    "components/product-actions.tsx",
+    "components/product-card.tsx",
+    "components/product-gallery.tsx",
+    "components/product-picker.tsx",
+    "components/product-skeleton.tsx",
+    "components/quote-form.tsx",
+    "components/route-skeleton.tsx",
+    "components/saved-products.tsx",
+    "components/search-dialog.tsx",
+    "components/store.tsx",
+    "components/ui.tsx"
+  ]
+}

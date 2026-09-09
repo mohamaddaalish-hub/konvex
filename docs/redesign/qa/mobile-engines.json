@@ -1,0 +1,98 @@
+[
+  {
+    "engine": "webkit",
+    "locale": "fa",
+    "theme": "light",
+    "width": 393,
+    "menu": true,
+    "filters": true,
+    "product": true,
+    "quote": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "engine": "webkit",
+    "locale": "fa",
+    "theme": "dark",
+    "width": 393,
+    "menu": true,
+    "filters": true,
+    "product": true,
+    "quote": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "engine": "webkit",
+    "locale": "en",
+    "theme": "light",
+    "width": 393,
+    "menu": true,
+    "filters": true,
+    "product": true,
+    "quote": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "engine": "webkit",
+    "locale": "en",
+    "theme": "dark",
+    "width": 393,
+    "menu": true,
+    "filters": true,
+    "product": true,
+    "quote": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "engine": "chromium",
+    "locale": "fa",
+    "theme": "light",
+    "width": 393,
+    "menu": true,
+    "filters": true,
+    "product": true,
+    "quote": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "engine": "chromium",
+    "locale": "fa",
+    "theme": "dark",
+    "width": 393,
+    "menu": true,
+    "filters": true,
+    "product": true,
+    "quote": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "engine": "chromium",
+    "locale": "en",
+    "theme": "light",
+    "width": 393,
+    "menu": true,
+    "filters": true,
+    "product": true,
+    "quote": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "engine": "chromium",
+    "locale": "en",
+    "theme": "dark",
+    "width": 393,
+    "menu": true,
+    "filters": true,
+    "product": true,
+    "quote": true,
+    "overflow": false,
+    "errors": []
+  }
+]

@@ -1,0 +1,11 @@
+.next
+node_modules
+private
+.env*
+data/*.sqlite*
+data/uploads
+public
+assets-source
+docs/qa
+backups
+test-results

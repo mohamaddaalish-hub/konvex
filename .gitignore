@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.env*
+!.env.example
+private/
+data/*.sqlite*
+data/uploads/
+backups/
+exports/
+.cache/
+test-results/
+playwright-report/
+*.tsbuildinfo

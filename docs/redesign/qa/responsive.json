@@ -1,0 +1,650 @@
+[
+  {
+    "route": "/",
+    "locale": "fa",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "fa",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "fa",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "fa",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "fa",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "fa",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/",
+    "locale": "en",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "en",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "en",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "en",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "en",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "en",
+    "width": 320,
+    "overflow": false,
+    "scrollWidth": 320,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/",
+    "locale": "fa",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "fa",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "fa",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "fa",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "fa",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "fa",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/",
+    "locale": "en",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "en",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "en",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "en",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "en",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "en",
+    "width": 360,
+    "overflow": false,
+    "scrollWidth": 360,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/",
+    "locale": "fa",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "fa",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "fa",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "fa",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "fa",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "fa",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/",
+    "locale": "en",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "en",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "en",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "en",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "en",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "en",
+    "width": 430,
+    "overflow": false,
+    "scrollWidth": 430,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/",
+    "locale": "fa",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "fa",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "fa",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "fa",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "fa",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "fa",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/",
+    "locale": "en",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "en",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "en",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "en",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "en",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "en",
+    "width": 768,
+    "overflow": false,
+    "scrollWidth": 768,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/",
+    "locale": "fa",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "fa",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "fa",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "fa",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "fa",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "fa",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/",
+    "locale": "en",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "en",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "en",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "en",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "en",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "en",
+    "width": 1024,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/",
+    "locale": "fa",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "fa",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "fa",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "fa",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "fa",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "fa",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/",
+    "locale": "en",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/products/industrial-casters",
+    "locale": "en",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/product/konvex-lm-60",
+    "locale": "en",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/quote?product=laser-distance-meters-1",
+    "locale": "en",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/knowledge",
+    "locale": "en",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "locale": "en",
+    "width": 1920,
+    "overflow": false,
+    "scrollWidth": 1920,
+    "exceeding": [],
+    "errors": []
+  }
+]

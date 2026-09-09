@@ -1,0 +1,881 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "title": "کانوکس | ابزارِ کارِ حرفه‌ای"
+  },
+  {
+    "path": "/compare",
+    "status": 200,
+    "title": "مقایسه محصولات | کانوکس"
+  },
+  {
+    "path": "/wishlist",
+    "status": 200,
+    "title": "محصولات ذخیره‌شده | کانوکس"
+  },
+  {
+    "path": "/quote",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/applications",
+    "status": 200,
+    "title": "انتخاب ابزار بر اساس کاربرد | کانوکس"
+  },
+  {
+    "path": "/brands",
+    "status": 200,
+    "title": "برندها | کانوکس"
+  },
+  {
+    "path": "/new-products",
+    "status": 200,
+    "title": "محصولات جدید | کانوکس"
+  },
+  {
+    "path": "/knowledge",
+    "status": 200,
+    "title": "دانشنامه ابزار | کانوکس"
+  },
+  {
+    "path": "/about",
+    "status": 200,
+    "title": "درباره کانوکس | کانوکس"
+  },
+  {
+    "path": "/contact",
+    "status": 200,
+    "title": "تماس با کانوکس | کانوکس"
+  },
+  {
+    "path": "/quote?purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/products",
+    "status": 200,
+    "title": "محصولات صنعتی | کانوکس"
+  },
+  {
+    "path": "/products/concrete-chisels",
+    "status": 200,
+    "title": "قلم بتن‌کن | کانوکس"
+  },
+  {
+    "path": "/products/industrial-casters",
+    "status": 200,
+    "title": "چرخ صنعتی | کانوکس"
+  },
+  {
+    "path": "/products/spirit-levels",
+    "status": 200,
+    "title": "تراز | کانوکس"
+  },
+  {
+    "path": "/products/laser-distance-meters",
+    "status": 200,
+    "title": "متر لیزری | کانوکس"
+  },
+  {
+    "path": "/products/abrasives",
+    "status": 200,
+    "title": "محصولات سایش | کانوکس"
+  },
+  {
+    "path": "/products/accessories",
+    "status": 200,
+    "title": "متعلقات | کانوکس"
+  },
+  {
+    "path": "/downloads/konvex-catalog-sample.pdf",
+    "status": 200
+  },
+  {
+    "path": "/featured-products",
+    "status": 200,
+    "title": "محصولات منتخب | کانوکس"
+  },
+  {
+    "path": "/product/konvex-disc-125-1",
+    "status": 200,
+    "title": "صفحه برش فلز ۱۲۵ میلی‌متری KV-AD125-1 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-chisel-1-400",
+    "status": 200,
+    "title": "قلم بتن‌کن نوک‌تیز ۴۰۰ میلی‌متری KV-CH400-1 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-caster-150-1",
+    "status": 200,
+    "title": "چرخ صنعتی گردان ترمزدار ۱۵۰ KV-IC150-1 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-lm-60",
+    "status": 200,
+    "title": "متر لیزری ۶۰ متری KV-LM60 | کانوکس"
+  },
+  {
+    "path": "/applications/metalworking",
+    "status": 200,
+    "title": "ابزار مناسب فلزکاری | کانوکس"
+  },
+  {
+    "path": "/knowledge/laser-distance-meter-buying-guide",
+    "status": 200,
+    "title": "راهنمای انتخاب متر لیزری | دانشنامه کانوکس | کانوکس"
+  },
+  {
+    "path": "/knowledge/cutting-and-grinding-disc-guide",
+    "status": 200,
+    "title": "تفاوت صفحه برش و صفحه ساب | کانوکس"
+  },
+  {
+    "path": "/knowledge/industrial-caster-selection-guide",
+    "status": 200,
+    "title": "راهنمای انتخاب چرخ صنعتی | کانوکس"
+  },
+  {
+    "path": "/privacy",
+    "status": 200,
+    "title": "حریم خصوصی | کانوکس"
+  },
+  {
+    "path": "/terms",
+    "status": 200,
+    "title": "شرایط استفاده | کانوکس"
+  },
+  {
+    "path": "/applications/construction",
+    "status": 200,
+    "title": "ابزار مناسب ساختمان | کانوکس"
+  },
+  {
+    "path": "/applications/workshop",
+    "status": 200,
+    "title": "ابزار مناسب کارگاه | کانوکس"
+  },
+  {
+    "path": "/applications/industrial",
+    "status": 200,
+    "title": "ابزار مناسب صنعت | کانوکس"
+  },
+  {
+    "path": "/applications/concrete",
+    "status": 200,
+    "title": "ابزار مناسب بتن | کانوکس"
+  },
+  {
+    "path": "/applications/equipment",
+    "status": 200,
+    "title": "ابزار مناسب تجهیزات | کانوکس"
+  },
+  {
+    "path": "/products?f.brand=konvex",
+    "status": 200,
+    "title": "محصولات صنعتی | کانوکس"
+  },
+  {
+    "path": "/product/konvex-level-60",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۶۰ سانتی‌متری KV-SL60 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-disc-115-2",
+    "status": 200,
+    "title": "صفحه ساب فلز ۱۱۵ میلی‌متری KV-AD115-2 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-chisel-2-250",
+    "status": 200,
+    "title": "قلم بتن‌کن تخت ۲۵۰ میلی‌متری KV-CH250-2 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-caster-100-2",
+    "status": 200,
+    "title": "چرخ صنعتی ثابت ۱۰۰ KV-IC100-2 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-lm-40",
+    "status": 200,
+    "title": "متر لیزری ۴۰ متری KV-LM40 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-level-40",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۴۰ سانتی‌متری KV-SL40 | کانوکس"
+  },
+  {
+    "path": "/knowledge?category=%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8",
+    "status": 200,
+    "title": "دانشنامه ابزار | کانوکس"
+  },
+  {
+    "path": "/knowledge?category=%D8%AF%D8%A7%D9%86%D8%B4%20%D9%81%D9%86%DB%8C",
+    "status": 200,
+    "title": "دانشنامه ابزار | کانوکس"
+  },
+  {
+    "path": "/knowledge/concrete-chisel-shank-guide",
+    "status": 200,
+    "title": "انتخاب قلم بتن‌کن و نوع اتصال | کانوکس"
+  },
+  {
+    "path": "/knowledge/spirit-level-selection-guide",
+    "status": 200,
+    "title": "راهنمای انتخاب تراز دستی | کانوکس"
+  },
+  {
+    "path": "/product/konvex-meter-case",
+    "status": 200,
+    "title": "کیف نگهداری متر لیزری KV-BG01 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-meter-wrist-strap",
+    "status": 200,
+    "title": "بند مچی متر لیزری KV-WS01 | کانوکس"
+  },
+  {
+    "path": "/products?page=1",
+    "status": 200,
+    "title": "محصولات صنعتی | کانوکس"
+  },
+  {
+    "path": "/products?page=2",
+    "status": 200,
+    "title": "محصولات صنعتی | کانوکس"
+  },
+  {
+    "path": "/products?page=3",
+    "status": 200,
+    "title": "محصولات صنعتی | کانوکس"
+  },
+  {
+    "path": "/product/konvex-chisel-3-400",
+    "status": 200,
+    "title": "قلم بتن‌کن شیارزن ۴۰۰ میلی‌متری KV-CH400-3 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-chisel-4-600",
+    "status": 200,
+    "title": "قلم بتن‌کن تخت پهن ۶۰۰ میلی‌متری KV-CH600-4 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-chisel-5-280",
+    "status": 200,
+    "title": "قلم بتن‌کن نوک‌تیز ۲۸۰ میلی‌متری KV-CH280-5 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-chisel-6-400",
+    "status": 200,
+    "title": "قلم بتن‌کن تخت ۴۰۰ میلی‌متری KV-CH400-6 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-caster-125-3",
+    "status": 200,
+    "title": "چرخ صنعتی گردان ترمزدار ۱۲۵ KV-IC125-3 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-caster-200-4",
+    "status": 200,
+    "title": "چرخ صنعتی گردان ۲۰۰ KV-IC200-4 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-caster-100-5",
+    "status": 200,
+    "title": "چرخ صنعتی گردان ترمزدار ۱۰۰ KV-IC100-5 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-caster-160-6",
+    "status": 200,
+    "title": "چرخ صنعتی ثابت ۱۶۰ KV-IC160-6 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-level-80",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۸۰ سانتی‌متری KV-SL80 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-level-100",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۱۰۰ سانتی‌متری KV-SL100 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-level-30",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۳۰ سانتی‌متری KV-SL30 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-level-120",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۱۲۰ سانتی‌متری KV-SL120 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-lm-80-pro",
+    "status": 200,
+    "title": "متر لیزری ۸۰ متری حرفه‌ای KV-LM80 PRO | کانوکس"
+  },
+  {
+    "path": "/product/konvex-lm-100-pro",
+    "status": 200,
+    "title": "متر لیزری ۱۰۰ متری حرفه‌ای KV-LM100 PRO | کانوکس"
+  },
+  {
+    "path": "/product/konvex-lm-30",
+    "status": 200,
+    "title": "متر لیزری ۳۰ متری KV-LM30 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-lm-120-pro",
+    "status": 200,
+    "title": "متر لیزری ۱۲۰ متری حرفه‌ای KV-LM120 PRO | کانوکس"
+  },
+  {
+    "path": "/product/konvex-disc-180-3",
+    "status": 200,
+    "title": "صفحه برش سنگ ۱۸۰ میلی‌متری KV-AD180-3 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-disc-230-4",
+    "status": 200,
+    "title": "صفحه برش بتن ۲۳۰ میلی‌متری KV-AD230-4 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-disc-125-5",
+    "status": 200,
+    "title": "صفحه ساب فلز ۱۲۵ میلی‌متری KV-AD125-5 | کانوکس"
+  },
+  {
+    "path": "/product/konvex-disc-115-6",
+    "status": 200,
+    "title": "صفحه برش استیل ۱۱۵ میلی‌متری KV-AD115-6 | کانوکس"
+  },
+  {
+    "path": "/quote?product=abrasives-1",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=abrasives-1&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/abrasives-1/datasheet",
+    "status": 200,
+    "title": "صفحه برش فلز ۱۲۵ میلی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-1",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-1&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/concrete-chisels-1/datasheet",
+    "status": 200,
+    "title": "قلم بتن‌کن نوک‌تیز ۴۰۰ میلی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=industrial-casters-1",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=industrial-casters-1&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/industrial-casters-1/datasheet",
+    "status": 200,
+    "title": "چرخ صنعتی گردان ترمزدار ۱۵۰ | KONVEX"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-1",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-1&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-1/datasheet",
+    "status": 200,
+    "title": "متر لیزری ۶۰ متری | KONVEX"
+  },
+  {
+    "path": "/applications/construction?page=1",
+    "status": 200,
+    "title": "ابزار مناسب ساختمان | کانوکس"
+  },
+  {
+    "path": "/applications/construction?page=2",
+    "status": 200,
+    "title": "ابزار مناسب ساختمان | کانوکس"
+  },
+  {
+    "path": "/applications/workshop?page=1",
+    "status": 200,
+    "title": "ابزار مناسب کارگاه | کانوکس"
+  },
+  {
+    "path": "/applications/workshop?page=2",
+    "status": 200,
+    "title": "ابزار مناسب کارگاه | کانوکس"
+  },
+  {
+    "path": "/applications/concrete?page=1",
+    "status": 200,
+    "title": "ابزار مناسب بتن | کانوکس"
+  },
+  {
+    "path": "/applications/concrete?page=2",
+    "status": 200,
+    "title": "ابزار مناسب بتن | کانوکس"
+  },
+  {
+    "path": "/products?f.brand=konvex&page=1",
+    "status": 200,
+    "title": "محصولات صنعتی | کانوکس"
+  },
+  {
+    "path": "/products?f.brand=konvex&page=2",
+    "status": 200,
+    "title": "محصولات صنعتی | کانوکس"
+  },
+  {
+    "path": "/products?f.brand=konvex&page=3",
+    "status": 200,
+    "title": "محصولات صنعتی | کانوکس"
+  },
+  {
+    "path": "/quote?product=spirit-levels-1",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=spirit-levels-1&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/spirit-levels-1/datasheet",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۶۰ سانتی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=abrasives-2",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=abrasives-2&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/abrasives-2/datasheet",
+    "status": 200,
+    "title": "صفحه ساب فلز ۱۱۵ میلی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-2",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-2&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/concrete-chisels-2/datasheet",
+    "status": 200,
+    "title": "قلم بتن‌کن تخت ۲۵۰ میلی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=industrial-casters-2",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=industrial-casters-2&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/industrial-casters-2/datasheet",
+    "status": 200,
+    "title": "چرخ صنعتی ثابت ۱۰۰ | KONVEX"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-2",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-2&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-2/datasheet",
+    "status": 200,
+    "title": "متر لیزری ۴۰ متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=spirit-levels-2",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=spirit-levels-2&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/spirit-levels-2/datasheet",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۴۰ سانتی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=accessories-1",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=accessories-1&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/accessories-1/datasheet",
+    "status": 200,
+    "title": "کیف نگهداری متر لیزری | KONVEX"
+  },
+  {
+    "path": "/quote?product=accessories-2",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=accessories-2&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/accessories-2/datasheet",
+    "status": 200,
+    "title": "بند مچی متر لیزری | KONVEX"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-3",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-3&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/concrete-chisels-3/datasheet",
+    "status": 200,
+    "title": "قلم بتن‌کن شیارزن ۴۰۰ میلی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-4",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-4&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/concrete-chisels-4/datasheet",
+    "status": 200,
+    "title": "قلم بتن‌کن تخت پهن ۶۰۰ میلی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-5",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-5&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/concrete-chisels-5/datasheet",
+    "status": 200,
+    "title": "قلم بتن‌کن نوک‌تیز ۲۸۰ میلی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-6",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-6&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/concrete-chisels-6/datasheet",
+    "status": 200,
+    "title": "قلم بتن‌کن تخت ۴۰۰ میلی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=industrial-casters-3",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=industrial-casters-3&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/industrial-casters-3/datasheet",
+    "status": 200,
+    "title": "چرخ صنعتی گردان ترمزدار ۱۲۵ | KONVEX"
+  },
+  {
+    "path": "/quote?product=industrial-casters-4",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=industrial-casters-4&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/industrial-casters-4/datasheet",
+    "status": 200,
+    "title": "چرخ صنعتی گردان ۲۰۰ | KONVEX"
+  },
+  {
+    "path": "/quote?product=industrial-casters-5",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=industrial-casters-5&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/industrial-casters-5/datasheet",
+    "status": 200,
+    "title": "چرخ صنعتی گردان ترمزدار ۱۰۰ | KONVEX"
+  },
+  {
+    "path": "/quote?product=industrial-casters-6",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=industrial-casters-6&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/industrial-casters-6/datasheet",
+    "status": 200,
+    "title": "چرخ صنعتی ثابت ۱۶۰ | KONVEX"
+  },
+  {
+    "path": "/quote?product=spirit-levels-3",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=spirit-levels-3&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/spirit-levels-3/datasheet",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۸۰ سانتی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=spirit-levels-4",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=spirit-levels-4&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/spirit-levels-4/datasheet",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۱۰۰ سانتی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=spirit-levels-5",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=spirit-levels-5&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/spirit-levels-5/datasheet",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۳۰ سانتی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=spirit-levels-6",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=spirit-levels-6&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/spirit-levels-6/datasheet",
+    "status": 200,
+    "title": "تراز حرفه‌ای ۱۲۰ سانتی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-3",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-3&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-3/datasheet",
+    "status": 200,
+    "title": "متر لیزری ۸۰ متری حرفه‌ای | KONVEX"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-4",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-4&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-4/datasheet",
+    "status": 200,
+    "title": "متر لیزری ۱۰۰ متری حرفه‌ای | KONVEX"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-5",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-5&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-5/datasheet",
+    "status": 200,
+    "title": "متر لیزری ۳۰ متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-6",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-6&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-6/datasheet",
+    "status": 200,
+    "title": "متر لیزری ۱۲۰ متری حرفه‌ای | KONVEX"
+  },
+  {
+    "path": "/quote?product=abrasives-3",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=abrasives-3&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/abrasives-3/datasheet",
+    "status": 200,
+    "title": "صفحه برش سنگ ۱۸۰ میلی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=abrasives-4",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=abrasives-4&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/abrasives-4/datasheet",
+    "status": 200,
+    "title": "صفحه برش بتن ۲۳۰ میلی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=abrasives-5",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=abrasives-5&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/abrasives-5/datasheet",
+    "status": 200,
+    "title": "صفحه ساب فلز ۱۲۵ میلی‌متری | KONVEX"
+  },
+  {
+    "path": "/quote?product=abrasives-6",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/quote?product=abrasives-6&purpose=consultation",
+    "status": 200,
+    "title": "درخواست قیمت و مشاوره | کانوکس"
+  },
+  {
+    "path": "/api/products/abrasives-6/datasheet",
+    "status": 200,
+    "title": "صفحه برش استیل ۱۱۵ میلی‌متری | KONVEX"
+  }
+]

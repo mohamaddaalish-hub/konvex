@@ -1,0 +1,4490 @@
+[
+  {
+    "type": "product",
+    "id": "abrasives-1",
+    "fields": {
+      "subcategory": {
+        "source": "برش",
+        "text": "Cutting"
+      },
+      "name": {
+        "source": "صفحه برش فلز ۱۲۵ میلی‌متری",
+        "text": "Metal cutting disc · 125 mm"
+      },
+      "shortDescription": {
+        "source": "قطر ۱۲۵ و ضخامت ۱٫۲ میلی‌متر؛ برای برش فلز.",
+        "text": "125 mm diameter and 1.2 mm thickness, for cutting metal."
+      },
+      "longDescription": {
+        "source": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+        "text": "Choose a disc to match the workpiece material, operation, permitted machine diameter and speed. The disc's speed rating must be compatible with the machine and must never be lower. Do not use a cutting disc for side grinding. Use the machine guard and personal protective equipment as instructed by the manufacturer. This model's information is a sample only."
+      },
+      "specifications.0.label": {
+        "source": "قطر صفحه",
+        "text": "Disc diameter"
+      },
+      "specifications.1.label": {
+        "source": "ضخامت",
+        "text": "Thickness"
+      },
+      "specifications.2.label": {
+        "source": "حداکثر دور مجاز",
+        "text": "Maximum rated speed"
+      },
+      "specifications.3.label": {
+        "source": "قطر سوراخ مرکزی",
+        "text": "Bore diameter"
+      },
+      "specifications.4.label": {
+        "source": "جنس قطعه‌کار",
+        "text": "Workpiece material"
+      },
+      "specifications.4.value": {
+        "source": "فلز",
+        "text": "Metal"
+      },
+      "specifications.5.label": {
+        "source": "نوع صفحه",
+        "text": "Disc type"
+      },
+      "specifications.5.value": {
+        "source": "برش",
+        "text": "Cutting"
+      },
+      "specifications.6.label": {
+        "source": "نوع ساینده",
+        "text": "Abrasive type"
+      },
+      "specifications.6.value": {
+        "source": "آلومینیوم اکسید",
+        "text": "Aluminium oxide"
+      },
+      "features.0": {
+        "source": "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "text": "Select the disc to suit the workpiece material"
+      },
+      "features.1": {
+        "source": "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "text": "Diameter and thickness shown for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه",
+        "text": "Maximum permitted speed stated in the sample catalog"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس",
+        "text": "Sample studio image of the Konvex abrasives family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "محصولات سایش",
+        "text": "Abrasives"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "صفحه برش فلز ۱۲۵ میلی‌متری KV-AD125-1 | کانوکس",
+        "text": "Metal cutting disc · 125 mm KV-AD125-1 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه صفحه برش فلز ۱۲۵ میلی‌متری مدل KV-AD125-1. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Metal cutting disc · 125 mm, model KV-AD125-1. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "abrasives-2",
+    "fields": {
+      "subcategory": {
+        "source": "ساب",
+        "text": "Grinding"
+      },
+      "name": {
+        "source": "صفحه ساب فلز ۱۱۵ میلی‌متری",
+        "text": "Metal grinding disc · 115 mm"
+      },
+      "shortDescription": {
+        "source": "قطر ۱۱۵ و ضخامت ۶ میلی‌متر؛ برای ساب فلز.",
+        "text": "115 mm diameter and 6 mm thickness, for grinding metal."
+      },
+      "longDescription": {
+        "source": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+        "text": "Choose a disc to match the workpiece material, operation, permitted machine diameter and speed. The disc's speed rating must be compatible with the machine and must never be lower. Do not use a cutting disc for side grinding. Use the machine guard and personal protective equipment as instructed by the manufacturer. This model's information is a sample only."
+      },
+      "specifications.0.label": {
+        "source": "قطر صفحه",
+        "text": "Disc diameter"
+      },
+      "specifications.1.label": {
+        "source": "ضخامت",
+        "text": "Thickness"
+      },
+      "specifications.2.label": {
+        "source": "حداکثر دور مجاز",
+        "text": "Maximum rated speed"
+      },
+      "specifications.3.label": {
+        "source": "قطر سوراخ مرکزی",
+        "text": "Bore diameter"
+      },
+      "specifications.4.label": {
+        "source": "جنس قطعه‌کار",
+        "text": "Workpiece material"
+      },
+      "specifications.4.value": {
+        "source": "فلز",
+        "text": "Metal"
+      },
+      "specifications.5.label": {
+        "source": "نوع صفحه",
+        "text": "Disc type"
+      },
+      "specifications.5.value": {
+        "source": "ساب",
+        "text": "Grinding"
+      },
+      "specifications.6.label": {
+        "source": "نوع ساینده",
+        "text": "Abrasive type"
+      },
+      "specifications.6.value": {
+        "source": "آلومینیوم اکسید",
+        "text": "Aluminium oxide"
+      },
+      "features.0": {
+        "source": "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "text": "Select the disc to suit the workpiece material"
+      },
+      "features.1": {
+        "source": "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "text": "Diameter and thickness shown for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه",
+        "text": "Maximum permitted speed stated in the sample catalog"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس",
+        "text": "Sample studio image of the Konvex abrasives family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "محصولات سایش",
+        "text": "Abrasives"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "صفحه ساب فلز ۱۱۵ میلی‌متری KV-AD115-2 | کانوکس",
+        "text": "Metal grinding disc · 115 mm KV-AD115-2 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه صفحه ساب فلز ۱۱۵ میلی‌متری مدل KV-AD115-2. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Metal grinding disc · 115 mm, model KV-AD115-2. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "abrasives-3",
+    "fields": {
+      "subcategory": {
+        "source": "برش",
+        "text": "Cutting"
+      },
+      "name": {
+        "source": "صفحه برش سنگ ۱۸۰ میلی‌متری",
+        "text": "Stone cutting disc · 180 mm"
+      },
+      "shortDescription": {
+        "source": "قطر ۱۸۰ و ضخامت ۳ میلی‌متر؛ برای برش سنگ.",
+        "text": "180 mm diameter and 3 mm thickness, for cutting stone."
+      },
+      "longDescription": {
+        "source": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+        "text": "Choose a disc to match the workpiece material, operation, permitted machine diameter and speed. The disc's speed rating must be compatible with the machine and must never be lower. Do not use a cutting disc for side grinding. Use the machine guard and personal protective equipment as instructed by the manufacturer. This model's information is a sample only."
+      },
+      "specifications.0.label": {
+        "source": "قطر صفحه",
+        "text": "Disc diameter"
+      },
+      "specifications.1.label": {
+        "source": "ضخامت",
+        "text": "Thickness"
+      },
+      "specifications.2.label": {
+        "source": "حداکثر دور مجاز",
+        "text": "Maximum rated speed"
+      },
+      "specifications.3.label": {
+        "source": "قطر سوراخ مرکزی",
+        "text": "Bore diameter"
+      },
+      "specifications.4.label": {
+        "source": "جنس قطعه‌کار",
+        "text": "Workpiece material"
+      },
+      "specifications.4.value": {
+        "source": "سنگ",
+        "text": "Stone"
+      },
+      "specifications.5.label": {
+        "source": "نوع صفحه",
+        "text": "Disc type"
+      },
+      "specifications.5.value": {
+        "source": "برش",
+        "text": "Cutting"
+      },
+      "specifications.6.label": {
+        "source": "نوع ساینده",
+        "text": "Abrasive type"
+      },
+      "specifications.6.value": {
+        "source": "سیلیکون کارباید",
+        "text": "Silicon carbide"
+      },
+      "features.0": {
+        "source": "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "text": "Select the disc to suit the workpiece material"
+      },
+      "features.1": {
+        "source": "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "text": "Diameter and thickness shown for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه",
+        "text": "Maximum permitted speed stated in the sample catalog"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس",
+        "text": "Sample studio image of the Konvex abrasives family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "محصولات سایش",
+        "text": "Abrasives"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "صفحه برش سنگ ۱۸۰ میلی‌متری KV-AD180-3 | کانوکس",
+        "text": "Stone cutting disc · 180 mm KV-AD180-3 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه صفحه برش سنگ ۱۸۰ میلی‌متری مدل KV-AD180-3. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Stone cutting disc · 180 mm, model KV-AD180-3. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "abrasives-4",
+    "fields": {
+      "subcategory": {
+        "source": "برش",
+        "text": "Cutting"
+      },
+      "name": {
+        "source": "صفحه برش بتن ۲۳۰ میلی‌متری",
+        "text": "Concrete cutting disc · 230 mm"
+      },
+      "shortDescription": {
+        "source": "قطر ۲۳۰ و ضخامت ۳ میلی‌متر؛ برای برش بتن.",
+        "text": "230 mm diameter and 3 mm thickness, for cutting concrete."
+      },
+      "longDescription": {
+        "source": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+        "text": "Choose a disc to match the workpiece material, operation, permitted machine diameter and speed. The disc's speed rating must be compatible with the machine and must never be lower. Do not use a cutting disc for side grinding. Use the machine guard and personal protective equipment as instructed by the manufacturer. This model's information is a sample only."
+      },
+      "specifications.0.label": {
+        "source": "قطر صفحه",
+        "text": "Disc diameter"
+      },
+      "specifications.1.label": {
+        "source": "ضخامت",
+        "text": "Thickness"
+      },
+      "specifications.2.label": {
+        "source": "حداکثر دور مجاز",
+        "text": "Maximum rated speed"
+      },
+      "specifications.3.label": {
+        "source": "قطر سوراخ مرکزی",
+        "text": "Bore diameter"
+      },
+      "specifications.4.label": {
+        "source": "جنس قطعه‌کار",
+        "text": "Workpiece material"
+      },
+      "specifications.4.value": {
+        "source": "بتن",
+        "text": "Concrete"
+      },
+      "specifications.5.label": {
+        "source": "نوع صفحه",
+        "text": "Disc type"
+      },
+      "specifications.5.value": {
+        "source": "برش",
+        "text": "Cutting"
+      },
+      "specifications.6.label": {
+        "source": "نوع ساینده",
+        "text": "Abrasive type"
+      },
+      "specifications.6.value": {
+        "source": "سیلیکون کارباید",
+        "text": "Silicon carbide"
+      },
+      "features.0": {
+        "source": "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "text": "Select the disc to suit the workpiece material"
+      },
+      "features.1": {
+        "source": "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "text": "Diameter and thickness shown for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه",
+        "text": "Maximum permitted speed stated in the sample catalog"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس",
+        "text": "Sample studio image of the Konvex abrasives family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "محصولات سایش",
+        "text": "Abrasives"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "صفحه برش بتن ۲۳۰ میلی‌متری KV-AD230-4 | کانوکس",
+        "text": "Concrete cutting disc · 230 mm KV-AD230-4 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه صفحه برش بتن ۲۳۰ میلی‌متری مدل KV-AD230-4. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Concrete cutting disc · 230 mm, model KV-AD230-4. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "abrasives-5",
+    "fields": {
+      "subcategory": {
+        "source": "ساب",
+        "text": "Grinding"
+      },
+      "name": {
+        "source": "صفحه ساب فلز ۱۲۵ میلی‌متری",
+        "text": "Metal grinding disc · 125 mm"
+      },
+      "shortDescription": {
+        "source": "قطر ۱۲۵ و ضخامت ۶ میلی‌متر؛ برای ساب فلز.",
+        "text": "125 mm diameter and 6 mm thickness, for grinding metal."
+      },
+      "longDescription": {
+        "source": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+        "text": "Choose a disc to match the workpiece material, operation, permitted machine diameter and speed. The disc's speed rating must be compatible with the machine and must never be lower. Do not use a cutting disc for side grinding. Use the machine guard and personal protective equipment as instructed by the manufacturer. This model's information is a sample only."
+      },
+      "specifications.0.label": {
+        "source": "قطر صفحه",
+        "text": "Disc diameter"
+      },
+      "specifications.1.label": {
+        "source": "ضخامت",
+        "text": "Thickness"
+      },
+      "specifications.2.label": {
+        "source": "حداکثر دور مجاز",
+        "text": "Maximum rated speed"
+      },
+      "specifications.3.label": {
+        "source": "قطر سوراخ مرکزی",
+        "text": "Bore diameter"
+      },
+      "specifications.4.label": {
+        "source": "جنس قطعه‌کار",
+        "text": "Workpiece material"
+      },
+      "specifications.4.value": {
+        "source": "فلز",
+        "text": "Metal"
+      },
+      "specifications.5.label": {
+        "source": "نوع صفحه",
+        "text": "Disc type"
+      },
+      "specifications.5.value": {
+        "source": "ساب",
+        "text": "Grinding"
+      },
+      "specifications.6.label": {
+        "source": "نوع ساینده",
+        "text": "Abrasive type"
+      },
+      "specifications.6.value": {
+        "source": "آلومینیوم اکسید",
+        "text": "Aluminium oxide"
+      },
+      "features.0": {
+        "source": "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "text": "Select the disc to suit the workpiece material"
+      },
+      "features.1": {
+        "source": "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "text": "Diameter and thickness shown for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه",
+        "text": "Maximum permitted speed stated in the sample catalog"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس",
+        "text": "Sample studio image of the Konvex abrasives family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "محصولات سایش",
+        "text": "Abrasives"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "صفحه ساب فلز ۱۲۵ میلی‌متری KV-AD125-5 | کانوکس",
+        "text": "Metal grinding disc · 125 mm KV-AD125-5 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه صفحه ساب فلز ۱۲۵ میلی‌متری مدل KV-AD125-5. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Metal grinding disc · 125 mm, model KV-AD125-5. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "abrasives-6",
+    "fields": {
+      "subcategory": {
+        "source": "برش",
+        "text": "Cutting"
+      },
+      "name": {
+        "source": "صفحه برش استیل ۱۱۵ میلی‌متری",
+        "text": "Stainless-steel cutting disc · 115 mm"
+      },
+      "shortDescription": {
+        "source": "قطر ۱۱۵ و ضخامت ۱ میلی‌متر؛ برای برش استیل.",
+        "text": "115 mm diameter and 1 mm thickness, for cutting stainless steel."
+      },
+      "longDescription": {
+        "source": "صفحه را با توجه به جنس قطعه‌کار، نوع عملیات، قطر مجاز دستگاه و سرعت آن انتخاب کنید. سرعت مجاز صفحه باید با سرعت دستگاه سازگار باشد و هرگز کمتر از آن نباشد. از صفحه برش برای ساب جانبی استفاده نکنید. محافظ دستگاه و تجهیزات حفاظت فردی باید مطابق دستورالعمل سازنده استفاده شوند. اطلاعات این مدل صرفاً نمونه است.",
+        "text": "Choose a disc to match the workpiece material, operation, permitted machine diameter and speed. The disc's speed rating must be compatible with the machine and must never be lower. Do not use a cutting disc for side grinding. Use the machine guard and personal protective equipment as instructed by the manufacturer. This model's information is a sample only."
+      },
+      "specifications.0.label": {
+        "source": "قطر صفحه",
+        "text": "Disc diameter"
+      },
+      "specifications.1.label": {
+        "source": "ضخامت",
+        "text": "Thickness"
+      },
+      "specifications.2.label": {
+        "source": "حداکثر دور مجاز",
+        "text": "Maximum rated speed"
+      },
+      "specifications.3.label": {
+        "source": "قطر سوراخ مرکزی",
+        "text": "Bore diameter"
+      },
+      "specifications.4.label": {
+        "source": "جنس قطعه‌کار",
+        "text": "Workpiece material"
+      },
+      "specifications.4.value": {
+        "source": "استیل",
+        "text": "Stainless steel"
+      },
+      "specifications.5.label": {
+        "source": "نوع صفحه",
+        "text": "Disc type"
+      },
+      "specifications.5.value": {
+        "source": "برش",
+        "text": "Cutting"
+      },
+      "specifications.6.label": {
+        "source": "نوع ساینده",
+        "text": "Abrasive type"
+      },
+      "specifications.6.value": {
+        "source": "آلومینیوم اکسید",
+        "text": "Aluminium oxide"
+      },
+      "features.0": {
+        "source": "انتخاب صفحه متناسب با جنس قطعه‌کار",
+        "text": "Select the disc to suit the workpiece material"
+      },
+      "features.1": {
+        "source": "نمایش قطر و ضخامت برای تطبیق با دستگاه",
+        "text": "Diameter and thickness shown for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "مشخص بودن حداکثر سرعت مجاز در کاتالوگ نمونه",
+        "text": "Maximum permitted speed stated in the sample catalog"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده محصولات سایش کانوکس",
+        "text": "Sample studio image of the Konvex abrasives family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "محصولات سایش",
+        "text": "Abrasives"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "صفحه برش استیل ۱۱۵ میلی‌متری KV-AD115-6 | کانوکس",
+        "text": "Stainless-steel cutting disc · 115 mm KV-AD115-6 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه صفحه برش استیل ۱۱۵ میلی‌متری مدل KV-AD115-6. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Stainless-steel cutting disc · 115 mm, model KV-AD115-6. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "accessories-1",
+    "fields": {
+      "name": {
+        "source": "کیف نگهداری متر لیزری",
+        "text": "Laser meter carry pouch"
+      },
+      "shortDescription": {
+        "source": "کیف محافظ برای نگهداری و حمل متر لیزری؛ سازگاری ابعاد پیش از سفارش بررسی شود.",
+        "text": "A protective pouch for storing and carrying a laser meter. Check dimensional compatibility before ordering."
+      },
+      "longDescription": {
+        "source": "برای حمل و نگهداری متر لیزری، کیف متناسب با ابعاد دستگاه انتخاب کنید. تصویر این محصول نمایشی است و تصویر مجموعه متعلقات برای معرفی خانواده محصول استفاده شده است.",
+        "text": "Choose a pouch that fits your laser meter for carrying and storage. This image is illustrative; an accessory-group image is used to introduce the product family."
+      },
+      "specifications.0.label": {
+        "source": "نوع متعلقات",
+        "text": "Accessory type"
+      },
+      "specifications.0.value": {
+        "source": "کیف",
+        "text": "Pouch"
+      },
+      "specifications.1.label": {
+        "source": "جنس",
+        "text": "Material"
+      },
+      "specifications.1.value": {
+        "source": "پارچه مقاوم",
+        "text": "Durable fabric"
+      },
+      "specifications.2.label": {
+        "source": "ابعاد داخلی",
+        "text": "Internal dimensions"
+      },
+      "images.0.alt": {
+        "source": "تصویر نمونه متعلقات متر لیزری؛ کیف نگهداری و بند مچی",
+        "text": "Sample laser-meter accessories: carry pouch and wrist strap"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "متعلقات",
+        "text": "Accessories"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "کیف نگهداری متر لیزری KV-BG01 | کانوکس",
+        "text": "Laser meter carry pouch KV-BG01 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه کیف نگهداری متر لیزری مدل KV-BG01. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Laser meter carry pouch, model KV-BG01. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "accessories-2",
+    "fields": {
+      "name": {
+        "source": "بند مچی متر لیزری",
+        "text": "Laser meter wrist strap"
+      },
+      "shortDescription": {
+        "source": "متعلقات نگهداری متر لیزری؛ نوع محل اتصال دستگاه باید بررسی شود.",
+        "text": "A laser-meter handling accessory. Check the device's attachment point before use."
+      },
+      "longDescription": {
+        "source": "بند مچی، جایگزین نگهداری صحیح دستگاه نیست. پیش از استفاده، سلامت بند و سازگاری محل اتصال را بررسی کنید. تصویر این محصول نمایشی است و تصویر مجموعه متعلقات برای معرفی خانواده محصول استفاده شده است.",
+        "text": "A wrist strap is not a substitute for holding the device correctly. Check the strap's condition and attachment compatibility before use. This image is illustrative; an accessory-group image is used to introduce the product family."
+      },
+      "specifications.0.label": {
+        "source": "نوع متعلقات",
+        "text": "Accessory type"
+      },
+      "specifications.0.value": {
+        "source": "بند مچی",
+        "text": "Wrist strap"
+      },
+      "specifications.1.label": {
+        "source": "جنس",
+        "text": "Material"
+      },
+      "specifications.1.value": {
+        "source": "نایلون",
+        "text": "Nylon"
+      },
+      "images.0.alt": {
+        "source": "تصویر نمونه متعلقات متر لیزری؛ بند مچی و کیف نگهداری",
+        "text": "Sample laser-meter accessories: wrist strap and carry pouch"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "متعلقات",
+        "text": "Accessories"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "بند مچی متر لیزری KV-WS01 | کانوکس",
+        "text": "Laser meter wrist strap KV-WS01 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه بند مچی متر لیزری مدل KV-WS01. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Laser meter wrist strap, model KV-WS01. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "concrete-chisels-1",
+    "fields": {
+      "subcategory": {
+        "source": "نوک‌تیز",
+        "text": "Pointed"
+      },
+      "name": {
+        "source": "قلم بتن‌کن نوک‌تیز ۴۰۰ میلی‌متری",
+        "text": "Pointed concrete chisel · 400 mm"
+      },
+      "shortDescription": {
+        "source": "قلم نوک‌تیز با اتصال SDS Max؛ برای کار روی بتن و مصالح سازگار.",
+        "text": "Pointed chisel with an SDS Max shank, for concrete and compatible materials."
+      },
+      "longDescription": {
+        "source": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+        "text": "The chisel tip and shank must suit the work and the rotary hammer. A pointed tip concentrates force, a flat tip supports localized material removal, and a channeling tip creates grooves. Review the concrete, machine power and working conditions before choosing. The specifications on this page are samples, not a substitute for manufacturer instructions."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "نوع اتصال",
+        "text": "Shank type"
+      },
+      "specifications.2.label": {
+        "source": "قطر بدنه",
+        "text": "Body diameter"
+      },
+      "specifications.3.label": {
+        "source": "نوع قلم",
+        "text": "Chisel type"
+      },
+      "specifications.3.value": {
+        "source": "نوک‌تیز",
+        "text": "Pointed"
+      },
+      "specifications.4.label": {
+        "source": "جنس",
+        "text": "Material"
+      },
+      "specifications.4.value": {
+        "source": "فولاد آلیاژی",
+        "text": "Alloy steel"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب شکل نوک متناسب با نوع تخریب",
+        "text": "Choose the tip shape to suit the demolition task"
+      },
+      "features.1": {
+        "source": "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "text": "A specified shank for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "بدنه فولادی با مقطع مناسب انتقال ضربه",
+        "text": "Steel body with a cross-section suitable for impact transfer"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس",
+        "text": "Sample studio image of the Konvex concrete-chisel family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "قلم بتن‌کن",
+        "text": "Concrete chisels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد قلم بتن‌کن",
+        "text": "One concrete chisel"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "قلم بتن‌کن نوک‌تیز ۴۰۰ میلی‌متری KV-CH400-1 | کانوکس",
+        "text": "Pointed concrete chisel · 400 mm KV-CH400-1 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن نوک‌تیز ۴۰۰ میلی‌متری مدل KV-CH400-1. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Pointed concrete chisel · 400 mm, model KV-CH400-1. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "concrete-chisels-2",
+    "fields": {
+      "subcategory": {
+        "source": "تخت",
+        "text": "Flat"
+      },
+      "name": {
+        "source": "قلم بتن‌کن تخت ۲۵۰ میلی‌متری",
+        "text": "Flat concrete chisel · 250 mm"
+      },
+      "shortDescription": {
+        "source": "قلم تخت با اتصال SDS Plus؛ برای کار روی بتن و مصالح سازگار.",
+        "text": "Flat chisel with an SDS Plus shank, for concrete and compatible materials."
+      },
+      "longDescription": {
+        "source": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+        "text": "The chisel tip and shank must suit the work and the rotary hammer. A pointed tip concentrates force, a flat tip supports localized material removal, and a channeling tip creates grooves. Review the concrete, machine power and working conditions before choosing. The specifications on this page are samples, not a substitute for manufacturer instructions."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "نوع اتصال",
+        "text": "Shank type"
+      },
+      "specifications.2.label": {
+        "source": "قطر بدنه",
+        "text": "Body diameter"
+      },
+      "specifications.3.label": {
+        "source": "نوع قلم",
+        "text": "Chisel type"
+      },
+      "specifications.3.value": {
+        "source": "تخت",
+        "text": "Flat"
+      },
+      "specifications.4.label": {
+        "source": "جنس",
+        "text": "Material"
+      },
+      "specifications.4.value": {
+        "source": "فولاد آلیاژی",
+        "text": "Alloy steel"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب شکل نوک متناسب با نوع تخریب",
+        "text": "Choose the tip shape to suit the demolition task"
+      },
+      "features.1": {
+        "source": "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "text": "A specified shank for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "بدنه فولادی با مقطع مناسب انتقال ضربه",
+        "text": "Steel body with a cross-section suitable for impact transfer"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس",
+        "text": "Sample studio image of the Konvex concrete-chisel family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "قلم بتن‌کن",
+        "text": "Concrete chisels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد قلم بتن‌کن",
+        "text": "One concrete chisel"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "قلم بتن‌کن تخت ۲۵۰ میلی‌متری KV-CH250-2 | کانوکس",
+        "text": "Flat concrete chisel · 250 mm KV-CH250-2 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن تخت ۲۵۰ میلی‌متری مدل KV-CH250-2. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Flat concrete chisel · 250 mm, model KV-CH250-2. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "concrete-chisels-3",
+    "fields": {
+      "subcategory": {
+        "source": "شیارزن",
+        "text": "Channeling"
+      },
+      "name": {
+        "source": "قلم بتن‌کن شیارزن ۴۰۰ میلی‌متری",
+        "text": "Channeling concrete chisel · 400 mm"
+      },
+      "shortDescription": {
+        "source": "قلم شیارزن با اتصال SDS Max؛ برای کار روی بتن و مصالح سازگار.",
+        "text": "Channeling chisel with an SDS Max shank, for concrete and compatible materials."
+      },
+      "longDescription": {
+        "source": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+        "text": "The chisel tip and shank must suit the work and the rotary hammer. A pointed tip concentrates force, a flat tip supports localized material removal, and a channeling tip creates grooves. Review the concrete, machine power and working conditions before choosing. The specifications on this page are samples, not a substitute for manufacturer instructions."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "نوع اتصال",
+        "text": "Shank type"
+      },
+      "specifications.2.label": {
+        "source": "قطر بدنه",
+        "text": "Body diameter"
+      },
+      "specifications.3.label": {
+        "source": "نوع قلم",
+        "text": "Chisel type"
+      },
+      "specifications.3.value": {
+        "source": "شیارزن",
+        "text": "Channeling"
+      },
+      "specifications.4.label": {
+        "source": "جنس",
+        "text": "Material"
+      },
+      "specifications.4.value": {
+        "source": "فولاد آلیاژی",
+        "text": "Alloy steel"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب شکل نوک متناسب با نوع تخریب",
+        "text": "Choose the tip shape to suit the demolition task"
+      },
+      "features.1": {
+        "source": "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "text": "A specified shank for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "بدنه فولادی با مقطع مناسب انتقال ضربه",
+        "text": "Steel body with a cross-section suitable for impact transfer"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس",
+        "text": "Sample studio image of the Konvex concrete-chisel family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "قلم بتن‌کن",
+        "text": "Concrete chisels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد قلم بتن‌کن",
+        "text": "One concrete chisel"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "قلم بتن‌کن شیارزن ۴۰۰ میلی‌متری KV-CH400-3 | کانوکس",
+        "text": "Channeling concrete chisel · 400 mm KV-CH400-3 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن شیارزن ۴۰۰ میلی‌متری مدل KV-CH400-3. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Channeling concrete chisel · 400 mm, model KV-CH400-3. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "concrete-chisels-4",
+    "fields": {
+      "subcategory": {
+        "source": "تخت پهن",
+        "text": "Wide flat"
+      },
+      "name": {
+        "source": "قلم بتن‌کن تخت پهن ۶۰۰ میلی‌متری",
+        "text": "Wide flat concrete chisel · 600 mm"
+      },
+      "shortDescription": {
+        "source": "قلم تخت پهن با اتصال Hex 30؛ برای کار روی بتن و مصالح سازگار.",
+        "text": "Wide flat chisel with a Hex 30 shank, for concrete and compatible materials."
+      },
+      "longDescription": {
+        "source": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+        "text": "The chisel tip and shank must suit the work and the rotary hammer. A pointed tip concentrates force, a flat tip supports localized material removal, and a channeling tip creates grooves. Review the concrete, machine power and working conditions before choosing. The specifications on this page are samples, not a substitute for manufacturer instructions."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "نوع اتصال",
+        "text": "Shank type"
+      },
+      "specifications.2.label": {
+        "source": "قطر بدنه",
+        "text": "Body diameter"
+      },
+      "specifications.3.label": {
+        "source": "نوع قلم",
+        "text": "Chisel type"
+      },
+      "specifications.3.value": {
+        "source": "تخت پهن",
+        "text": "Wide flat"
+      },
+      "specifications.4.label": {
+        "source": "جنس",
+        "text": "Material"
+      },
+      "specifications.4.value": {
+        "source": "فولاد آلیاژی",
+        "text": "Alloy steel"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب شکل نوک متناسب با نوع تخریب",
+        "text": "Choose the tip shape to suit the demolition task"
+      },
+      "features.1": {
+        "source": "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "text": "A specified shank for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "بدنه فولادی با مقطع مناسب انتقال ضربه",
+        "text": "Steel body with a cross-section suitable for impact transfer"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس",
+        "text": "Sample studio image of the Konvex concrete-chisel family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "قلم بتن‌کن",
+        "text": "Concrete chisels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد قلم بتن‌کن",
+        "text": "One concrete chisel"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "قلم بتن‌کن تخت پهن ۶۰۰ میلی‌متری KV-CH600-4 | کانوکس",
+        "text": "Wide flat concrete chisel · 600 mm KV-CH600-4 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن تخت پهن ۶۰۰ میلی‌متری مدل KV-CH600-4. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Wide flat concrete chisel · 600 mm, model KV-CH600-4. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "concrete-chisels-5",
+    "fields": {
+      "subcategory": {
+        "source": "نوک‌تیز",
+        "text": "Pointed"
+      },
+      "name": {
+        "source": "قلم بتن‌کن نوک‌تیز ۲۸۰ میلی‌متری",
+        "text": "Pointed concrete chisel · 280 mm"
+      },
+      "shortDescription": {
+        "source": "قلم نوک‌تیز با اتصال SDS Plus؛ برای کار روی بتن و مصالح سازگار.",
+        "text": "Pointed chisel with an SDS Plus shank, for concrete and compatible materials."
+      },
+      "longDescription": {
+        "source": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+        "text": "The chisel tip and shank must suit the work and the rotary hammer. A pointed tip concentrates force, a flat tip supports localized material removal, and a channeling tip creates grooves. Review the concrete, machine power and working conditions before choosing. The specifications on this page are samples, not a substitute for manufacturer instructions."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "نوع اتصال",
+        "text": "Shank type"
+      },
+      "specifications.2.label": {
+        "source": "قطر بدنه",
+        "text": "Body diameter"
+      },
+      "specifications.3.label": {
+        "source": "نوع قلم",
+        "text": "Chisel type"
+      },
+      "specifications.3.value": {
+        "source": "نوک‌تیز",
+        "text": "Pointed"
+      },
+      "specifications.4.label": {
+        "source": "جنس",
+        "text": "Material"
+      },
+      "specifications.4.value": {
+        "source": "فولاد آلیاژی",
+        "text": "Alloy steel"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب شکل نوک متناسب با نوع تخریب",
+        "text": "Choose the tip shape to suit the demolition task"
+      },
+      "features.1": {
+        "source": "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "text": "A specified shank for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "بدنه فولادی با مقطع مناسب انتقال ضربه",
+        "text": "Steel body with a cross-section suitable for impact transfer"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس",
+        "text": "Sample studio image of the Konvex concrete-chisel family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "قلم بتن‌کن",
+        "text": "Concrete chisels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد قلم بتن‌کن",
+        "text": "One concrete chisel"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "قلم بتن‌کن نوک‌تیز ۲۸۰ میلی‌متری KV-CH280-5 | کانوکس",
+        "text": "Pointed concrete chisel · 280 mm KV-CH280-5 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن نوک‌تیز ۲۸۰ میلی‌متری مدل KV-CH280-5. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Pointed concrete chisel · 280 mm, model KV-CH280-5. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "concrete-chisels-6",
+    "fields": {
+      "subcategory": {
+        "source": "تخت",
+        "text": "Flat"
+      },
+      "name": {
+        "source": "قلم بتن‌کن تخت ۴۰۰ میلی‌متری",
+        "text": "Flat concrete chisel · 400 mm"
+      },
+      "shortDescription": {
+        "source": "قلم تخت با اتصال Hex 17؛ برای کار روی بتن و مصالح سازگار.",
+        "text": "Flat chisel with a Hex 17 shank, for concrete and compatible materials."
+      },
+      "longDescription": {
+        "source": "شکل نوک قلم و نوع اتصال باید با کار و دستگاه بتن‌کن هماهنگ باشند. مدل نوک‌تیز برای تمرکز نیرو، مدل تخت برای برداشت موضعی و مدل شیارزن برای ایجاد مسیر کاربرد دارند. جنس بتن، توان دستگاه و شرایط کار را پیش از انتخاب بررسی کنید. مشخصات این صفحه نمونه‌اند و جایگزین دستورالعمل سازنده نیستند.",
+        "text": "The chisel tip and shank must suit the work and the rotary hammer. A pointed tip concentrates force, a flat tip supports localized material removal, and a channeling tip creates grooves. Review the concrete, machine power and working conditions before choosing. The specifications on this page are samples, not a substitute for manufacturer instructions."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "نوع اتصال",
+        "text": "Shank type"
+      },
+      "specifications.2.label": {
+        "source": "قطر بدنه",
+        "text": "Body diameter"
+      },
+      "specifications.3.label": {
+        "source": "نوع قلم",
+        "text": "Chisel type"
+      },
+      "specifications.3.value": {
+        "source": "تخت",
+        "text": "Flat"
+      },
+      "specifications.4.label": {
+        "source": "جنس",
+        "text": "Material"
+      },
+      "specifications.4.value": {
+        "source": "فولاد آلیاژی",
+        "text": "Alloy steel"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب شکل نوک متناسب با نوع تخریب",
+        "text": "Choose the tip shape to suit the demolition task"
+      },
+      "features.1": {
+        "source": "اتصال مشخص برای بررسی سازگاری دستگاه",
+        "text": "A specified shank for checking machine compatibility"
+      },
+      "features.2": {
+        "source": "بدنه فولادی با مقطع مناسب انتقال ضربه",
+        "text": "Steel body with a cross-section suitable for impact transfer"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده قلم بتن‌کن کانوکس",
+        "text": "Sample studio image of the Konvex concrete-chisel family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "قلم بتن‌کن",
+        "text": "Concrete chisels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد قلم بتن‌کن",
+        "text": "One concrete chisel"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "قلم بتن‌کن تخت ۴۰۰ میلی‌متری KV-CH400-6 | کانوکس",
+        "text": "Flat concrete chisel · 400 mm KV-CH400-6 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه قلم بتن‌کن تخت ۴۰۰ میلی‌متری مدل KV-CH400-6. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Flat concrete chisel · 400 mm, model KV-CH400-6. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "industrial-casters-1",
+    "fields": {
+      "subcategory": {
+        "source": "گردان",
+        "text": "Swivel"
+      },
+      "name": {
+        "source": "چرخ صنعتی گردان ترمزدار ۱۵۰",
+        "text": "Braked swivel caster · 150 mm"
+      },
+      "shortDescription": {
+        "source": "رویه پلی‌یورتان، ظرفیت اسمی نمونه ۴۰۰ کیلوگرم برای هر چرخ.",
+        "text": "Polyurethane tread, with a sample nominal capacity of 400 kg per caster."
+      },
+      "longDescription": {
+        "source": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+        "text": "Choosing an industrial caster requires more than the equipment's weight. Consider the floor, speed, load distribution, ambient temperature and need for a safe stop. Capacities in this sample catalog apply to each caster. The total chassis capacity must be calculated and confirmed for uneven load distribution and actual operating conditions."
+      },
+      "specifications.0.label": {
+        "source": "قطر چرخ",
+        "text": "Wheel diameter"
+      },
+      "specifications.1.label": {
+        "source": "ظرفیت هر چرخ",
+        "text": "Capacity per caster"
+      },
+      "specifications.2.label": {
+        "source": "جنس رویه",
+        "text": "Tread material"
+      },
+      "specifications.2.value": {
+        "source": "پلی‌یورتان",
+        "text": "Polyurethane"
+      },
+      "specifications.3.label": {
+        "source": "نوع حرکت",
+        "text": "Movement type"
+      },
+      "specifications.3.value": {
+        "source": "گردان",
+        "text": "Swivel"
+      },
+      "specifications.4.label": {
+        "source": "ترمز",
+        "text": "Brake"
+      },
+      "specifications.4.value": {
+        "source": "دارد",
+        "text": "Yes"
+      },
+      "specifications.5.label": {
+        "source": "ارتفاع نصب",
+        "text": "Mounting height"
+      },
+      "specifications.6.label": {
+        "source": "نوع نصب",
+        "text": "Mounting type"
+      },
+      "specifications.6.value": {
+        "source": "صفحه‌ای چهارپیچ",
+        "text": "Four-bolt plate"
+      },
+      "specifications.7.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "text": "Choose the tread for the floor and working conditions"
+      },
+      "features.1": {
+        "source": "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "text": "Review the mounting dimensions and overall height"
+      },
+      "features.2": {
+        "source": "مدل ثابت یا گردان برای طراحی مسیر حرکت",
+        "text": "Fixed or swivel models to suit the travel path"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس",
+        "text": "Sample studio image of the Konvex industrial-caster family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "چرخ صنعتی",
+        "text": "Industrial casters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "چرخ صنعتی گردان ترمزدار ۱۵۰ KV-IC150-1 | کانوکس",
+        "text": "Braked swivel caster · 150 mm KV-IC150-1 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی گردان ترمزدار ۱۵۰ مدل KV-IC150-1. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Braked swivel caster · 150 mm, model KV-IC150-1. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "industrial-casters-2",
+    "fields": {
+      "subcategory": {
+        "source": "ثابت",
+        "text": "Fixed"
+      },
+      "name": {
+        "source": "چرخ صنعتی ثابت ۱۰۰",
+        "text": "Fixed industrial caster · 100 mm"
+      },
+      "shortDescription": {
+        "source": "رویه پلی‌یورتان، ظرفیت اسمی نمونه ۲۰۰ کیلوگرم برای هر چرخ.",
+        "text": "Polyurethane tread, with a sample nominal capacity of 200 kg per caster."
+      },
+      "longDescription": {
+        "source": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+        "text": "Choosing an industrial caster requires more than the equipment's weight. Consider the floor, speed, load distribution, ambient temperature and need for a safe stop. Capacities in this sample catalog apply to each caster. The total chassis capacity must be calculated and confirmed for uneven load distribution and actual operating conditions."
+      },
+      "specifications.0.label": {
+        "source": "قطر چرخ",
+        "text": "Wheel diameter"
+      },
+      "specifications.1.label": {
+        "source": "ظرفیت هر چرخ",
+        "text": "Capacity per caster"
+      },
+      "specifications.2.label": {
+        "source": "جنس رویه",
+        "text": "Tread material"
+      },
+      "specifications.2.value": {
+        "source": "پلی‌یورتان",
+        "text": "Polyurethane"
+      },
+      "specifications.3.label": {
+        "source": "نوع حرکت",
+        "text": "Movement type"
+      },
+      "specifications.3.value": {
+        "source": "ثابت",
+        "text": "Fixed"
+      },
+      "specifications.4.label": {
+        "source": "ترمز",
+        "text": "Brake"
+      },
+      "specifications.4.value": {
+        "source": "ندارد",
+        "text": "No"
+      },
+      "specifications.5.label": {
+        "source": "ارتفاع نصب",
+        "text": "Mounting height"
+      },
+      "specifications.6.label": {
+        "source": "نوع نصب",
+        "text": "Mounting type"
+      },
+      "specifications.6.value": {
+        "source": "صفحه‌ای چهارپیچ",
+        "text": "Four-bolt plate"
+      },
+      "specifications.7.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "text": "Choose the tread for the floor and working conditions"
+      },
+      "features.1": {
+        "source": "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "text": "Review the mounting dimensions and overall height"
+      },
+      "features.2": {
+        "source": "مدل ثابت یا گردان برای طراحی مسیر حرکت",
+        "text": "Fixed or swivel models to suit the travel path"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس",
+        "text": "Sample studio image of the Konvex industrial-caster family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "چرخ صنعتی",
+        "text": "Industrial casters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "چرخ صنعتی ثابت ۱۰۰ KV-IC100-2 | کانوکس",
+        "text": "Fixed industrial caster · 100 mm KV-IC100-2 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی ثابت ۱۰۰ مدل KV-IC100-2. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Fixed industrial caster · 100 mm, model KV-IC100-2. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "industrial-casters-3",
+    "fields": {
+      "subcategory": {
+        "source": "گردان",
+        "text": "Swivel"
+      },
+      "name": {
+        "source": "چرخ صنعتی گردان ترمزدار ۱۲۵",
+        "text": "Braked swivel caster · 125 mm"
+      },
+      "shortDescription": {
+        "source": "رویه لاستیک، ظرفیت اسمی نمونه ۲۵۰ کیلوگرم برای هر چرخ.",
+        "text": "Rubber tread, with a sample nominal capacity of 250 kg per caster."
+      },
+      "longDescription": {
+        "source": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+        "text": "Choosing an industrial caster requires more than the equipment's weight. Consider the floor, speed, load distribution, ambient temperature and need for a safe stop. Capacities in this sample catalog apply to each caster. The total chassis capacity must be calculated and confirmed for uneven load distribution and actual operating conditions."
+      },
+      "specifications.0.label": {
+        "source": "قطر چرخ",
+        "text": "Wheel diameter"
+      },
+      "specifications.1.label": {
+        "source": "ظرفیت هر چرخ",
+        "text": "Capacity per caster"
+      },
+      "specifications.2.label": {
+        "source": "جنس رویه",
+        "text": "Tread material"
+      },
+      "specifications.2.value": {
+        "source": "لاستیک",
+        "text": "Rubber"
+      },
+      "specifications.3.label": {
+        "source": "نوع حرکت",
+        "text": "Movement type"
+      },
+      "specifications.3.value": {
+        "source": "گردان",
+        "text": "Swivel"
+      },
+      "specifications.4.label": {
+        "source": "ترمز",
+        "text": "Brake"
+      },
+      "specifications.4.value": {
+        "source": "دارد",
+        "text": "Yes"
+      },
+      "specifications.5.label": {
+        "source": "ارتفاع نصب",
+        "text": "Mounting height"
+      },
+      "specifications.6.label": {
+        "source": "نوع نصب",
+        "text": "Mounting type"
+      },
+      "specifications.6.value": {
+        "source": "صفحه‌ای چهارپیچ",
+        "text": "Four-bolt plate"
+      },
+      "specifications.7.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "text": "Choose the tread for the floor and working conditions"
+      },
+      "features.1": {
+        "source": "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "text": "Review the mounting dimensions and overall height"
+      },
+      "features.2": {
+        "source": "مدل ثابت یا گردان برای طراحی مسیر حرکت",
+        "text": "Fixed or swivel models to suit the travel path"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس",
+        "text": "Sample studio image of the Konvex industrial-caster family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "چرخ صنعتی",
+        "text": "Industrial casters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "چرخ صنعتی گردان ترمزدار ۱۲۵ KV-IC125-3 | کانوکس",
+        "text": "Braked swivel caster · 125 mm KV-IC125-3 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی گردان ترمزدار ۱۲۵ مدل KV-IC125-3. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Braked swivel caster · 125 mm, model KV-IC125-3. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "industrial-casters-4",
+    "fields": {
+      "subcategory": {
+        "source": "گردان",
+        "text": "Swivel"
+      },
+      "name": {
+        "source": "چرخ صنعتی گردان ۲۰۰",
+        "text": "Swivel industrial caster · 200 mm"
+      },
+      "shortDescription": {
+        "source": "رویه پلی‌یورتان، ظرفیت اسمی نمونه ۶۰۰ کیلوگرم برای هر چرخ.",
+        "text": "Polyurethane tread, with a sample nominal capacity of 600 kg per caster."
+      },
+      "longDescription": {
+        "source": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+        "text": "Choosing an industrial caster requires more than the equipment's weight. Consider the floor, speed, load distribution, ambient temperature and need for a safe stop. Capacities in this sample catalog apply to each caster. The total chassis capacity must be calculated and confirmed for uneven load distribution and actual operating conditions."
+      },
+      "specifications.0.label": {
+        "source": "قطر چرخ",
+        "text": "Wheel diameter"
+      },
+      "specifications.1.label": {
+        "source": "ظرفیت هر چرخ",
+        "text": "Capacity per caster"
+      },
+      "specifications.2.label": {
+        "source": "جنس رویه",
+        "text": "Tread material"
+      },
+      "specifications.2.value": {
+        "source": "پلی‌یورتان",
+        "text": "Polyurethane"
+      },
+      "specifications.3.label": {
+        "source": "نوع حرکت",
+        "text": "Movement type"
+      },
+      "specifications.3.value": {
+        "source": "گردان",
+        "text": "Swivel"
+      },
+      "specifications.4.label": {
+        "source": "ترمز",
+        "text": "Brake"
+      },
+      "specifications.4.value": {
+        "source": "ندارد",
+        "text": "No"
+      },
+      "specifications.5.label": {
+        "source": "ارتفاع نصب",
+        "text": "Mounting height"
+      },
+      "specifications.6.label": {
+        "source": "نوع نصب",
+        "text": "Mounting type"
+      },
+      "specifications.6.value": {
+        "source": "صفحه‌ای چهارپیچ",
+        "text": "Four-bolt plate"
+      },
+      "specifications.7.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "text": "Choose the tread for the floor and working conditions"
+      },
+      "features.1": {
+        "source": "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "text": "Review the mounting dimensions and overall height"
+      },
+      "features.2": {
+        "source": "مدل ثابت یا گردان برای طراحی مسیر حرکت",
+        "text": "Fixed or swivel models to suit the travel path"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس",
+        "text": "Sample studio image of the Konvex industrial-caster family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "چرخ صنعتی",
+        "text": "Industrial casters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "چرخ صنعتی گردان ۲۰۰ KV-IC200-4 | کانوکس",
+        "text": "Swivel industrial caster · 200 mm KV-IC200-4 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی گردان ۲۰۰ مدل KV-IC200-4. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Swivel industrial caster · 200 mm, model KV-IC200-4. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "industrial-casters-5",
+    "fields": {
+      "subcategory": {
+        "source": "گردان",
+        "text": "Swivel"
+      },
+      "name": {
+        "source": "چرخ صنعتی گردان ترمزدار ۱۰۰",
+        "text": "Braked swivel caster · 100 mm"
+      },
+      "shortDescription": {
+        "source": "رویه نایلون، ظرفیت اسمی نمونه ۱۵۰ کیلوگرم برای هر چرخ.",
+        "text": "Nylon tread, with a sample nominal capacity of 150 kg per caster."
+      },
+      "longDescription": {
+        "source": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+        "text": "Choosing an industrial caster requires more than the equipment's weight. Consider the floor, speed, load distribution, ambient temperature and need for a safe stop. Capacities in this sample catalog apply to each caster. The total chassis capacity must be calculated and confirmed for uneven load distribution and actual operating conditions."
+      },
+      "specifications.0.label": {
+        "source": "قطر چرخ",
+        "text": "Wheel diameter"
+      },
+      "specifications.1.label": {
+        "source": "ظرفیت هر چرخ",
+        "text": "Capacity per caster"
+      },
+      "specifications.2.label": {
+        "source": "جنس رویه",
+        "text": "Tread material"
+      },
+      "specifications.2.value": {
+        "source": "نایلون",
+        "text": "Nylon"
+      },
+      "specifications.3.label": {
+        "source": "نوع حرکت",
+        "text": "Movement type"
+      },
+      "specifications.3.value": {
+        "source": "گردان",
+        "text": "Swivel"
+      },
+      "specifications.4.label": {
+        "source": "ترمز",
+        "text": "Brake"
+      },
+      "specifications.4.value": {
+        "source": "دارد",
+        "text": "Yes"
+      },
+      "specifications.5.label": {
+        "source": "ارتفاع نصب",
+        "text": "Mounting height"
+      },
+      "specifications.6.label": {
+        "source": "نوع نصب",
+        "text": "Mounting type"
+      },
+      "specifications.6.value": {
+        "source": "صفحه‌ای چهارپیچ",
+        "text": "Four-bolt plate"
+      },
+      "specifications.7.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "text": "Choose the tread for the floor and working conditions"
+      },
+      "features.1": {
+        "source": "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "text": "Review the mounting dimensions and overall height"
+      },
+      "features.2": {
+        "source": "مدل ثابت یا گردان برای طراحی مسیر حرکت",
+        "text": "Fixed or swivel models to suit the travel path"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس",
+        "text": "Sample studio image of the Konvex industrial-caster family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "چرخ صنعتی",
+        "text": "Industrial casters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "چرخ صنعتی گردان ترمزدار ۱۰۰ KV-IC100-5 | کانوکس",
+        "text": "Braked swivel caster · 100 mm KV-IC100-5 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی گردان ترمزدار ۱۰۰ مدل KV-IC100-5. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Braked swivel caster · 100 mm, model KV-IC100-5. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "industrial-casters-6",
+    "fields": {
+      "subcategory": {
+        "source": "ثابت",
+        "text": "Fixed"
+      },
+      "name": {
+        "source": "چرخ صنعتی ثابت ۱۶۰",
+        "text": "Fixed industrial caster · 160 mm"
+      },
+      "shortDescription": {
+        "source": "رویه چدن، ظرفیت اسمی نمونه ۵۰۰ کیلوگرم برای هر چرخ.",
+        "text": "Cast-iron tread, with a sample nominal capacity of 500 kg per caster."
+      },
+      "longDescription": {
+        "source": "برای انتخاب چرخ صنعتی، فقط وزن تجهیز کافی نیست. وضعیت کف، سرعت حرکت، توزیع بار، دمای محیط و نیاز به توقف ایمن را هم بررسی کنید. ظرفیت اعلام‌شده در این کاتالوگ نمونه مربوط به هر چرخ است و ظرفیت کل شاسی باید با درنظرگرفتن توزیع نامتوازن بار و شرایط واقعی محاسبه و تأیید شود.",
+        "text": "Choosing an industrial caster requires more than the equipment's weight. Consider the floor, speed, load distribution, ambient temperature and need for a safe stop. Capacities in this sample catalog apply to each caster. The total chassis capacity must be calculated and confirmed for uneven load distribution and actual operating conditions."
+      },
+      "specifications.0.label": {
+        "source": "قطر چرخ",
+        "text": "Wheel diameter"
+      },
+      "specifications.1.label": {
+        "source": "ظرفیت هر چرخ",
+        "text": "Capacity per caster"
+      },
+      "specifications.2.label": {
+        "source": "جنس رویه",
+        "text": "Tread material"
+      },
+      "specifications.2.value": {
+        "source": "چدن",
+        "text": "Cast iron"
+      },
+      "specifications.3.label": {
+        "source": "نوع حرکت",
+        "text": "Movement type"
+      },
+      "specifications.3.value": {
+        "source": "ثابت",
+        "text": "Fixed"
+      },
+      "specifications.4.label": {
+        "source": "ترمز",
+        "text": "Brake"
+      },
+      "specifications.4.value": {
+        "source": "ندارد",
+        "text": "No"
+      },
+      "specifications.5.label": {
+        "source": "ارتفاع نصب",
+        "text": "Mounting height"
+      },
+      "specifications.6.label": {
+        "source": "نوع نصب",
+        "text": "Mounting type"
+      },
+      "specifications.6.value": {
+        "source": "صفحه‌ای چهارپیچ",
+        "text": "Four-bolt plate"
+      },
+      "specifications.7.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "انتخاب رویه متناسب با جنس کف و شرایط کار",
+        "text": "Choose the tread for the floor and working conditions"
+      },
+      "features.1": {
+        "source": "قابلیت بررسی ابعاد و ارتفاع نصب",
+        "text": "Review the mounting dimensions and overall height"
+      },
+      "features.2": {
+        "source": "مدل ثابت یا گردان برای طراحی مسیر حرکت",
+        "text": "Fixed or swivel models to suit the travel path"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده چرخ صنعتی کانوکس",
+        "text": "Sample studio image of the Konvex industrial-caster family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "چرخ صنعتی",
+        "text": "Industrial casters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "چرخ صنعتی ثابت ۱۶۰ KV-IC160-6 | کانوکس",
+        "text": "Fixed industrial caster · 160 mm KV-IC160-6 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه چرخ صنعتی ثابت ۱۶۰ مدل KV-IC160-6. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Fixed industrial caster · 160 mm, model KV-IC160-6. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "laser-distance-meters-1",
+    "fields": {
+      "name": {
+        "source": "متر لیزری ۶۰ متری",
+        "text": "Laser distance meter · 60 m"
+      },
+      "shortDescription": {
+        "source": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+        "text": "Distance, area and volume measurement in a compact tool for site surveys and project work."
+      },
+      "longDescription": {
+        "source": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+        "text": "Choose a laser meter with a suitable range to estimate spaces more accurately and reduce repeated measuring trips. This sample model introduces distance measurement and area/volume calculations in a compact body. Nominal range is specified under suitable lighting and surface conditions. Assess outdoor use and reflective surfaces separately."
+      },
+      "specifications.0.label": {
+        "source": "برد اندازه‌گیری",
+        "text": "Measuring range"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "درجه حفاظت",
+        "text": "Protection rating"
+      },
+      "specifications.3.label": {
+        "source": "نوع اندازه‌گیری",
+        "text": "Measurement functions"
+      },
+      "specifications.3.value": {
+        "source": "فاصله، مساحت و حجم",
+        "text": "Distance, area and volume"
+      },
+      "specifications.4.label": {
+        "source": "نوع باتری",
+        "text": "Battery type"
+      },
+      "specifications.5.label": {
+        "source": "بلوتوث",
+        "text": "Bluetooth"
+      },
+      "specifications.5.value": {
+        "source": "ندارد",
+        "text": "No"
+      },
+      "specifications.6.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "specifications.7.label": {
+        "source": "ابعاد",
+        "text": "Dimensions"
+      },
+      "specifications.8.label": {
+        "source": "کلاس لیزر",
+        "text": "Laser class"
+      },
+      "features.0": {
+        "source": "محاسبه فاصله، مساحت و حجم",
+        "text": "Distance, area and volume calculations"
+      },
+      "features.1": {
+        "source": "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "text": "Backlit display for reading in low light"
+      },
+      "features.2": {
+        "source": "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "text": "Continuous measurement to find the required distance"
+      },
+      "features.3": {
+        "source": "حافظه اندازه‌گیری و تغییر واحد",
+        "text": "Measurement memory and selectable units"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس",
+        "text": "Sample studio image of the Konvex laser-meter family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "included.1": {
+        "source": "کیف نگهداری نمونه",
+        "text": "Sample carry pouch"
+      },
+      "included.2": {
+        "source": "بند مچی",
+        "text": "Wrist strap"
+      },
+      "faq.0.question": {
+        "source": "برای فضای داخلی، چه بردی مناسب است؟",
+        "text": "What range is suitable for indoor work?"
+      },
+      "faq.0.answer": {
+        "source": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند.",
+        "text": "Choose the range based on the longest distance you regularly measure. Shorter ranges are sufficient in many indoor spaces, but lighting, the surface and your measurement method also affect the result."
+      },
+      "faq.1.question": {
+        "source": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+        "text": "Does IP54 mean completely waterproof?"
+      },
+      "faq.1.answer": {
+        "source": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود.",
+        "text": "No. IP54 indicates limited protection against dust and water splashes, not suitability for immersion. This model's protection rating is a sample and must be confirmed in its official documentation."
+      },
+      "faq.2.question": {
+        "source": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+        "text": "Can I point the laser at someone's eyes?"
+      },
+      "faq.2.answer": {
+        "source": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید.",
+        "text": "No. Never aim the beam at anyone's eyes or reflective surfaces. Read the device's safety instructions before use."
+      },
+      "seoTitle": {
+        "source": "متر لیزری ۶۰ متری KV-LM60 | کانوکس",
+        "text": "Laser distance meter · 60 m KV-LM60 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۶۰ متری مدل KV-LM60. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Laser distance meter · 60 m, model KV-LM60. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "laser-distance-meters-2",
+    "fields": {
+      "name": {
+        "source": "متر لیزری ۴۰ متری",
+        "text": "Laser distance meter · 40 m"
+      },
+      "shortDescription": {
+        "source": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+        "text": "Distance, area and volume measurement in a compact tool for site surveys and project work."
+      },
+      "longDescription": {
+        "source": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+        "text": "Choose a laser meter with a suitable range to estimate spaces more accurately and reduce repeated measuring trips. This sample model introduces distance measurement and area/volume calculations in a compact body. Nominal range is specified under suitable lighting and surface conditions. Assess outdoor use and reflective surfaces separately."
+      },
+      "specifications.0.label": {
+        "source": "برد اندازه‌گیری",
+        "text": "Measuring range"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "درجه حفاظت",
+        "text": "Protection rating"
+      },
+      "specifications.3.label": {
+        "source": "نوع اندازه‌گیری",
+        "text": "Measurement functions"
+      },
+      "specifications.3.value": {
+        "source": "فاصله، مساحت و حجم",
+        "text": "Distance, area and volume"
+      },
+      "specifications.4.label": {
+        "source": "نوع باتری",
+        "text": "Battery type"
+      },
+      "specifications.5.label": {
+        "source": "بلوتوث",
+        "text": "Bluetooth"
+      },
+      "specifications.5.value": {
+        "source": "ندارد",
+        "text": "No"
+      },
+      "specifications.6.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "specifications.7.label": {
+        "source": "ابعاد",
+        "text": "Dimensions"
+      },
+      "specifications.8.label": {
+        "source": "کلاس لیزر",
+        "text": "Laser class"
+      },
+      "features.0": {
+        "source": "محاسبه فاصله، مساحت و حجم",
+        "text": "Distance, area and volume calculations"
+      },
+      "features.1": {
+        "source": "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "text": "Backlit display for reading in low light"
+      },
+      "features.2": {
+        "source": "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "text": "Continuous measurement to find the required distance"
+      },
+      "features.3": {
+        "source": "حافظه اندازه‌گیری و تغییر واحد",
+        "text": "Measurement memory and selectable units"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس",
+        "text": "Sample studio image of the Konvex laser-meter family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "included.1": {
+        "source": "کیف نگهداری نمونه",
+        "text": "Sample carry pouch"
+      },
+      "included.2": {
+        "source": "بند مچی",
+        "text": "Wrist strap"
+      },
+      "faq.0.question": {
+        "source": "برای فضای داخلی، چه بردی مناسب است؟",
+        "text": "What range is suitable for indoor work?"
+      },
+      "faq.0.answer": {
+        "source": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند.",
+        "text": "Choose the range based on the longest distance you regularly measure. Shorter ranges are sufficient in many indoor spaces, but lighting, the surface and your measurement method also affect the result."
+      },
+      "faq.1.question": {
+        "source": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+        "text": "Does IP54 mean completely waterproof?"
+      },
+      "faq.1.answer": {
+        "source": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود.",
+        "text": "No. IP54 indicates limited protection against dust and water splashes, not suitability for immersion. This model's protection rating is a sample and must be confirmed in its official documentation."
+      },
+      "faq.2.question": {
+        "source": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+        "text": "Can I point the laser at someone's eyes?"
+      },
+      "faq.2.answer": {
+        "source": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید.",
+        "text": "No. Never aim the beam at anyone's eyes or reflective surfaces. Read the device's safety instructions before use."
+      },
+      "seoTitle": {
+        "source": "متر لیزری ۴۰ متری KV-LM40 | کانوکس",
+        "text": "Laser distance meter · 40 m KV-LM40 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۴۰ متری مدل KV-LM40. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Laser distance meter · 40 m, model KV-LM40. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "laser-distance-meters-3",
+    "fields": {
+      "name": {
+        "source": "متر لیزری ۸۰ متری حرفه‌ای",
+        "text": "Professional laser meter · 80 m"
+      },
+      "shortDescription": {
+        "source": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+        "text": "Distance, area and volume measurement in a compact tool for site surveys and project work."
+      },
+      "longDescription": {
+        "source": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+        "text": "Choose a laser meter with a suitable range to estimate spaces more accurately and reduce repeated measuring trips. This sample model introduces distance measurement and area/volume calculations in a compact body. Nominal range is specified under suitable lighting and surface conditions. Assess outdoor use and reflective surfaces separately."
+      },
+      "specifications.0.label": {
+        "source": "برد اندازه‌گیری",
+        "text": "Measuring range"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "درجه حفاظت",
+        "text": "Protection rating"
+      },
+      "specifications.3.label": {
+        "source": "نوع اندازه‌گیری",
+        "text": "Measurement functions"
+      },
+      "specifications.3.value": {
+        "source": "فاصله، مساحت و حجم",
+        "text": "Distance, area and volume"
+      },
+      "specifications.4.label": {
+        "source": "نوع باتری",
+        "text": "Battery type"
+      },
+      "specifications.4.value": {
+        "source": "لیتیومی شارژی",
+        "text": "Rechargeable lithium battery"
+      },
+      "specifications.5.label": {
+        "source": "بلوتوث",
+        "text": "Bluetooth"
+      },
+      "specifications.5.value": {
+        "source": "دارد",
+        "text": "Yes"
+      },
+      "specifications.6.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "specifications.7.label": {
+        "source": "ابعاد",
+        "text": "Dimensions"
+      },
+      "specifications.8.label": {
+        "source": "کلاس لیزر",
+        "text": "Laser class"
+      },
+      "features.0": {
+        "source": "محاسبه فاصله، مساحت و حجم",
+        "text": "Distance, area and volume calculations"
+      },
+      "features.1": {
+        "source": "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "text": "Backlit display for reading in low light"
+      },
+      "features.2": {
+        "source": "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "text": "Continuous measurement to find the required distance"
+      },
+      "features.3": {
+        "source": "حافظه اندازه‌گیری و تغییر واحد",
+        "text": "Measurement memory and selectable units"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس",
+        "text": "Sample studio image of the Konvex laser-meter family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "included.1": {
+        "source": "کیف نگهداری نمونه",
+        "text": "Sample carry pouch"
+      },
+      "included.2": {
+        "source": "بند مچی",
+        "text": "Wrist strap"
+      },
+      "faq.0.question": {
+        "source": "برای فضای داخلی، چه بردی مناسب است؟",
+        "text": "What range is suitable for indoor work?"
+      },
+      "faq.0.answer": {
+        "source": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند.",
+        "text": "Choose the range based on the longest distance you regularly measure. Shorter ranges are sufficient in many indoor spaces, but lighting, the surface and your measurement method also affect the result."
+      },
+      "faq.1.question": {
+        "source": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+        "text": "Does IP54 mean completely waterproof?"
+      },
+      "faq.1.answer": {
+        "source": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود.",
+        "text": "No. IP54 indicates limited protection against dust and water splashes, not suitability for immersion. This model's protection rating is a sample and must be confirmed in its official documentation."
+      },
+      "faq.2.question": {
+        "source": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+        "text": "Can I point the laser at someone's eyes?"
+      },
+      "faq.2.answer": {
+        "source": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید.",
+        "text": "No. Never aim the beam at anyone's eyes or reflective surfaces. Read the device's safety instructions before use."
+      },
+      "seoTitle": {
+        "source": "متر لیزری ۸۰ متری حرفه‌ای KV-LM80 PRO | کانوکس",
+        "text": "Professional laser meter · 80 m KV-LM80 PRO | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۸۰ متری حرفه‌ای مدل KV-LM80 PRO. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Professional laser meter · 80 m, model KV-LM80 PRO. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "laser-distance-meters-4",
+    "fields": {
+      "name": {
+        "source": "متر لیزری ۱۰۰ متری حرفه‌ای",
+        "text": "Professional laser meter · 100 m"
+      },
+      "shortDescription": {
+        "source": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+        "text": "Distance, area and volume measurement in a compact tool for site surveys and project work."
+      },
+      "longDescription": {
+        "source": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+        "text": "Choose a laser meter with a suitable range to estimate spaces more accurately and reduce repeated measuring trips. This sample model introduces distance measurement and area/volume calculations in a compact body. Nominal range is specified under suitable lighting and surface conditions. Assess outdoor use and reflective surfaces separately."
+      },
+      "specifications.0.label": {
+        "source": "برد اندازه‌گیری",
+        "text": "Measuring range"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "درجه حفاظت",
+        "text": "Protection rating"
+      },
+      "specifications.3.label": {
+        "source": "نوع اندازه‌گیری",
+        "text": "Measurement functions"
+      },
+      "specifications.3.value": {
+        "source": "فاصله، مساحت و حجم",
+        "text": "Distance, area and volume"
+      },
+      "specifications.4.label": {
+        "source": "نوع باتری",
+        "text": "Battery type"
+      },
+      "specifications.4.value": {
+        "source": "لیتیومی شارژی",
+        "text": "Rechargeable lithium battery"
+      },
+      "specifications.5.label": {
+        "source": "بلوتوث",
+        "text": "Bluetooth"
+      },
+      "specifications.5.value": {
+        "source": "دارد",
+        "text": "Yes"
+      },
+      "specifications.6.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "specifications.7.label": {
+        "source": "ابعاد",
+        "text": "Dimensions"
+      },
+      "specifications.8.label": {
+        "source": "کلاس لیزر",
+        "text": "Laser class"
+      },
+      "features.0": {
+        "source": "محاسبه فاصله، مساحت و حجم",
+        "text": "Distance, area and volume calculations"
+      },
+      "features.1": {
+        "source": "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "text": "Backlit display for reading in low light"
+      },
+      "features.2": {
+        "source": "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "text": "Continuous measurement to find the required distance"
+      },
+      "features.3": {
+        "source": "حافظه اندازه‌گیری و تغییر واحد",
+        "text": "Measurement memory and selectable units"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس",
+        "text": "Sample studio image of the Konvex laser-meter family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "included.1": {
+        "source": "کیف نگهداری نمونه",
+        "text": "Sample carry pouch"
+      },
+      "included.2": {
+        "source": "بند مچی",
+        "text": "Wrist strap"
+      },
+      "faq.0.question": {
+        "source": "برای فضای داخلی، چه بردی مناسب است؟",
+        "text": "What range is suitable for indoor work?"
+      },
+      "faq.0.answer": {
+        "source": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند.",
+        "text": "Choose the range based on the longest distance you regularly measure. Shorter ranges are sufficient in many indoor spaces, but lighting, the surface and your measurement method also affect the result."
+      },
+      "faq.1.question": {
+        "source": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+        "text": "Does IP54 mean completely waterproof?"
+      },
+      "faq.1.answer": {
+        "source": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود.",
+        "text": "No. IP54 indicates limited protection against dust and water splashes, not suitability for immersion. This model's protection rating is a sample and must be confirmed in its official documentation."
+      },
+      "faq.2.question": {
+        "source": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+        "text": "Can I point the laser at someone's eyes?"
+      },
+      "faq.2.answer": {
+        "source": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید.",
+        "text": "No. Never aim the beam at anyone's eyes or reflective surfaces. Read the device's safety instructions before use."
+      },
+      "seoTitle": {
+        "source": "متر لیزری ۱۰۰ متری حرفه‌ای KV-LM100 PRO | کانوکس",
+        "text": "Professional laser meter · 100 m KV-LM100 PRO | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۱۰۰ متری حرفه‌ای مدل KV-LM100 PRO. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Professional laser meter · 100 m, model KV-LM100 PRO. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "laser-distance-meters-5",
+    "fields": {
+      "name": {
+        "source": "متر لیزری ۳۰ متری",
+        "text": "Laser distance meter · 30 m"
+      },
+      "shortDescription": {
+        "source": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+        "text": "Distance, area and volume measurement in a compact tool for site surveys and project work."
+      },
+      "longDescription": {
+        "source": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+        "text": "Choose a laser meter with a suitable range to estimate spaces more accurately and reduce repeated measuring trips. This sample model introduces distance measurement and area/volume calculations in a compact body. Nominal range is specified under suitable lighting and surface conditions. Assess outdoor use and reflective surfaces separately."
+      },
+      "specifications.0.label": {
+        "source": "برد اندازه‌گیری",
+        "text": "Measuring range"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "درجه حفاظت",
+        "text": "Protection rating"
+      },
+      "specifications.3.label": {
+        "source": "نوع اندازه‌گیری",
+        "text": "Measurement functions"
+      },
+      "specifications.3.value": {
+        "source": "فاصله، مساحت و حجم",
+        "text": "Distance, area and volume"
+      },
+      "specifications.4.label": {
+        "source": "نوع باتری",
+        "text": "Battery type"
+      },
+      "specifications.5.label": {
+        "source": "بلوتوث",
+        "text": "Bluetooth"
+      },
+      "specifications.5.value": {
+        "source": "ندارد",
+        "text": "No"
+      },
+      "specifications.6.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "specifications.7.label": {
+        "source": "ابعاد",
+        "text": "Dimensions"
+      },
+      "specifications.8.label": {
+        "source": "کلاس لیزر",
+        "text": "Laser class"
+      },
+      "features.0": {
+        "source": "محاسبه فاصله، مساحت و حجم",
+        "text": "Distance, area and volume calculations"
+      },
+      "features.1": {
+        "source": "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "text": "Backlit display for reading in low light"
+      },
+      "features.2": {
+        "source": "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "text": "Continuous measurement to find the required distance"
+      },
+      "features.3": {
+        "source": "حافظه اندازه‌گیری و تغییر واحد",
+        "text": "Measurement memory and selectable units"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس",
+        "text": "Sample studio image of the Konvex laser-meter family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "included.1": {
+        "source": "کیف نگهداری نمونه",
+        "text": "Sample carry pouch"
+      },
+      "included.2": {
+        "source": "بند مچی",
+        "text": "Wrist strap"
+      },
+      "faq.0.question": {
+        "source": "برای فضای داخلی، چه بردی مناسب است؟",
+        "text": "What range is suitable for indoor work?"
+      },
+      "faq.0.answer": {
+        "source": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند.",
+        "text": "Choose the range based on the longest distance you regularly measure. Shorter ranges are sufficient in many indoor spaces, but lighting, the surface and your measurement method also affect the result."
+      },
+      "faq.1.question": {
+        "source": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+        "text": "Does IP54 mean completely waterproof?"
+      },
+      "faq.1.answer": {
+        "source": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود.",
+        "text": "No. IP54 indicates limited protection against dust and water splashes, not suitability for immersion. This model's protection rating is a sample and must be confirmed in its official documentation."
+      },
+      "faq.2.question": {
+        "source": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+        "text": "Can I point the laser at someone's eyes?"
+      },
+      "faq.2.answer": {
+        "source": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید.",
+        "text": "No. Never aim the beam at anyone's eyes or reflective surfaces. Read the device's safety instructions before use."
+      },
+      "seoTitle": {
+        "source": "متر لیزری ۳۰ متری KV-LM30 | کانوکس",
+        "text": "Laser distance meter · 30 m KV-LM30 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۳۰ متری مدل KV-LM30. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Laser distance meter · 30 m, model KV-LM30. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "laser-distance-meters-6",
+    "fields": {
+      "name": {
+        "source": "متر لیزری ۱۲۰ متری حرفه‌ای",
+        "text": "Professional laser meter · 120 m"
+      },
+      "shortDescription": {
+        "source": "اندازه‌گیری فاصله، مساحت و حجم؛ همراهی جمع‌وجور برای بازدید و اجرای پروژه.",
+        "text": "Distance, area and volume measurement in a compact tool for site surveys and project work."
+      },
+      "longDescription": {
+        "source": "برای برآورد دقیق‌تر فضا و کاهش رفت‌وآمدهای اندازه‌گیری، یک متر لیزری با برد متناسب با پروژه انتخاب کنید. این مدل نمونه، اندازه‌گیری فاصله و محاسبه مساحت و حجم را در بدنه‌ای جمع‌وجور معرفی می‌کند. برد اسمی در شرایط مناسب سطح و نور تعریف می‌شود؛ برای فضای بیرونی و سطوح بازتابنده، شرایط اندازه‌گیری را جداگانه بررسی کنید.",
+        "text": "Choose a laser meter with a suitable range to estimate spaces more accurately and reduce repeated measuring trips. This sample model introduces distance measurement and area/volume calculations in a compact body. Nominal range is specified under suitable lighting and surface conditions. Assess outdoor use and reflective surfaces separately."
+      },
+      "specifications.0.label": {
+        "source": "برد اندازه‌گیری",
+        "text": "Measuring range"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "درجه حفاظت",
+        "text": "Protection rating"
+      },
+      "specifications.3.label": {
+        "source": "نوع اندازه‌گیری",
+        "text": "Measurement functions"
+      },
+      "specifications.3.value": {
+        "source": "فاصله، مساحت و حجم",
+        "text": "Distance, area and volume"
+      },
+      "specifications.4.label": {
+        "source": "نوع باتری",
+        "text": "Battery type"
+      },
+      "specifications.4.value": {
+        "source": "لیتیومی شارژی",
+        "text": "Rechargeable lithium battery"
+      },
+      "specifications.5.label": {
+        "source": "بلوتوث",
+        "text": "Bluetooth"
+      },
+      "specifications.5.value": {
+        "source": "دارد",
+        "text": "Yes"
+      },
+      "specifications.6.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "specifications.7.label": {
+        "source": "ابعاد",
+        "text": "Dimensions"
+      },
+      "specifications.8.label": {
+        "source": "کلاس لیزر",
+        "text": "Laser class"
+      },
+      "features.0": {
+        "source": "محاسبه فاصله، مساحت و حجم",
+        "text": "Distance, area and volume calculations"
+      },
+      "features.1": {
+        "source": "نمایشگر با نور پس‌زمینه برای خواندن در محیط کم‌نور",
+        "text": "Backlit display for reading in low light"
+      },
+      "features.2": {
+        "source": "اندازه‌گیری پیوسته برای پیدا کردن فاصله مناسب",
+        "text": "Continuous measurement to find the required distance"
+      },
+      "features.3": {
+        "source": "حافظه اندازه‌گیری و تغییر واحد",
+        "text": "Measurement memory and selectable units"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده متر لیزری کانوکس",
+        "text": "Sample studio image of the Konvex laser-meter family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "included.1": {
+        "source": "کیف نگهداری نمونه",
+        "text": "Sample carry pouch"
+      },
+      "included.2": {
+        "source": "بند مچی",
+        "text": "Wrist strap"
+      },
+      "faq.0.question": {
+        "source": "برای فضای داخلی، چه بردی مناسب است؟",
+        "text": "What range is suitable for indoor work?"
+      },
+      "faq.0.answer": {
+        "source": "برد را با توجه به بلندترین فاصله‌ای که معمولاً اندازه می‌گیرید انتخاب کنید. در بسیاری از فضاهای داخلی، بردهای کوتاه‌تر کافی‌اند؛ اما نور محیط، جنس سطح و روش اندازه‌گیری نیز بر نتیجه اثر دارند.",
+        "text": "Choose the range based on the longest distance you regularly measure. Shorter ranges are sufficient in many indoor spaces, but lighting, the surface and your measurement method also affect the result."
+      },
+      "faq.1.question": {
+        "source": "آیا IP54 به معنی ضدآب بودن کامل است؟",
+        "text": "Does IP54 mean completely waterproof?"
+      },
+      "faq.1.answer": {
+        "source": "خیر. درجه IP54 به حفاظت محدود در برابر گردوغبار و پاشش آب مربوط است؛ به معنی امکان غوطه‌وری نیست. درجه حفاظت این مدل نمونه است و باید در سند رسمی محصول تأیید شود.",
+        "text": "No. IP54 indicates limited protection against dust and water splashes, not suitability for immersion. This model's protection rating is a sample and must be confirmed in its official documentation."
+      },
+      "faq.2.question": {
+        "source": "آیا می‌توان از لیزر به سمت چشم استفاده کرد؟",
+        "text": "Can I point the laser at someone's eyes?"
+      },
+      "faq.2.answer": {
+        "source": "خیر. هرگز پرتو لیزر را به سمت چشم افراد یا سطوح بازتابنده هدایت نکنید. دستورالعمل ایمنی دستگاه را پیش از استفاده بخوانید.",
+        "text": "No. Never aim the beam at anyone's eyes or reflective surfaces. Read the device's safety instructions before use."
+      },
+      "seoTitle": {
+        "source": "متر لیزری ۱۲۰ متری حرفه‌ای KV-LM120 PRO | کانوکس",
+        "text": "Professional laser meter · 120 m KV-LM120 PRO | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه متر لیزری ۱۲۰ متری حرفه‌ای مدل KV-LM120 PRO. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Professional laser meter · 120 m, model KV-LM120 PRO. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "spirit-levels-1",
+    "fields": {
+      "name": {
+        "source": "تراز حرفه‌ای ۶۰ سانتی‌متری",
+        "text": "Professional spirit level · 60 cm"
+      },
+      "shortDescription": {
+        "source": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+        "text": "An aluminium body and easy-to-read vials for checking surfaces during installation and construction."
+      },
+      "longDescription": {
+        "source": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+        "text": "A suitable level should match the surface length, available space and accuracy required. This sample family introduces aluminium-body levels in several lengths. Check the body and vials before work, and verify the reading with a reversal test."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "تعداد محفظه",
+        "text": "Number of vials"
+      },
+      "specifications.3.label": {
+        "source": "آهن‌ربا",
+        "text": "Magnetic"
+      },
+      "specifications.3.value": {
+        "source": "دارد",
+        "text": "Yes"
+      },
+      "specifications.4.label": {
+        "source": "جنس بدنه",
+        "text": "Body material"
+      },
+      "specifications.4.value": {
+        "source": "آلومینیوم",
+        "text": "Aluminium"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "سه محفظه برای بررسی جهت‌های مختلف",
+        "text": "Three vials for checking different directions"
+      },
+      "features.1": {
+        "source": "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "text": "End caps help protect the body from impact"
+      },
+      "features.2": {
+        "source": "سطح تماس مناسب برای قرائت پایدار",
+        "text": "Contact surface designed for a stable reading"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده تراز کانوکس",
+        "text": "Sample studio image of the Konvex spirit-level family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "تراز",
+        "text": "Spirit levels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "تراز حرفه‌ای ۶۰ سانتی‌متری KV-SL60 | کانوکس",
+        "text": "Professional spirit level · 60 cm KV-SL60 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۶۰ سانتی‌متری مدل KV-SL60. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Professional spirit level · 60 cm, model KV-SL60. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "spirit-levels-2",
+    "fields": {
+      "name": {
+        "source": "تراز حرفه‌ای ۴۰ سانتی‌متری",
+        "text": "Professional spirit level · 40 cm"
+      },
+      "shortDescription": {
+        "source": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+        "text": "An aluminium body and easy-to-read vials for checking surfaces during installation and construction."
+      },
+      "longDescription": {
+        "source": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+        "text": "A suitable level should match the surface length, available space and accuracy required. This sample family introduces aluminium-body levels in several lengths. Check the body and vials before work, and verify the reading with a reversal test."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "تعداد محفظه",
+        "text": "Number of vials"
+      },
+      "specifications.3.label": {
+        "source": "آهن‌ربا",
+        "text": "Magnetic"
+      },
+      "specifications.3.value": {
+        "source": "ندارد",
+        "text": "No"
+      },
+      "specifications.4.label": {
+        "source": "جنس بدنه",
+        "text": "Body material"
+      },
+      "specifications.4.value": {
+        "source": "آلومینیوم",
+        "text": "Aluminium"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "سه محفظه برای بررسی جهت‌های مختلف",
+        "text": "Three vials for checking different directions"
+      },
+      "features.1": {
+        "source": "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "text": "End caps help protect the body from impact"
+      },
+      "features.2": {
+        "source": "سطح تماس مناسب برای قرائت پایدار",
+        "text": "Contact surface designed for a stable reading"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده تراز کانوکس",
+        "text": "Sample studio image of the Konvex spirit-level family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "تراز",
+        "text": "Spirit levels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "تراز حرفه‌ای ۴۰ سانتی‌متری KV-SL40 | کانوکس",
+        "text": "Professional spirit level · 40 cm KV-SL40 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۴۰ سانتی‌متری مدل KV-SL40. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Professional spirit level · 40 cm, model KV-SL40. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "spirit-levels-3",
+    "fields": {
+      "name": {
+        "source": "تراز حرفه‌ای ۸۰ سانتی‌متری",
+        "text": "Professional spirit level · 80 cm"
+      },
+      "shortDescription": {
+        "source": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+        "text": "An aluminium body and easy-to-read vials for checking surfaces during installation and construction."
+      },
+      "longDescription": {
+        "source": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+        "text": "A suitable level should match the surface length, available space and accuracy required. This sample family introduces aluminium-body levels in several lengths. Check the body and vials before work, and verify the reading with a reversal test."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "تعداد محفظه",
+        "text": "Number of vials"
+      },
+      "specifications.3.label": {
+        "source": "آهن‌ربا",
+        "text": "Magnetic"
+      },
+      "specifications.3.value": {
+        "source": "دارد",
+        "text": "Yes"
+      },
+      "specifications.4.label": {
+        "source": "جنس بدنه",
+        "text": "Body material"
+      },
+      "specifications.4.value": {
+        "source": "آلومینیوم",
+        "text": "Aluminium"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "سه محفظه برای بررسی جهت‌های مختلف",
+        "text": "Three vials for checking different directions"
+      },
+      "features.1": {
+        "source": "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "text": "End caps help protect the body from impact"
+      },
+      "features.2": {
+        "source": "سطح تماس مناسب برای قرائت پایدار",
+        "text": "Contact surface designed for a stable reading"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده تراز کانوکس",
+        "text": "Sample studio image of the Konvex spirit-level family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "تراز",
+        "text": "Spirit levels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "تراز حرفه‌ای ۸۰ سانتی‌متری KV-SL80 | کانوکس",
+        "text": "Professional spirit level · 80 cm KV-SL80 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۸۰ سانتی‌متری مدل KV-SL80. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Professional spirit level · 80 cm, model KV-SL80. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "spirit-levels-4",
+    "fields": {
+      "name": {
+        "source": "تراز حرفه‌ای ۱۰۰ سانتی‌متری",
+        "text": "Professional spirit level · 100 cm"
+      },
+      "shortDescription": {
+        "source": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+        "text": "An aluminium body and easy-to-read vials for checking surfaces during installation and construction."
+      },
+      "longDescription": {
+        "source": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+        "text": "A suitable level should match the surface length, available space and accuracy required. This sample family introduces aluminium-body levels in several lengths. Check the body and vials before work, and verify the reading with a reversal test."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "تعداد محفظه",
+        "text": "Number of vials"
+      },
+      "specifications.3.label": {
+        "source": "آهن‌ربا",
+        "text": "Magnetic"
+      },
+      "specifications.3.value": {
+        "source": "ندارد",
+        "text": "No"
+      },
+      "specifications.4.label": {
+        "source": "جنس بدنه",
+        "text": "Body material"
+      },
+      "specifications.4.value": {
+        "source": "آلومینیوم",
+        "text": "Aluminium"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "سه محفظه برای بررسی جهت‌های مختلف",
+        "text": "Three vials for checking different directions"
+      },
+      "features.1": {
+        "source": "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "text": "End caps help protect the body from impact"
+      },
+      "features.2": {
+        "source": "سطح تماس مناسب برای قرائت پایدار",
+        "text": "Contact surface designed for a stable reading"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده تراز کانوکس",
+        "text": "Sample studio image of the Konvex spirit-level family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "تراز",
+        "text": "Spirit levels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "تراز حرفه‌ای ۱۰۰ سانتی‌متری KV-SL100 | کانوکس",
+        "text": "Professional spirit level · 100 cm KV-SL100 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۱۰۰ سانتی‌متری مدل KV-SL100. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Professional spirit level · 100 cm, model KV-SL100. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "spirit-levels-5",
+    "fields": {
+      "name": {
+        "source": "تراز حرفه‌ای ۳۰ سانتی‌متری",
+        "text": "Professional spirit level · 30 cm"
+      },
+      "shortDescription": {
+        "source": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+        "text": "An aluminium body and easy-to-read vials for checking surfaces during installation and construction."
+      },
+      "longDescription": {
+        "source": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+        "text": "A suitable level should match the surface length, available space and accuracy required. This sample family introduces aluminium-body levels in several lengths. Check the body and vials before work, and verify the reading with a reversal test."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "تعداد محفظه",
+        "text": "Number of vials"
+      },
+      "specifications.3.label": {
+        "source": "آهن‌ربا",
+        "text": "Magnetic"
+      },
+      "specifications.3.value": {
+        "source": "دارد",
+        "text": "Yes"
+      },
+      "specifications.4.label": {
+        "source": "جنس بدنه",
+        "text": "Body material"
+      },
+      "specifications.4.value": {
+        "source": "آلومینیوم",
+        "text": "Aluminium"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "سه محفظه برای بررسی جهت‌های مختلف",
+        "text": "Three vials for checking different directions"
+      },
+      "features.1": {
+        "source": "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "text": "End caps help protect the body from impact"
+      },
+      "features.2": {
+        "source": "سطح تماس مناسب برای قرائت پایدار",
+        "text": "Contact surface designed for a stable reading"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده تراز کانوکس",
+        "text": "Sample studio image of the Konvex spirit-level family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "تراز",
+        "text": "Spirit levels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "تراز حرفه‌ای ۳۰ سانتی‌متری KV-SL30 | کانوکس",
+        "text": "Professional spirit level · 30 cm KV-SL30 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۳۰ سانتی‌متری مدل KV-SL30. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Professional spirit level · 30 cm, model KV-SL30. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "product",
+    "id": "spirit-levels-6",
+    "fields": {
+      "name": {
+        "source": "تراز حرفه‌ای ۱۲۰ سانتی‌متری",
+        "text": "Professional spirit level · 120 cm"
+      },
+      "shortDescription": {
+        "source": "بدنه آلومینیومی و محفظه‌های خوانا برای بررسی تراز سطوح در نصب و اجرا.",
+        "text": "An aluminium body and easy-to-read vials for checking surfaces during installation and construction."
+      },
+      "longDescription": {
+        "source": "یک تراز مناسب باید با طول سطح، فضای کار و دقت موردنیاز سازگار باشد. این خانواده نمونه، ترازهای بدنه آلومینیومی در طول‌های مختلف را معرفی می‌کند. پیش از شروع کار، سلامت بدنه و محفظه‌ها را بررسی کنید و صحت قرائت را با آزمون چرخش کنترل کنید.",
+        "text": "A suitable level should match the surface length, available space and accuracy required. This sample family introduces aluminium-body levels in several lengths. Check the body and vials before work, and verify the reading with a reversal test."
+      },
+      "specifications.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "specifications.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "specifications.2.label": {
+        "source": "تعداد محفظه",
+        "text": "Number of vials"
+      },
+      "specifications.3.label": {
+        "source": "آهن‌ربا",
+        "text": "Magnetic"
+      },
+      "specifications.3.value": {
+        "source": "ندارد",
+        "text": "No"
+      },
+      "specifications.4.label": {
+        "source": "جنس بدنه",
+        "text": "Body material"
+      },
+      "specifications.4.value": {
+        "source": "آلومینیوم",
+        "text": "Aluminium"
+      },
+      "specifications.5.label": {
+        "source": "وزن",
+        "text": "Weight"
+      },
+      "features.0": {
+        "source": "سه محفظه برای بررسی جهت‌های مختلف",
+        "text": "Three vials for checking different directions"
+      },
+      "features.1": {
+        "source": "ضربه‌گیر انتهایی برای محافظت از بدنه",
+        "text": "End caps help protect the body from impact"
+      },
+      "features.2": {
+        "source": "سطح تماس مناسب برای قرائت پایدار",
+        "text": "Contact surface designed for a stable reading"
+      },
+      "images.0.alt": {
+        "source": "تصویر استودیویی نمونه از خانواده تراز کانوکس",
+        "text": "Sample studio image of the Konvex spirit-level family"
+      },
+      "images.1.alt": {
+        "source": "تصویر مفهومی نمونه از کاربرد و مجموعه ابزار کانوکس",
+        "text": "Sample concept image of Konvex tools and their use"
+      },
+      "warranty": {
+        "source": "شرایط ضمانت این مدل هنوز تأیید نشده است. برای اطلاع از پوشش، مدت و شرایط خدمات، پیش از سفارش استعلام بگیرید.",
+        "text": "Warranty terms for this model have not been confirmed. Ask about the scope, duration and conditions of service before ordering."
+      },
+      "tags.0": {
+        "source": "تراز",
+        "text": "Spirit levels"
+      },
+      "tags.2": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "included.0": {
+        "source": "یک عدد محصول نمونه معرفی‌شده",
+        "text": "One unit of the sample product shown"
+      },
+      "faq.0.question": {
+        "source": "آیا این مشخصات مبنای سفارش هستند؟",
+        "text": "Can I order based on these specifications?"
+      },
+      "faq.0.answer": {
+        "source": "خیر. این صفحه بخشی از کاتالوگ نمونه است. مشخصات، تصاویر، موجودی و شرایط ضمانت باید پیش از سفارش از سوی کانوکس تأیید شوند.",
+        "text": "No. This page is part of a sample catalog. Konvex must confirm specifications, images, availability and warranty terms before any order."
+      },
+      "faq.1.question": {
+        "source": "چطور قیمت و موجودی این مدل را بپرسم؟",
+        "text": "How do I ask about the price and availability?"
+      },
+      "faq.1.answer": {
+        "source": "از دکمه درخواست قیمت استفاده کنید و تعداد موردنیاز و توضیحات پروژه را بنویسید. در این نسخه، درخواست به‌صورت آزمایشی ثبت می‌شود و ارسال پیامک یا ایمیل فعال نیست.",
+        "text": "Use Request a quote and add the quantity and project details. Requests in this version are saved for testing; SMS and email delivery are not active."
+      },
+      "seoTitle": {
+        "source": "تراز حرفه‌ای ۱۲۰ سانتی‌متری KV-SL120 | کانوکس",
+        "text": "Professional spirit level · 120 cm KV-SL120 | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مشخصات فنی، کاربرد و مقایسه تراز حرفه‌ای ۱۲۰ سانتی‌متری مدل KV-SL120. دریافت قیمت و بررسی سازگاری در کانوکس. کاتالوگ نمونه.",
+        "text": "Technical specifications, applications and comparison of Professional spirit level · 120 cm, model KV-SL120. Request a price and check compatibility at Konvex. Sample catalog."
+      }
+    }
+  },
+  {
+    "type": "application",
+    "id": "concrete",
+    "fields": {
+      "name": {
+        "source": "بتن",
+        "text": "Concrete"
+      },
+      "title": {
+        "source": "برای سطوح سخت، انتخاب دقیق.",
+        "text": "A considered choice for tough surfaces."
+      },
+      "description": {
+        "source": "نوع اتصال، شکل نوک و طول قلم، سه نقطه شروع انتخاب برای تخریب و شیارزنی بتن هستند.",
+        "text": "Shank type, tip shape and chisel length are the three starting points for concrete demolition and channeling."
+      }
+    }
+  },
+  {
+    "type": "application",
+    "id": "construction",
+    "fields": {
+      "name": {
+        "source": "ساختمان",
+        "text": "Construction"
+      },
+      "title": {
+        "source": "از اولین اندازه، تا آخرین جزئیات.",
+        "text": "From the first measurement to the final detail."
+      },
+      "description": {
+        "source": "برای اندازه‌گیری، تراز کردن و آماده‌سازی سطوح در پروژه‌های ساختمانی، ابزار را بر اساس مرحله کار انتخاب کنید.",
+        "text": "Choose tools for each stage of construction: measuring, leveling and preparing surfaces."
+      }
+    }
+  },
+  {
+    "type": "application",
+    "id": "equipment",
+    "fields": {
+      "name": {
+        "source": "تجهیزات",
+        "text": "Equipment"
+      },
+      "title": {
+        "source": "حرکت بهتر، در هر گوشه کارگاه.",
+        "text": "Better movement across your workshop."
+      },
+      "description": {
+        "source": "چرخ مناسب را با توجه به وزن تجهیز، سطح زمین، جنس رویه و نیاز به ترمز انتخاب کنید.",
+        "text": "Choose casters for the equipment weight, floor surface, tread material and braking requirements."
+      }
+    }
+  },
+  {
+    "type": "application",
+    "id": "industrial",
+    "fields": {
+      "name": {
+        "source": "صنعت",
+        "text": "Industrial"
+      },
+      "title": {
+        "source": "انتخابی متناسب با کارِ سنگین.",
+        "text": "A choice that suits demanding work."
+      },
+      "description": {
+        "source": "ظرفیت بار، شرایط محیط و سازگاری را کنار هم بررسی کنید؛ برای تجهیز خطوط کار و نگهداری صنعتی.",
+        "text": "Review load capacity, environmental conditions and compatibility together when equipping production areas and industrial maintenance operations."
+      }
+    }
+  },
+  {
+    "type": "application",
+    "id": "metalworking",
+    "fields": {
+      "name": {
+        "source": "فلزکاری",
+        "text": "Metalworking"
+      },
+      "title": {
+        "source": "دقتی که در نتیجه دیده می‌شود.",
+        "text": "Precision you can see in the result."
+      },
+      "description": {
+        "source": "برای هر آلیاژ و هر مرحله از کار، صفحه مناسب را پیدا کنید. برش، ساب و پرداخت را با مشخصات درست آغاز کنید.",
+        "text": "Find the right disc for each alloy and stage of work. Start cutting, grinding and finishing with the right specifications."
+      }
+    }
+  },
+  {
+    "type": "application",
+    "id": "workshop",
+    "fields": {
+      "name": {
+        "source": "کارگاه",
+        "text": "Workshop"
+      },
+      "title": {
+        "source": "همراهِ هر روزِ کارگاه شما.",
+        "text": "Ready for the everyday work of your workshop."
+      },
+      "description": {
+        "source": "از برش و پرداخت تا جابه‌جایی تجهیزات؛ انتخاب‌های کاربردی برای یک کارگاه منظم و حرفه‌ای.",
+        "text": "From cutting and finishing to moving equipment: practical options for an organized, professional workshop."
+      }
+    }
+  },
+  {
+    "type": "article",
+    "id": "choose-caster",
+    "fields": {
+      "title": {
+        "source": "پنج نکته برای انتخاب چرخ صنعتی",
+        "text": "Five considerations when choosing industrial casters"
+      },
+      "excerpt": {
+        "source": "ظرفیت بار، جنس رویه و شرایط کف؛ جزئیاتی که حرکت تجهیزات را تغییر می‌دهند.",
+        "text": "Load capacity, tread material and floor conditions: the details that change how equipment moves."
+      },
+      "category": {
+        "source": "راهنمای انتخاب",
+        "text": "Buying guide"
+      },
+      "seoTitle": {
+        "source": "راهنمای انتخاب چرخ صنعتی | کانوکس",
+        "text": "A guide to choosing industrial casters | KONVEX"
+      },
+      "seoDescription": {
+        "source": "چگونه ظرفیت بار، نوع حرکت، ترمز و جنس چرخ صنعتی مناسب را انتخاب کنیم؟",
+        "text": "How to choose load capacity, movement type, brakes and materials for industrial casters."
+      },
+      "sections.0.title": {
+        "source": "ظرفیت را فقط تقسیم بر چهار نکنید",
+        "text": "Don't simply divide the load by four"
+      },
+      "sections.0.body": {
+        "source": "وزن تجهیز به‌همراه بار، شرایط حرکت و توزیع نامتوازن وزن را در نظر بگیرید. روی سطح ناهموار ممکن است همه چرخ‌ها همزمان بار یکسانی تحمل نکنند. ضریب طراحی و ظرفیت مجموعه را با سازنده یا کارشناس تأیید کنید.",
+        "text": "Account for the equipment plus its load, the movement conditions and uneven weight distribution. On uneven floors, not every caster may carry the same load at the same time. Confirm the design allowance and overall capacity with the manufacturer or a qualified specialist."
+      },
+      "sections.1.title": {
+        "source": "جنس رویه و جنس کف",
+        "text": "Tread material and floor material"
+      },
+      "sections.1.body": {
+        "source": "پلی‌یورتان، لاستیک، نایلون و چدن رفتار متفاوتی از نظر صدا، مقاومت حرکت، اثر روی کف و تحمل شرایط محیطی دارند. رطوبت، مواد شیمیایی، دما و وضعیت سطح باید در انتخاب دیده شوند.",
+        "text": "Polyurethane, rubber, nylon and cast iron differ in noise, rolling resistance, floor marking and tolerance of environmental conditions. Consider moisture, chemicals, temperature and the condition of the surface when choosing."
+      },
+      "sections.2.title": {
+        "source": "ثابت، گردان یا ترکیبی؟",
+        "text": "Fixed, swivel or a combination?"
+      },
+      "sections.2.body": {
+        "source": "چرخ ثابت حرکت خطی را هدایت می‌کند و چرخ گردان تغییر جهت را آسان‌تر می‌کند. آرایش مناسب به طول مسیر، فضای مانور و شکل شاسی وابسته است؛ انتخاب همه چرخ‌ها به یک شکل همیشه بهترین نتیجه را ندارد.",
+        "text": "Fixed casters guide straight travel; swivel casters make direction changes easier. The right arrangement depends on the travel distance, maneuvering space and chassis design. Using the same caster type at every position does not always give the best result."
+      },
+      "sections.3.title": {
+        "source": "ترمز و ارتفاع نصب",
+        "text": "Brakes and mounting height"
+      },
+      "sections.3.body": {
+        "source": "نوع ترمز را بررسی کنید: بعضی مدل‌ها فقط چرخ را متوقف می‌کنند و برخی چرخ و گردان را قفل می‌کنند. ارتفاع کل، ابعاد صفحه نصب و فاصله سوراخ‌ها باید با تجهیز سازگار باشند.",
+        "text": "Check the brake type: some stop only the wheel, while others lock both the wheel and swivel. Overall height, mounting-plate dimensions and hole spacing must suit the equipment."
+      },
+      "sections.4.title": {
+        "source": "قبل از سفارش، شرایط را بنویسید",
+        "text": "Write down the conditions before ordering"
+      },
+      "sections.4.body": {
+        "source": "وزن کل، نوع کف، سرعت و تناوب حرکت، شرایط محیطی و ابعاد نصب را در درخواست قیمت درج کنید. این اطلاعات انتخاب مدل سازگار و مقایسه پیشنهادها را ساده‌تر می‌کند.",
+        "text": "Include the total weight, floor type, movement speed and frequency, environmental conditions and mounting dimensions in your quote request. These details make it easier to select compatible models and compare proposals."
+      }
+    }
+  },
+  {
+    "type": "article",
+    "id": "choose-chisel",
+    "fields": {
+      "title": {
+        "source": "راهنمای انتخاب قلم و اتصال بتن‌کن",
+        "text": "A guide to concrete chisels and shank types"
+      },
+      "excerpt": {
+        "source": "تفاوت قلم نوک‌تیز، تخت و شیارزن و اهمیت اتصال سازگار با دستگاه.",
+        "text": "Understand pointed, flat and channeling chisels, and why the shank must match the machine."
+      },
+      "category": {
+        "source": "راهنمای انتخاب",
+        "text": "Buying guide"
+      },
+      "seoTitle": {
+        "source": "انتخاب قلم بتن‌کن و نوع اتصال | کانوکس",
+        "text": "Choosing a concrete chisel and shank | KONVEX"
+      },
+      "seoDescription": {
+        "source": "مقایسه قلم تخت و نوک‌تیز و اتصال SDS Plus، SDS Max و شش‌گوش.",
+        "text": "Compare flat and pointed chisels and SDS Plus, SDS Max and hex shanks."
+      },
+      "sections.0.title": {
+        "source": "ابتدا نوع ابزارگیر را بررسی کنید",
+        "text": "Check the tool holder first"
+      },
+      "sections.0.body": {
+        "source": "SDS Plus، SDS Max و اتصال‌های شش‌گوش همگی قابل جایگزینی با یکدیگر نیستند. مدل دقیق دستگاه و اتصال مجاز را از دفترچه آن بخوانید و با مشخصات قلم تطبیق دهید.",
+        "text": "SDS Plus, SDS Max and hex shanks are not all interchangeable. Find the exact machine model and permitted shank type in its manual, then compare them with the chisel specification."
+      },
+      "sections.1.title": {
+        "source": "شکل نوک را متناسب با کار انتخاب کنید",
+        "text": "Match the tip shape to the work"
+      },
+      "sections.1.body": {
+        "source": "نوک‌تیز نیرو را روی ناحیه کوچک متمرکز می‌کند؛ تخت برای برداشت کنترل‌شده سطح و شیارزن برای ایجاد مسیر کاربرد دارد. کاربری دقیق هر قلم به طراحی و تأیید سازنده بستگی دارد.",
+        "text": "A pointed tip concentrates force over a small area. A flat tip is used for controlled surface removal and a channeling tip for creating grooves. The precise permitted use of each chisel depends on its design and manufacturer approval."
+      },
+      "sections.2.title": {
+        "source": "طول بیشتر همیشه بهتر نیست",
+        "text": "Longer is not always better"
+      },
+      "sections.2.body": {
+        "source": "طول را بر اساس دسترسی و کنترل انتخاب کنید. در بسیاری از کارها، قلم بلندتر کنترل متفاوت و نیاز به توجه بیشتر به زاویه کار دارد. از قلم آسیب‌دیده استفاده نکنید و با ابزار بدون مهار مناسب کار نکنید.",
+        "text": "Choose a length that gives the access and control you need. In many tasks, a longer chisel changes handling and requires more attention to the working angle. Do not use damaged chisels or work without adequate restraint of the tool/workpiece."
+      }
+    }
+  },
+  {
+    "type": "article",
+    "id": "choose-disc",
+    "fields": {
+      "title": {
+        "source": "صفحه برش یا ساب؟ درست انتخاب کنید.",
+        "text": "Cutting or grinding? Choose the right disc."
+      },
+      "excerpt": {
+        "source": "تفاوت فقط در ضخامت نیست؛ جنس قطعه‌کار، دور دستگاه و نوع عملیات تعیین‌کننده‌اند.",
+        "text": "It isn't just about thickness: the workpiece, machine speed and operation determine the choice."
+      },
+      "category": {
+        "source": "دانش فنی",
+        "text": "Technical knowledge"
+      },
+      "seoTitle": {
+        "source": "تفاوت صفحه برش و صفحه ساب | کانوکس",
+        "text": "Cutting discs versus grinding discs | KONVEX"
+      },
+      "seoDescription": {
+        "source": "راهنمای انتخاب صفحه مناسب برش و ساب و نکات مهم سازگاری و ایمنی.",
+        "text": "A guide to choosing cutting and grinding discs, with essential compatibility and safety considerations."
+      },
+      "sections.0.title": {
+        "source": "نوع عملیات را مشخص کنید",
+        "text": "Define the operation"
+      },
+      "sections.0.body": {
+        "source": "صفحه برش برای جدا کردن قطعه و صفحه ساب برای برداشت و پرداخت سطح طراحی شده است. فشار جانبی روی صفحه برش می‌تواند خطرناک باشد؛ از هر صفحه فقط برای کاربری تأییدشده سازنده استفاده کنید.",
+        "text": "A cutting disc separates a workpiece; a grinding disc removes and finishes surface material. Side pressure on a cutting disc can be dangerous. Use each disc only for the operations approved by its manufacturer."
+      },
+      "sections.1.title": {
+        "source": "چهار عدد مهم روی صفحه",
+        "text": "Four important numbers on the disc"
+      },
+      "sections.1.body": {
+        "source": "قطر، ضخامت، قطر سوراخ مرکزی و حداکثر دور مجاز را با مشخصات دستگاه تطبیق دهید. صفحه‌ای با قطر نامناسب یا سرعت مجاز کمتر از سرعت دستگاه انتخاب نکنید. نصب و محافظ باید دقیقاً مطابق دستورالعمل دستگاه باشد.",
+        "text": "Match the diameter, thickness, bore size and maximum rated speed to the machine. Do not select an unsuitable diameter or a disc whose speed rating is lower than the machine's speed. Mounting and guarding must follow the machine's instructions exactly."
+      },
+      "sections.2.title": {
+        "source": "جنس قطعه‌کار اهمیت دارد",
+        "text": "The workpiece material matters"
+      },
+      "sections.2.body": {
+        "source": "صفحه مناسب فلز، استیل، سنگ یا بتن یکسان نیست. ترکیب ساینده و نوع اتصال باید برای قطعه‌کار مجاز باشد. عبارت عمومی همه‌کاره را جایگزین بررسی برچسب رسمی و دفترچه نکنید.",
+        "text": "Discs for metal, stainless steel, stone and concrete are not the same. The abrasive and bonding system must be approved for the workpiece. A general claim of multi-purpose use does not replace checking the official label and manual."
+      },
+      "sections.3.title": {
+        "source": "پیش از هر بار استفاده",
+        "text": "Before every use"
+      },
+      "sections.3.body": {
+        "source": "صفحه را از نظر ترک، آسیب، شرایط نگهداری و تاریخ مصرف احتمالی بررسی کنید. از محافظ دستگاه و تجهیزات حفاظت چشم، صورت، شنوایی و تنفس مطابق ارزیابی خطر و دستورالعمل استفاده کنید. قطعه‌کار باید مهار شده باشد.",
+        "text": "Check the disc for cracks, damage, storage condition and any applicable expiry date. Use the machine guard and eye, face, hearing and respiratory protection as required by the risk assessment and instructions. Secure the workpiece."
+      }
+    }
+  },
+  {
+    "type": "article",
+    "id": "choose-laser",
+    "fields": {
+      "title": {
+        "source": "متر لیزری مناسب پروژه شما کدام است؟",
+        "text": "Which laser meter suits your project?"
+      },
+      "excerpt": {
+        "source": "برد بیشتر همیشه انتخاب بهتر نیست. دقت، شرایط محیط و قابلیت‌های واقعاً موردنیاز را بشناسید.",
+        "text": "More range is not always better. Understand accuracy, the environment and the functions you actually need."
+      },
+      "category": {
+        "source": "راهنمای انتخاب",
+        "text": "Buying guide"
+      },
+      "seoTitle": {
+        "source": "راهنمای انتخاب متر لیزری | دانشنامه کانوکس",
+        "text": "Choosing a laser distance meter | Konvex knowledge hub"
+      },
+      "seoDescription": {
+        "source": "نکات کاربردی انتخاب متر لیزری بر اساس برد، دقت، شرایط محیط و حفاظت.",
+        "text": "Practical advice for selecting a laser meter by range, accuracy, environment and protection."
+      },
+      "sections.0.title": {
+        "source": "از فاصله‌های واقعی پروژه شروع کنید",
+        "text": "Start with the distances you actually measure"
+      },
+      "sections.0.body": {
+        "source": "بلندترین فاصله‌ای را که به‌طور معمول اندازه می‌گیرید مشخص کنید. برد اسمی ابزار در شرایط آزمون مناسب تعریف می‌شود؛ نور شدید، سطح تیره یا بازتابنده و زاویه نامناسب می‌تواند قرائت را دشوار کند. صرفاً به بزرگ‌ترین عدد روی جعبه تکیه نکنید.",
+        "text": "Identify the longest distance you normally measure. A tool's nominal range is defined under suitable test conditions. Bright light, dark or reflective surfaces and awkward angles can make readings difficult. Don't rely solely on the largest number on the box."
+      },
+      "sections.1.title": {
+        "source": "برد و دقت، دو ویژگی متفاوت‌اند",
+        "text": "Range and accuracy are different specifications"
+      },
+      "sections.1.body": {
+        "source": "برد، محدوده قابل اندازه‌گیری است؛ دقت، میزان انحراف اعلام‌شده در شرایط مشخص. در برآورد ابعاد یک فضا و در نصب جزئیات ظریف، نیازها یکسان نیستند. دقت را همراه با روش اندازه‌گیری، مرجع جلویی یا پشتی دستگاه و شرایط اعلام‌شده در دفترچه بررسی کنید.",
+        "text": "Range is the measurable distance; accuracy is the stated deviation under defined conditions. Estimating room dimensions and installing fine details do not require the same performance. Consider accuracy alongside your measuring method, the device's front or rear reference point and the conditions stated in its manual."
+      },
+      "sections.2.title": {
+        "source": "قابلیت‌هایی که واقعاً استفاده می‌کنید",
+        "text": "Functions you will actually use"
+      },
+      "sections.2.body": {
+        "source": "محاسبه مساحت و حجم، اندازه‌گیری پیوسته، حافظه و انتقال داده می‌توانند کار را ساده‌تر کنند. اما برای انتخاب، ابتدا کارهای پرتکرار خود را بنویسید. قابلیت بیشتر بدون نیاز واقعی، الزاماً انتخاب بهتری نیست.",
+        "text": "Area and volume calculations, continuous measurement, memory and data transfer can simplify work. Start by listing your most frequent tasks. Extra functions without a practical need do not necessarily make a better choice."
+      },
+      "sections.3.title": {
+        "source": "ایمنی و حفاظت محیطی",
+        "text": "Safety and environmental protection"
+      },
+      "sections.3.body": {
+        "source": "پرتو لیزر را به سمت چشم هدایت نکنید و به سطوح بازتابنده توجه کنید. درجه IP را از دفترچه رسمی بخوانید؛ مقاومت در برابر پاشش آب با امکان غوطه‌وری فرق دارد. ابزار را مطابق دستورالعمل نگهداری و در صورت نیاز کالیبره کنید.",
+        "text": "Never direct a laser at anyone's eyes, and take care around reflective surfaces. Read the IP rating in the official manual: splash resistance is not the same as suitability for immersion. Maintain and, where needed, calibrate the tool as instructed."
+      }
+    }
+  },
+  {
+    "type": "article",
+    "id": "choose-level",
+    "fields": {
+      "title": {
+        "source": "تراز مناسب؛ از طول تا دقت قرائت",
+        "text": "Choosing a spirit level: length and accuracy"
+      },
+      "excerpt": {
+        "source": "چگونه بین طول، دقت و قابلیت مغناطیسی انتخاب متناسب با کار داشته باشیم؟",
+        "text": "How should you choose between length, accuracy and a magnetic base for your task?"
+      },
+      "category": {
+        "source": "دانش فنی",
+        "text": "Technical knowledge"
+      },
+      "seoTitle": {
+        "source": "راهنمای انتخاب تراز دستی | کانوکس",
+        "text": "Choosing a spirit level | KONVEX"
+      },
+      "seoDescription": {
+        "source": "انتخاب تراز بر اساس طول، دقت و جنس سطح کار.",
+        "text": "Select a spirit level by length, accuracy and the working surface."
+      },
+      "sections.0.title": {
+        "source": "طول متناسب با سطح",
+        "text": "Match the length to the surface"
+      },
+      "sections.0.body": {
+        "source": "برای سطوح بلند، طول مناسب می‌تواند ارزیابی بهتری از سطح بدهد؛ برای نصب در فضای محدود، تراز کوتاه‌تر کاربردی است. طول را با توجه به سطح تماس واقعی و فضای در دسترس انتخاب کنید.",
+        "text": "On long surfaces, a suitable length can provide a better overall assessment. A shorter level is useful for installation in confined spaces. Choose for the actual contact surface and available room."
+      },
+      "sections.1.title": {
+        "source": "دقت را همراه واحد بخوانید",
+        "text": "Read the accuracy with its unit"
+      },
+      "sections.1.body": {
+        "source": "دقت معمولاً به صورت میلی‌متر بر متر بیان می‌شود. عدد کوچک‌تر به‌تنهایی کافی نیست؛ سلامت بدنه، روش قرار دادن و شرایط قرائت نیز اهمیت دارند. مشخصه رسمی هر مدل را از سند سازنده بررسی کنید.",
+        "text": "Accuracy is commonly stated in millimetres per metre. A smaller number is not enough on its own: the condition of the body, placement and reading conditions also matter. Check the official specification for each model."
+      },
+      "sections.2.title": {
+        "source": "سلامت ابزار را کنترل کنید",
+        "text": "Check the tool's condition"
+      },
+      "sections.2.body": {
+        "source": "سطح تماس و محفظه‌ها را تمیز نگه دارید. بعد از ضربه یا پیش از کار حساس، قرائت را با روش توصیه‌شده سازنده کنترل کنید. آهن‌ربا روی سطح فلزی می‌تواند نگهداری را ساده کند، اما جایگزین بررسی پایداری و صحت قرائت نیست.",
+        "text": "Keep the contact surface and vials clean. After an impact or before precise work, check the reading using the manufacturer's recommended method. Magnets can make positioning on metal easier, but do not replace checking stability and reading accuracy."
+      }
+    }
+  },
+  {
+    "type": "brand",
+    "id": "konvex",
+    "fields": {
+      "name": {
+        "source": "کانوکس",
+        "text": "KONVEX"
+      },
+      "description": {
+        "source": "ابزار و تجهیزات صنعتی؛ از انتخاب دقیق تا اجرای حرفه‌ای. کاتالوگ کانوکس، مشخصات و کاربرد ابزار را در مرکز تجربه انتخاب قرار می‌دهد.",
+        "text": "Industrial tools and equipment, from a considered choice to professional work. The Konvex catalog puts specifications and applications at the center of the selection experience."
+      }
+    }
+  },
+  {
+    "type": "category",
+    "id": "abrasives",
+    "fields": {
+      "name": {
+        "source": "محصولات سایش",
+        "text": "Abrasives"
+      },
+      "description": {
+        "source": "برش تمیز و پرداخت حرفه‌ای سطوح",
+        "text": "Clean cuts and professional surface finishing"
+      },
+      "filters.0.label": {
+        "source": "قطر صفحه",
+        "text": "Disc diameter"
+      },
+      "filters.1.label": {
+        "source": "ضخامت",
+        "text": "Thickness"
+      },
+      "filters.2.label": {
+        "source": "قطر سوراخ مرکزی",
+        "text": "Bore diameter"
+      },
+      "filters.3.label": {
+        "source": "جنس قطعه‌کار",
+        "text": "Workpiece material"
+      },
+      "filters.4.label": {
+        "source": "حداکثر دور مجاز",
+        "text": "Maximum rated speed"
+      },
+      "filters.5.label": {
+        "source": "نوع صفحه",
+        "text": "Disc type"
+      }
+    }
+  },
+  {
+    "type": "category",
+    "id": "accessories",
+    "fields": {
+      "name": {
+        "source": "متعلقات",
+        "text": "Accessories"
+      },
+      "description": {
+        "source": "جزئیات تکمیلی برای یک مجموعه کاربردی",
+        "text": "The finishing details for a practical setup"
+      },
+      "filters.0.label": {
+        "source": "نوع متعلقات",
+        "text": "Accessory type"
+      },
+      "filters.1.label": {
+        "source": "جنس",
+        "text": "Material"
+      }
+    }
+  },
+  {
+    "type": "category",
+    "id": "concrete-chisels",
+    "fields": {
+      "name": {
+        "source": "قلم بتن‌کن",
+        "text": "Concrete chisels"
+      },
+      "description": {
+        "source": "برای تخریب دقیق و پیشروی مطمئن در بتن",
+        "text": "For controlled demolition and progress through concrete"
+      },
+      "filters.0.label": {
+        "source": "نوع قلم",
+        "text": "Chisel type"
+      },
+      "filters.1.label": {
+        "source": "نوع اتصال",
+        "text": "Shank type"
+      },
+      "filters.2.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "filters.3.label": {
+        "source": "قطر",
+        "text": "Diameter"
+      },
+      "filters.4.label": {
+        "source": "جنس",
+        "text": "Material"
+      }
+    }
+  },
+  {
+    "type": "category",
+    "id": "industrial-casters",
+    "fields": {
+      "name": {
+        "source": "چرخ صنعتی",
+        "text": "Industrial casters"
+      },
+      "description": {
+        "source": "حرکت روان، متناسب با بار و محیط کار",
+        "text": "Smooth movement, matched to the load and environment"
+      },
+      "filters.0.label": {
+        "source": "قطر چرخ",
+        "text": "Wheel diameter"
+      },
+      "filters.1.label": {
+        "source": "ظرفیت هر چرخ",
+        "text": "Capacity per caster"
+      },
+      "filters.2.label": {
+        "source": "نوع حرکت",
+        "text": "Movement type"
+      },
+      "filters.3.label": {
+        "source": "ترمز",
+        "text": "Brake"
+      },
+      "filters.4.label": {
+        "source": "جنس رویه",
+        "text": "Tread material"
+      },
+      "filters.5.label": {
+        "source": "ارتفاع نصب",
+        "text": "Mounting height"
+      }
+    }
+  },
+  {
+    "type": "category",
+    "id": "laser-distance-meters",
+    "fields": {
+      "name": {
+        "source": "متر لیزری",
+        "text": "Laser distance meters"
+      },
+      "description": {
+        "source": "فاصله، مساحت و حجم؛ ساده و دقیق",
+        "text": "Distance, area and volume. Simple and precise."
+      },
+      "filters.0.label": {
+        "source": "برد اندازه‌گیری",
+        "text": "Measuring range"
+      },
+      "filters.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "filters.2.label": {
+        "source": "نوع اندازه‌گیری",
+        "text": "Measurement functions"
+      },
+      "filters.3.label": {
+        "source": "درجه حفاظت",
+        "text": "Protection rating"
+      },
+      "filters.4.label": {
+        "source": "نوع باتری",
+        "text": "Battery type"
+      },
+      "filters.5.label": {
+        "source": "بلوتوث",
+        "text": "Bluetooth"
+      }
+    }
+  },
+  {
+    "type": "category",
+    "id": "spirit-levels",
+    "fields": {
+      "name": {
+        "source": "تراز",
+        "text": "Spirit levels"
+      },
+      "description": {
+        "source": "وقتی کوچک‌ترین انحراف اهمیت دارد",
+        "text": "When the smallest deviation matters"
+      },
+      "filters.0.label": {
+        "source": "طول",
+        "text": "Length"
+      },
+      "filters.1.label": {
+        "source": "دقت",
+        "text": "Accuracy"
+      },
+      "filters.2.label": {
+        "source": "آهن‌ربا",
+        "text": "Magnetic"
+      },
+      "filters.3.label": {
+        "source": "تعداد محفظه",
+        "text": "Number of vials"
+      },
+      "filters.4.label": {
+        "source": "جنس بدنه",
+        "text": "Body material"
+      }
+    }
+  }
+]

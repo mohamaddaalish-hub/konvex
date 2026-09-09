@@ -1,0 +1,1957 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example"
+  },
+  {
+    "path": "/en",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en"
+  },
+  {
+    "path": "/compare",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/compare"
+  },
+  {
+    "path": "/en/compare",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/compare"
+  },
+  {
+    "path": "/wishlist",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/wishlist"
+  },
+  {
+    "path": "/en/wishlist",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/wishlist"
+  },
+  {
+    "path": "/quote",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/applications",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications"
+  },
+  {
+    "path": "/en/applications",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications"
+  },
+  {
+    "path": "/brands",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/brands"
+  },
+  {
+    "path": "/en/brands",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/brands"
+  },
+  {
+    "path": "/new-products",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/new-products"
+  },
+  {
+    "path": "/en/new-products",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/new-products"
+  },
+  {
+    "path": "/knowledge",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/knowledge"
+  },
+  {
+    "path": "/en/knowledge",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/knowledge"
+  },
+  {
+    "path": "/about",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/about"
+  },
+  {
+    "path": "/en/about",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/about"
+  },
+  {
+    "path": "/contact",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/contact"
+  },
+  {
+    "path": "/en/contact",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/contact"
+  },
+  {
+    "path": "/quote?purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/products",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/en/products",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/products/concrete-chisels",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products/concrete-chisels"
+  },
+  {
+    "path": "/en/products/concrete-chisels",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/products/concrete-chisels"
+  },
+  {
+    "path": "/products/industrial-casters",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products/industrial-casters"
+  },
+  {
+    "path": "/en/products/industrial-casters",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/products/industrial-casters"
+  },
+  {
+    "path": "/products/spirit-levels",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products/spirit-levels"
+  },
+  {
+    "path": "/en/products/spirit-levels",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/products/spirit-levels"
+  },
+  {
+    "path": "/products/laser-distance-meters",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products/laser-distance-meters"
+  },
+  {
+    "path": "/en/products/laser-distance-meters",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/products/laser-distance-meters"
+  },
+  {
+    "path": "/products/abrasives",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products/abrasives"
+  },
+  {
+    "path": "/en/products/abrasives",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/products/abrasives"
+  },
+  {
+    "path": "/products/accessories",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products/accessories"
+  },
+  {
+    "path": "/en/products/accessories",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/products/accessories"
+  },
+  {
+    "path": "/downloads/konvex-catalog-sample.pdf",
+    "status": 200
+  },
+  {
+    "path": "/featured-products",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/featured-products"
+  },
+  {
+    "path": "/en/featured-products",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/featured-products"
+  },
+  {
+    "path": "/product/konvex-disc-125-1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-disc-125-1"
+  },
+  {
+    "path": "/en/product/konvex-disc-125-1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-disc-125-1"
+  },
+  {
+    "path": "/product/konvex-chisel-1-400",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-chisel-1-400"
+  },
+  {
+    "path": "/en/product/konvex-chisel-1-400",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-chisel-1-400"
+  },
+  {
+    "path": "/product/konvex-caster-150-1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-caster-150-1"
+  },
+  {
+    "path": "/en/product/konvex-caster-150-1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-caster-150-1"
+  },
+  {
+    "path": "/product/konvex-lm-60",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-lm-60"
+  },
+  {
+    "path": "/en/product/konvex-lm-60",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-lm-60"
+  },
+  {
+    "path": "/applications/metalworking",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/metalworking"
+  },
+  {
+    "path": "/en/applications/metalworking",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/metalworking"
+  },
+  {
+    "path": "/knowledge/laser-distance-meter-buying-guide",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/knowledge/laser-distance-meter-buying-guide"
+  },
+  {
+    "path": "/en/knowledge/laser-distance-meter-buying-guide",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/knowledge/laser-distance-meter-buying-guide"
+  },
+  {
+    "path": "/knowledge/cutting-and-grinding-disc-guide",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/knowledge/cutting-and-grinding-disc-guide"
+  },
+  {
+    "path": "/en/knowledge/cutting-and-grinding-disc-guide",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/knowledge/cutting-and-grinding-disc-guide"
+  },
+  {
+    "path": "/knowledge/industrial-caster-selection-guide",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/knowledge/industrial-caster-selection-guide"
+  },
+  {
+    "path": "/en/knowledge/industrial-caster-selection-guide",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/knowledge/industrial-caster-selection-guide"
+  },
+  {
+    "path": "/privacy",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/privacy"
+  },
+  {
+    "path": "/en/privacy",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/privacy"
+  },
+  {
+    "path": "/terms",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/terms"
+  },
+  {
+    "path": "/en/terms",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/terms"
+  },
+  {
+    "path": "/applications/construction",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/construction"
+  },
+  {
+    "path": "/en/applications/construction",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/construction"
+  },
+  {
+    "path": "/applications/workshop",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/workshop"
+  },
+  {
+    "path": "/en/applications/workshop",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/workshop"
+  },
+  {
+    "path": "/applications/industrial",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/industrial"
+  },
+  {
+    "path": "/en/applications/industrial",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/industrial"
+  },
+  {
+    "path": "/applications/concrete",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/concrete"
+  },
+  {
+    "path": "/en/applications/concrete",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/concrete"
+  },
+  {
+    "path": "/applications/equipment",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/equipment"
+  },
+  {
+    "path": "/en/applications/equipment",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/equipment"
+  },
+  {
+    "path": "/products?f.brand=konvex",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/en/products?f.brand=konvex",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/product/konvex-level-60",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-level-60"
+  },
+  {
+    "path": "/en/product/konvex-level-60",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-level-60"
+  },
+  {
+    "path": "/product/konvex-disc-115-2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-disc-115-2"
+  },
+  {
+    "path": "/en/product/konvex-disc-115-2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-disc-115-2"
+  },
+  {
+    "path": "/product/konvex-chisel-2-250",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-chisel-2-250"
+  },
+  {
+    "path": "/en/product/konvex-chisel-2-250",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-chisel-2-250"
+  },
+  {
+    "path": "/product/konvex-caster-100-2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-caster-100-2"
+  },
+  {
+    "path": "/en/product/konvex-caster-100-2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-caster-100-2"
+  },
+  {
+    "path": "/product/konvex-lm-40",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-lm-40"
+  },
+  {
+    "path": "/en/product/konvex-lm-40",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-lm-40"
+  },
+  {
+    "path": "/product/konvex-level-40",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-level-40"
+  },
+  {
+    "path": "/en/product/konvex-level-40",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-level-40"
+  },
+  {
+    "path": "/knowledge?category=%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/knowledge"
+  },
+  {
+    "path": "/en/knowledge?category=%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/knowledge"
+  },
+  {
+    "path": "/knowledge?category=%D8%AF%D8%A7%D9%86%D8%B4%20%D9%81%D9%86%DB%8C",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/knowledge"
+  },
+  {
+    "path": "/en/knowledge?category=%D8%AF%D8%A7%D9%86%D8%B4%20%D9%81%D9%86%DB%8C",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/knowledge"
+  },
+  {
+    "path": "/knowledge/concrete-chisel-shank-guide",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/knowledge/concrete-chisel-shank-guide"
+  },
+  {
+    "path": "/en/knowledge/concrete-chisel-shank-guide",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/knowledge/concrete-chisel-shank-guide"
+  },
+  {
+    "path": "/knowledge/spirit-level-selection-guide",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/knowledge/spirit-level-selection-guide"
+  },
+  {
+    "path": "/en/knowledge/spirit-level-selection-guide",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/knowledge/spirit-level-selection-guide"
+  },
+  {
+    "path": "/product/konvex-meter-case",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-meter-case"
+  },
+  {
+    "path": "/en/product/konvex-meter-case",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-meter-case"
+  },
+  {
+    "path": "/product/konvex-meter-wrist-strap",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-meter-wrist-strap"
+  },
+  {
+    "path": "/en/product/konvex-meter-wrist-strap",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-meter-wrist-strap"
+  },
+  {
+    "path": "/products?page=1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/en/products?page=1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/products?page=2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/en/products?page=2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/products?page=3",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/en/products?page=3",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/product/konvex-chisel-3-400",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-chisel-3-400"
+  },
+  {
+    "path": "/en/product/konvex-chisel-3-400",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-chisel-3-400"
+  },
+  {
+    "path": "/product/konvex-chisel-4-600",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-chisel-4-600"
+  },
+  {
+    "path": "/en/product/konvex-chisel-4-600",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-chisel-4-600"
+  },
+  {
+    "path": "/product/konvex-chisel-5-280",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-chisel-5-280"
+  },
+  {
+    "path": "/en/product/konvex-chisel-5-280",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-chisel-5-280"
+  },
+  {
+    "path": "/product/konvex-chisel-6-400",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-chisel-6-400"
+  },
+  {
+    "path": "/en/product/konvex-chisel-6-400",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-chisel-6-400"
+  },
+  {
+    "path": "/product/konvex-caster-125-3",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-caster-125-3"
+  },
+  {
+    "path": "/en/product/konvex-caster-125-3",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-caster-125-3"
+  },
+  {
+    "path": "/product/konvex-caster-200-4",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-caster-200-4"
+  },
+  {
+    "path": "/en/product/konvex-caster-200-4",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-caster-200-4"
+  },
+  {
+    "path": "/product/konvex-caster-100-5",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-caster-100-5"
+  },
+  {
+    "path": "/en/product/konvex-caster-100-5",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-caster-100-5"
+  },
+  {
+    "path": "/product/konvex-caster-160-6",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-caster-160-6"
+  },
+  {
+    "path": "/en/product/konvex-caster-160-6",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-caster-160-6"
+  },
+  {
+    "path": "/product/konvex-level-80",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-level-80"
+  },
+  {
+    "path": "/en/product/konvex-level-80",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-level-80"
+  },
+  {
+    "path": "/product/konvex-level-100",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-level-100"
+  },
+  {
+    "path": "/en/product/konvex-level-100",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-level-100"
+  },
+  {
+    "path": "/product/konvex-level-30",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-level-30"
+  },
+  {
+    "path": "/en/product/konvex-level-30",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-level-30"
+  },
+  {
+    "path": "/product/konvex-level-120",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-level-120"
+  },
+  {
+    "path": "/en/product/konvex-level-120",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-level-120"
+  },
+  {
+    "path": "/product/konvex-lm-80-pro",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-lm-80-pro"
+  },
+  {
+    "path": "/en/product/konvex-lm-80-pro",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-lm-80-pro"
+  },
+  {
+    "path": "/product/konvex-lm-100-pro",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-lm-100-pro"
+  },
+  {
+    "path": "/en/product/konvex-lm-100-pro",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-lm-100-pro"
+  },
+  {
+    "path": "/product/konvex-lm-30",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-lm-30"
+  },
+  {
+    "path": "/en/product/konvex-lm-30",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-lm-30"
+  },
+  {
+    "path": "/product/konvex-lm-120-pro",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-lm-120-pro"
+  },
+  {
+    "path": "/en/product/konvex-lm-120-pro",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-lm-120-pro"
+  },
+  {
+    "path": "/product/konvex-disc-180-3",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-disc-180-3"
+  },
+  {
+    "path": "/en/product/konvex-disc-180-3",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-disc-180-3"
+  },
+  {
+    "path": "/product/konvex-disc-230-4",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-disc-230-4"
+  },
+  {
+    "path": "/en/product/konvex-disc-230-4",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-disc-230-4"
+  },
+  {
+    "path": "/product/konvex-disc-125-5",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-disc-125-5"
+  },
+  {
+    "path": "/en/product/konvex-disc-125-5",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-disc-125-5"
+  },
+  {
+    "path": "/product/konvex-disc-115-6",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/product/konvex-disc-115-6"
+  },
+  {
+    "path": "/en/product/konvex-disc-115-6",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/product/konvex-disc-115-6"
+  },
+  {
+    "path": "/quote?product=abrasives-1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=abrasives-1&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-1&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/abrasives-1/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-1&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-1&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/concrete-chisels-1/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=industrial-casters-1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=industrial-casters-1&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-1&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/industrial-casters-1/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-1&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-1&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-1/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/applications/construction?page=1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/construction"
+  },
+  {
+    "path": "/en/applications/construction?page=1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/construction"
+  },
+  {
+    "path": "/applications/construction?page=2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/construction"
+  },
+  {
+    "path": "/en/applications/construction?page=2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/construction"
+  },
+  {
+    "path": "/applications/workshop?page=1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/workshop"
+  },
+  {
+    "path": "/en/applications/workshop?page=1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/workshop"
+  },
+  {
+    "path": "/applications/workshop?page=2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/workshop"
+  },
+  {
+    "path": "/en/applications/workshop?page=2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/workshop"
+  },
+  {
+    "path": "/applications/concrete?page=1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/concrete"
+  },
+  {
+    "path": "/en/applications/concrete?page=1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/concrete"
+  },
+  {
+    "path": "/applications/concrete?page=2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/applications/concrete"
+  },
+  {
+    "path": "/en/applications/concrete?page=2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/applications/concrete"
+  },
+  {
+    "path": "/products?f.brand=konvex&page=1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/en/products?f.brand=konvex&page=1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/products?f.brand=konvex&page=2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/en/products?f.brand=konvex&page=2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/products?f.brand=konvex&page=3",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/en/products?f.brand=konvex&page=3",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/products"
+  },
+  {
+    "path": "/quote?product=spirit-levels-1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=spirit-levels-1&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-1&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/spirit-levels-1/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=abrasives-2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=abrasives-2&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-2&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/abrasives-2/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-2&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-2&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/concrete-chisels-2/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=industrial-casters-2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=industrial-casters-2&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-2&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/industrial-casters-2/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-2&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-2&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-2/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=spirit-levels-2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=spirit-levels-2&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-2&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/spirit-levels-2/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=accessories-1",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=accessories-1",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=accessories-1&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=accessories-1&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/accessories-1/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=accessories-2",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=accessories-2",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=accessories-2&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=accessories-2&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/accessories-2/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-3",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-3",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-3&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-3&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/concrete-chisels-3/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-4",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-4",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-4&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-4&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/concrete-chisels-4/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-5",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-5",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-5&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-5&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/concrete-chisels-5/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-6",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-6",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=concrete-chisels-6&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=concrete-chisels-6&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/concrete-chisels-6/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=industrial-casters-3",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-3",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=industrial-casters-3&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-3&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/industrial-casters-3/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=industrial-casters-4",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-4",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=industrial-casters-4&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-4&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/industrial-casters-4/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=industrial-casters-5",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-5",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=industrial-casters-5&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-5&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/industrial-casters-5/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=industrial-casters-6",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-6",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=industrial-casters-6&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=industrial-casters-6&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/industrial-casters-6/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=spirit-levels-3",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-3",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=spirit-levels-3&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-3&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/spirit-levels-3/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=spirit-levels-4",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-4",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=spirit-levels-4&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-4&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/spirit-levels-4/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=spirit-levels-5",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-5",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=spirit-levels-5&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-5&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/spirit-levels-5/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=spirit-levels-6",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-6",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=spirit-levels-6&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=spirit-levels-6&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/spirit-levels-6/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-3",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-3",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-3&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-3&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-3/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-4",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-4",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-4&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-4&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-4/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-5",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-5",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-5&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-5&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-5/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-6",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-6",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=laser-distance-meters-6&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=laser-distance-meters-6&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/laser-distance-meters-6/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=abrasives-3",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-3",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=abrasives-3&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-3&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/abrasives-3/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=abrasives-4",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-4",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=abrasives-4&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-4&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/abrasives-4/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=abrasives-5",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-5",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=abrasives-5&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-5&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/abrasives-5/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/quote?product=abrasives-6",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-6",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/quote?product=abrasives-6&purpose=consultation",
+    "status": 200,
+    "lang": "fa",
+    "canonical": "https://konvex.example/quote"
+  },
+  {
+    "path": "/en/quote?product=abrasives-6&purpose=consultation",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/quote"
+  },
+  {
+    "path": "/api/products/abrasives-6/datasheet",
+    "status": 200,
+    "lang": "fa"
+  },
+  {
+    "path": "/downloads/konvex-catalog-sample-en.pdf",
+    "status": 200
+  },
+  {
+    "path": "/en/admin?tab=translations",
+    "status": 200,
+    "lang": "en",
+    "canonical": "https://konvex.example/en/admin"
+  },
+  {
+    "path": "/not-a-real-route",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/en/not-a-real-route",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/products/not-real",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/en/products/not-real",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/product/not-real",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/en/product/not-real",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/knowledge/not-real",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/en/knowledge/not-real",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/applications/not-real",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/en/applications/not-real",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/.env.local",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/private/admin-access.txt",
+    "status": 404,
+    "expected": 404
+  },
+  {
+    "path": "/data/konvex.sqlite",
+    "status": 404,
+    "expected": 404
+  }
+]

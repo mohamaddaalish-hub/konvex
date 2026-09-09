@@ -1,0 +1,21 @@
+
+> konvex-industrial-catalog@1.0.0 test:e2e
+> playwright test
+
+
+Running 12 tests using 1 worker
+
+  ✓   1 tests/admin-entities.spec.ts:32:5 › CMS entities: hierarchy, cycles, dynamic filters, brand cascade, articles and safe deletion (473ms)
+  ✓   2 tests/admin-entities.spec.ts:226:5 › Contact settings save and reflect publicly without changing page code (956ms)
+  ✓   3 tests/admin-entities.spec.ts:271:5 › Security: bounded JSON streams, malformed JSON, upload isolation and rate limiting (207ms)
+  ✓   4 tests/catalog.spec.ts:16:5 › Desktop: visual navigation and category discovery (1.4s)
+  ✓   5 tests/catalog.spec.ts:32:5 › Search: Persian digits, model, units, no results and keyboard autocomplete (1.9s)
+  ✓   6 tests/catalog.spec.ts:68:5 › Filters: category-specific, OR/AND logic, URL state, clear and pagination (4.7s)
+  ✓   7 tests/catalog.spec.ts:124:5 › Product gallery, wishlist persistence, same-category comparison and limits (4.5s)
+  ✓   8 tests/catalog.spec.ts:167:5 › Quote: validation, Persian number normalization, persisted reference and form recovery (1.4s)
+  ✓   9 tests/catalog.spec.ts:207:5 › Security: CSRF and origin rejection, idempotency and protected admin APIs (121ms)
+  ✓  10 tests/catalog.spec.ts:253:5 › CMS: secure login, product creation, update, upload, public reflection and deletion (4.5s)
+  ✓  11 tests/catalog.spec.ts:336:5 › Mobile: menu, filters as bottom sheet, sticky product CTA and no overflow (2.6s)
+  ✓  12 tests/catalog.spec.ts:372:5 › SEO, documents, catalogue download and genuine 404 responses (844ms)
+
+  12 passed (24.8s)

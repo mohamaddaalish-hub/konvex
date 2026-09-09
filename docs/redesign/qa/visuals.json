@@ -1,0 +1,74 @@
+[
+  {
+    "url": "/",
+    "width": 1440,
+    "theme": "light",
+    "brokenImages": [],
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "url": "/",
+    "width": 1440,
+    "theme": "dark",
+    "brokenImages": [],
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "url": "/en",
+    "width": 1440,
+    "theme": "light",
+    "brokenImages": [],
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "url": "/en",
+    "width": 1440,
+    "theme": "dark",
+    "brokenImages": [],
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "url": "/",
+    "width": 390,
+    "theme": "light",
+    "brokenImages": [],
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "url": "/en",
+    "width": 390,
+    "theme": "dark",
+    "brokenImages": [],
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "url": "/en/product/konvex-lm-60",
+    "width": 390,
+    "theme": "dark",
+    "brokenImages": [],
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "url": "/en/products/laser-distance-meters",
+    "width": 1440,
+    "theme": "light",
+    "brokenImages": [],
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "url": "/en/quote?product=laser-distance-meters-1",
+    "width": 390,
+    "theme": "dark",
+    "brokenImages": [],
+    "errors": [],
+    "overflow": false
+  }
+]

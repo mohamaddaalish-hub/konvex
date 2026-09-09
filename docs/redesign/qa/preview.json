@@ -1,0 +1,46 @@
+[
+  {
+    "locale": "fa",
+    "theme": "light",
+    "status": 200,
+    "title": "کانوکس | ابزارِ کارِ حرفه‌ای",
+    "lang": "fa",
+    "dir": "rtl",
+    "overflow": false,
+    "persian": [],
+    "errors": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "status": 200,
+    "title": "کانوکس | ابزارِ کارِ حرفه‌ای",
+    "lang": "fa",
+    "dir": "rtl",
+    "overflow": false,
+    "persian": [],
+    "errors": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "status": 200,
+    "title": "Konvex | Professional tools",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "persian": [],
+    "errors": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "status": 200,
+    "title": "Konvex | Professional tools",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "persian": [],
+    "errors": []
+  }
+]

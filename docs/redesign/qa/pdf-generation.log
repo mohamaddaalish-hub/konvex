@@ -1,0 +1,13 @@
+
+> konvex-industrial-catalog@1.0.0 catalog:pdf
+> node scripts/generate-catalog.mjs
+
+fa PDF generated.
+file:///home/user/konvex/scripts/generate-catalog.mjs:3
+try{for(const locale of ['fa','en']){const page=await browser.newPage({viewport:{width:1000,height:1100}});await page.goto(base+(locale==='en'?'/en':'')+'/print/catalog',{waitUntil:'domcontentloaded'});await page.evaluate(()=>document.fonts.ready);await page.locator('img').evaluateAll(async imgs=>{await Promise.all(imgs.map(i=>i.decode().catch(()=>{})))});await page.emulateMedia({media:'print'});const overflow=await page.locator('.print-sheet').evaluateAll(pages=>pages.map((p,i)=>({page:i+1,scroll:p.scrollHeight,height:p.clientHeight})).filter(p=>p.scroll>p.height+2));if(overflow.length)throw new Error('Print overflow '+locale+': '+JSON.stringify(overflow));fs.mkdirSync('public/downloads',{recursive:true});const target='public/downloads/konvex-catalog-sample'+(locale==='en'?'-en':'')+'.pdf';await page.pdf({path:target+'.tmp',format:'A4',printBackground:true,preferCSSPageSize:true});fs.renameSync(target+'.tmp',target);await page.close();console.log(locale+' PDF generated.');}}finally{await browser.close();}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ^
+
+Error: Print overflow en: [{"page":5,"scroll":1136,"height":1123}]
+    at file:///home/user/konvex/scripts/generate-catalog.mjs:3:601
+
+Node.js v20.20.2

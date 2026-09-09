@@ -1,0 +1,48 @@
+{
+  "products": 5000,
+  "environment": "Local repository and route-dictionary benchmark; not a concurrent HTTP load test.",
+  "results": [
+    {
+      "uri": "/en",
+      "dictionaryBytes": 45419,
+      "entries": 970,
+      "averageMs": 34.99,
+      "p90Ms": 38.26
+    },
+    {
+      "uri": "/en/products",
+      "dictionaryBytes": 44631,
+      "entries": 965,
+      "averageMs": 9.79,
+      "p90Ms": 9.92
+    },
+    {
+      "uri": "/en/products/laser-distance-meters",
+      "dictionaryBytes": 44660,
+      "entries": 966,
+      "averageMs": 12.24,
+      "p90Ms": 12.84
+    },
+    {
+      "uri": "/en/product/bench-4999",
+      "dictionaryBytes": 44643,
+      "entries": 964,
+      "averageMs": 22.08,
+      "p90Ms": 23.64
+    },
+    {
+      "uri": "/en/products?page=400",
+      "dictionaryBytes": 44629,
+      "entries": 965,
+      "averageMs": 47.18,
+      "p90Ms": 48.59
+    },
+    {
+      "uri": "/en/products?sort=name",
+      "dictionaryBytes": 44620,
+      "entries": 965,
+      "averageMs": 21.7,
+      "p90Ms": 23.29
+    }
+  ]
+}

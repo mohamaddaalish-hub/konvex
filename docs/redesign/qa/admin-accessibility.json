@@ -1,0 +1,794 @@
+[
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=products",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=categories",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=brands",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=articles",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=quotes",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=settings",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=translations",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "Product editor 0",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "Product editor 1",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "Product editor 2",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "Product editor 3",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=products",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=categories",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=brands",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=articles",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=quotes",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=settings",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "/admin?tab=translations",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "Product editor 0",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "Product editor 1",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "Product editor 2",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "light",
+    "route": "Product editor 3",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=products",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=categories",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=brands",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=articles",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=quotes",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=settings",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=translations",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "Product editor 0",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "Product editor 1",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "Product editor 2",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "Product editor 3",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=products",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=categories",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=brands",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=articles",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=quotes",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=settings",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "/admin?tab=translations",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "Product editor 0",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "Product editor 1",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "Product editor 2",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "fa",
+    "theme": "dark",
+    "route": "Product editor 3",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=products",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=categories",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=brands",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=articles",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=quotes",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=settings",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=translations",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "Product editor 0",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "Product editor 1",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "Product editor 2",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "Product editor 3",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=products",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=categories",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=brands",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=articles",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=quotes",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=settings",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "/admin?tab=translations",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "Product editor 0",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "Product editor 1",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "Product editor 2",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "light",
+    "route": "Product editor 3",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=products",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=categories",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=brands",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=articles",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=quotes",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=settings",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=translations",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "Product editor 0",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "Product editor 1",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "Product editor 2",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "Product editor 3",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=products",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=categories",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=brands",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=articles",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=quotes",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=settings",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "/admin?tab=translations",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "Product editor 0",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "Product editor 1",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "Product editor 2",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "locale": "en",
+    "theme": "dark",
+    "route": "Product editor 3",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  }
+]

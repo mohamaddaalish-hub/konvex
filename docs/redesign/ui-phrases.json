@@ -1,0 +1,5748 @@
+[
+  {
+    "id": 0,
+    "source": "درباره کانوکس",
+    "locations": [
+      "app/[locale]/about/page.tsx:19",
+      "app/[locale]/about/page.tsx:28",
+      "components/footer.tsx:55",
+      "components/header.tsx:71"
+    ]
+  },
+  {
+    "id": 1,
+    "source": "نگاه کانوکس به ابزار و تجهیزات صنعتی؛ انتخاب متناسب با نیاز و مشخصات شفاف.",
+    "locations": [
+      "app/[locale]/about/page.tsx:20"
+    ]
+  },
+  {
+    "id": 2,
+    "source": "KONVEX / نگاه ما",
+    "locations": [
+      "app/[locale]/about/page.tsx:33"
+    ]
+  },
+  {
+    "id": 3,
+    "source": "پشت هر کار دقیق،",
+    "locations": [
+      "app/[locale]/about/page.tsx:36"
+    ]
+  },
+  {
+    "id": 4,
+    "source": "یک انتخاب درست است.",
+    "locations": [
+      "app/[locale]/about/page.tsx:38"
+    ]
+  },
+  {
+    "id": 5,
+    "source": "کانوکس، مجموعه‌ای در حوزه ابزار و تجهیزات صنعتی است. اینجا، نقطه شروع انتخاب نه ظاهر ابزار، بلکه کاری است که باید انجام شود.",
+    "locations": [
+      "app/[locale]/about/page.tsx:41"
+    ]
+  },
+  {
+    "id": 6,
+    "source": "با کنار هم گذاشتن مشخصات، کاربردها و تفاوت مدل‌ها، مسیر انتخاب را روشن‌تر می‌کنیم؛ تا برای تصمیم بعدی اطلاعات بهتری در اختیار داشته باشید.",
+    "locations": [
+      "app/[locale]/about/page.tsx:45"
+    ]
+  },
+  {
+    "id": 7,
+    "source": "آشنایی با خانواده محصولات",
+    "locations": [
+      "app/[locale]/about/page.tsx:50"
+    ]
+  },
+  {
+    "id": 8,
+    "source": "تصویر اختصاصی نمونه از خانواده ابزارهای کانوکس",
+    "locations": [
+      "app/[locale]/about/page.tsx:57"
+    ]
+  },
+  {
+    "id": 9,
+    "source": "حوزه تخصصی محصول",
+    "locations": [
+      "app/[locale]/about/page.tsx:69"
+    ]
+  },
+  {
+    "id": 10,
+    "source": "مدل در کاتالوگ نمونه",
+    "locations": [
+      "app/[locale]/about/page.tsx:73"
+    ]
+  },
+  {
+    "id": 11,
+    "source": "۳",
+    "locations": [
+      "app/[locale]/about/page.tsx:76",
+      "components/quote-form.tsx:520"
+    ]
+  },
+  {
+    "id": 12,
+    "source": "مسیر کشف: دسته، کاربرد، جستجو",
+    "locations": [
+      "app/[locale]/about/page.tsx:77"
+    ]
+  },
+  {
+    "id": 13,
+    "source": "یک اصل روشن",
+    "locations": [
+      "app/[locale]/about/page.tsx:80"
+    ]
+  },
+  {
+    "id": 14,
+    "source": "تناسب ابزار با نیاز واقعی",
+    "locations": [
+      "app/[locale]/about/page.tsx:81"
+    ]
+  },
+  {
+    "id": 15,
+    "source": "روش کار ما در این کاتالوگ",
+    "locations": [
+      "app/[locale]/about/page.tsx:86"
+    ]
+  },
+  {
+    "id": 16,
+    "source": "از نیاز شما شروع می‌کنیم.",
+    "locations": [
+      "app/[locale]/about/page.tsx:87"
+    ]
+  },
+  {
+    "id": 17,
+    "source": "شناخت کار",
+    "locations": [
+      "app/[locale]/about/page.tsx:92"
+    ]
+  },
+  {
+    "id": 18,
+    "source": "محیط، جنس قطعه‌کار و نتیجه موردانتظار را مشخص کنید.",
+    "locations": [
+      "app/[locale]/about/page.tsx:93"
+    ]
+  },
+  {
+    "id": 19,
+    "source": "بررسی مشخصات",
+    "locations": [
+      "app/[locale]/about/page.tsx:97"
+    ]
+  },
+  {
+    "id": 20,
+    "source": "ابعاد، ظرفیت، دقت و سایر ویژگی‌های تصمیم‌ساز را بخوانید.",
+    "locations": [
+      "app/[locale]/about/page.tsx:98"
+    ]
+  },
+  {
+    "id": 21,
+    "source": "مقایسه انتخاب‌ها",
+    "locations": [
+      "app/[locale]/about/page.tsx:102"
+    ]
+  },
+  {
+    "id": 22,
+    "source": "مدل‌های هم‌دسته را کنار هم ببینید و تفاوت‌ها را بررسی کنید.",
+    "locations": [
+      "app/[locale]/about/page.tsx:103"
+    ]
+  },
+  {
+    "id": 23,
+    "source": "استعلام نهایی",
+    "locations": [
+      "app/[locale]/about/page.tsx:107"
+    ]
+  },
+  {
+    "id": 24,
+    "source": "قیمت، موجودی، سازگاری و شرایط تأمین را پیش از سفارش تأیید کنید.",
+    "locations": [
+      "app/[locale]/about/page.tsx:108"
+    ]
+  },
+  {
+    "id": 25,
+    "source": "قول ما در تجربه انتخاب",
+    "locations": [
+      "app/[locale]/about/page.tsx:126"
+    ]
+  },
+  {
+    "id": 26,
+    "source": "اطلاعات کمترِ مبهم.",
+    "locations": [
+      "app/[locale]/about/page.tsx:129"
+    ]
+  },
+  {
+    "id": 27,
+    "source": "جزئیات بیشترِ کاربردی.",
+    "locations": [
+      "app/[locale]/about/page.tsx:131"
+    ]
+  },
+  {
+    "id": 28,
+    "source": "سوابق، گواهی‌ها، شرایط ضمانت و اطلاعات تجاری فقط پس از تأیید برند به سایت اضافه می‌شوند. اعتماد، با اطلاعات قابل بررسی ساخته می‌شود؛ نه عدد و نشان تزئینی.",
+    "locations": [
+      "app/[locale]/about/page.tsx:134"
+    ]
+  },
+  {
+    "id": 29,
+    "source": "مدیریت محتوا",
+    "locations": [
+      "app/[locale]/admin/page.tsx:16",
+      "components/admin/dashboard.tsx:202"
+    ]
+  },
+  {
+    "id": 30,
+    "source": "پنل مدیریت محافظت‌شده کانوکس.",
+    "locations": [
+      "app/[locale]/admin/page.tsx:17"
+    ]
+  },
+  {
+    "id": 31,
+    "source": "ابزار مناسب {v0}",
+    "locations": [
+      "app/[locale]/applications/[slug]/page.tsx:template",
+      "app/[locale]/applications/[slug]/page.tsx:template"
+    ]
+  },
+  {
+    "id": 32,
+    "source": "کاربرد پیدا نشد",
+    "locations": [
+      "app/[locale]/applications/[slug]/page.tsx:14"
+    ]
+  },
+  {
+    "id": 33,
+    "source": "کاربردها",
+    "locations": [
+      "app/[locale]/applications/[slug]/page.tsx:30",
+      "app/[locale]/applications/page.tsx:27",
+      "components/admin/product-editor.tsx:328",
+      "components/header.tsx:67"
+    ]
+  },
+  {
+    "id": 34,
+    "source": "انتخاب ابزار بر اساس کاربرد",
+    "locations": [
+      "app/[locale]/applications/page.tsx:17"
+    ]
+  },
+  {
+    "id": 35,
+    "source": "ابزار مناسب ساختمان، کارگاه، صنعت، فلزکاری، بتن و تجهیزات را پیدا کنید.",
+    "locations": [
+      "app/[locale]/applications/page.tsx:18"
+    ]
+  },
+  {
+    "id": 36,
+    "source": "از مسئله به محصول",
+    "locations": [
+      "app/[locale]/applications/page.tsx:32"
+    ]
+  },
+  {
+    "id": 37,
+    "source": "چه کاری",
+    "locations": [
+      "app/[locale]/applications/page.tsx:35"
+    ]
+  },
+  {
+    "id": 38,
+    "source": "پیش رو دارید؟",
+    "locations": [
+      "app/[locale]/applications/page.tsx:37"
+    ]
+  },
+  {
+    "id": 39,
+    "source": "لازم نیست از نام ابزار شروع کنید.",
+    "locations": [
+      "app/[locale]/applications/page.tsx:40"
+    ]
+  },
+  {
+    "id": 40,
+    "source": "محیط و نوع کارتان را انتخاب کنید تا به مجموعه مرتبط برسید.",
+    "locations": [
+      "app/[locale]/applications/page.tsx:42"
+    ]
+  },
+  {
+    "id": 41,
+    "source": "تصویر مفهومی استفاده از ابزار در کارگاه فلزکاری",
+    "locations": [
+      "app/[locale]/applications/page.tsx:47"
+    ]
+  },
+  {
+    "id": 42,
+    "source": "محصول مرتبط",
+    "locations": [
+      "app/[locale]/applications/page.tsx:73"
+    ]
+  },
+  {
+    "id": 43,
+    "source": "برندها",
+    "locations": [
+      "app/[locale]/brands/page.tsx:13",
+      "app/[locale]/brands/page.tsx:21",
+      "components/admin/dashboard.tsx:92",
+      "components/header.tsx:68"
+    ]
+  },
+  {
+    "id": 44,
+    "source": "معرفی برندهای موجود در کاتالوگ صنعتی کانوکس.",
+    "locations": [
+      "app/[locale]/brands/page.tsx:14"
+    ]
+  },
+  {
+    "id": 45,
+    "source": "هویت پشت محصول",
+    "locations": [
+      "app/[locale]/brands/page.tsx:25"
+    ]
+  },
+  {
+    "id": 46,
+    "source": "برندها را بهتر بشناسید.",
+    "locations": [
+      "app/[locale]/brands/page.tsx:27"
+    ]
+  },
+  {
+    "id": 47,
+    "source": "برندهای ثبت‌شده در کاتالوگ؛ همراه با معرفی و دسترسی مستقیم به محصولات.",
+    "locations": [
+      "app/[locale]/brands/page.tsx:29"
+    ]
+  },
+  {
+    "id": 48,
+    "source": "محصول در کاتالوگ",
+    "locations": [
+      "app/[locale]/brands/page.tsx:51"
+    ]
+  },
+  {
+    "id": 49,
+    "source": "مشاهده محصولات این برند",
+    "locations": [
+      "app/[locale]/brands/page.tsx:63"
+    ]
+  },
+  {
+    "id": 50,
+    "source": "هنوز برندی ثبت نشده است.",
+    "locations": [
+      "app/[locale]/brands/page.tsx:70"
+    ]
+  },
+  {
+    "id": 51,
+    "source": "فقط برندهای واقعاً ثبت‌شده نمایش داده می‌شوند؛ هیچ همکاری یا نمایندگی تأییدنشده‌ای ادعا نمی‌شود.",
+    "locations": [
+      "app/[locale]/brands/page.tsx:74"
+    ]
+  },
+  {
+    "id": 52,
+    "source": "مقایسه محصولات",
+    "locations": [
+      "app/[locale]/compare/page.tsx:6",
+      "components/footer.tsx:59",
+      "components/header.tsx:305",
+      "components/store.tsx:168"
+    ]
+  },
+  {
+    "id": 53,
+    "source": "تا سه محصول هم‌دسته را بر اساس مشخصات فنی مقایسه کنید.",
+    "locations": [
+      "app/[locale]/compare/page.tsx:7"
+    ]
+  },
+  {
+    "id": 54,
+    "source": "محصولات",
+    "locations": [
+      "app/[locale]/compare/page.tsx:15",
+      "app/[locale]/featured-products/page.tsx:20",
+      "app/[locale]/new-products/page.tsx:20",
+      "app/[locale]/popular-products/page.tsx:21",
+      "app/[locale]/product/[slug]/page.tsx:80",
+      "components/admin/dashboard.tsx:85",
+      "components/admin/dashboard.tsx:168",
+      "components/catalog-page.tsx:39",
+      "components/footer.tsx:46",
+      "components/header.tsx:159",
+      "components/header.tsx:280"
+    ]
+  },
+  {
+    "id": 55,
+    "source": "مقایسه",
+    "locations": [
+      "app/[locale]/compare/page.tsx:15",
+      "components/store.tsx:335"
+    ]
+  },
+  {
+    "id": 56,
+    "source": "انتخاب بر اساس تفاوت‌های واقعی",
+    "locations": [
+      "app/[locale]/compare/page.tsx:20"
+    ]
+  },
+  {
+    "id": 57,
+    "source": "کنار هم ببینید. دقیق‌تر انتخاب کنید.",
+    "locations": [
+      "app/[locale]/compare/page.tsx:22"
+    ]
+  },
+  {
+    "id": 58,
+    "source": "حداکثر سه محصول از یک دسته؛ با نمایش مشخصاتی که در کار شما اهمیت دارند.",
+    "locations": [
+      "app/[locale]/compare/page.tsx:24"
+    ]
+  },
+  {
+    "id": 59,
+    "source": "تماس با کانوکس",
+    "locations": [
+      "app/[locale]/contact/page.tsx:19"
+    ]
+  },
+  {
+    "id": 60,
+    "source": "راه‌های ارتباط، درخواست مشاوره و استعلام ابزار و تجهیزات صنعتی کانوکس.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:20"
+    ]
+  },
+  {
+    "id": 61,
+    "source": "تماس تلفنی",
+    "locations": [
+      "app/[locale]/contact/page.tsx:27",
+      "components/quote-form.tsx:375"
+    ]
+  },
+  {
+    "id": 62,
+    "source": "واتس‌اپ",
+    "locations": [
+      "app/[locale]/contact/page.tsx:34",
+      "components/admin/dashboard.tsx:485",
+      "components/quote-form.tsx:376"
+    ]
+  },
+  {
+    "id": 63,
+    "source": "ایمیل",
+    "locations": [
+      "app/[locale]/contact/page.tsx:41",
+      "components/admin/dashboard.tsx:486",
+      "components/admin/settings-editor.tsx:40",
+      "components/quote-form.tsx:377",
+      "components/quote-form.tsx:400"
+    ]
+  },
+  {
+    "id": 64,
+    "source": "تماس با ما",
+    "locations": [
+      "app/[locale]/contact/page.tsx:50",
+      "components/header.tsx:72"
+    ]
+  },
+  {
+    "id": 65,
+    "source": "در ارتباط باشیم",
+    "locations": [
+      "app/[locale]/contact/page.tsx:54"
+    ]
+  },
+  {
+    "id": 66,
+    "source": "گفت‌وگو را از کارتان شروع کنیم.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:56"
+    ]
+  },
+  {
+    "id": 67,
+    "source": "برای انتخاب محصول، بررسی سازگاری یا استعلام قیمت، نیازتان را مطرح کنید.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:58"
+    ]
+  },
+  {
+    "id": 68,
+    "source": "اطلاعات این کانال هنوز ثبت نشده است.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:80"
+    ]
+  },
+  {
+    "id": 69,
+    "source": "نشانی مجموعه",
+    "locations": [
+      "app/[locale]/contact/page.tsx:89"
+    ]
+  },
+  {
+    "id": 70,
+    "source": "نشانی رسمی پس از تأیید برند در این بخش درج می‌شود.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:92"
+    ]
+  },
+  {
+    "id": 71,
+    "source": "ساعت پاسخ‌گویی",
+    "locations": [
+      "app/[locale]/contact/page.tsx:97",
+      "components/admin/settings-editor.tsx:42"
+    ]
+  },
+  {
+    "id": 72,
+    "source": "ساعت کاری هنوز اعلام نشده است.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:98"
+    ]
+  },
+  {
+    "id": 73,
+    "source": "مسیر دسترسی به کانوکس",
+    "locations": [
+      "app/[locale]/contact/page.tsx:106"
+    ]
+  },
+  {
+    "id": 74,
+    "source": "باز کردن نقشه",
+    "locations": [
+      "app/[locale]/contact/page.tsx:112"
+    ]
+  },
+  {
+    "id": 75,
+    "source": "نقشه پس از ثبت نشانی فعال می‌شود.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:118"
+    ]
+  },
+  {
+    "id": 76,
+    "source": "برای جلوگیری از راهنمایی نادرست، مکان فرضی نمایش داده نمی‌شود.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:120"
+    ]
+  },
+  {
+    "id": 77,
+    "source": "شبکه‌های اجتماعی",
+    "locations": [
+      "app/[locale]/contact/page.tsx:127"
+    ]
+  },
+  {
+    "id": 78,
+    "source": "اینستاگرام",
+    "locations": [
+      "app/[locale]/contact/page.tsx:131"
+    ]
+  },
+  {
+    "id": 79,
+    "source": "لینکدین",
+    "locations": [
+      "app/[locale]/contact/page.tsx:137"
+    ]
+  },
+  {
+    "id": 80,
+    "source": "یک مسیر روشن برای ارتباط",
+    "locations": [
+      "app/[locale]/contact/page.tsx:144"
+    ]
+  },
+  {
+    "id": 81,
+    "source": "نیازتان را بنویسید.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:147"
+    ]
+  },
+  {
+    "id": 82,
+    "source": "با جزئیات، بهتر می‌شود.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:149"
+    ]
+  },
+  {
+    "id": 83,
+    "source": "مدل محصول، تعداد و شرایط کاربرد را در فرم ثبت کنید و یک کد پیگیری دریافت کنید.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:152"
+    ]
+  },
+  {
+    "id": 84,
+    "source": "ثبت درخواست مشاوره",
+    "locations": [
+      "app/[locale]/contact/page.tsx:159"
+    ]
+  },
+  {
+    "id": 85,
+    "source": "استعلام قیمت محصول",
+    "locations": [
+      "app/[locale]/contact/page.tsx:163",
+      "components/quote-form.tsx:221"
+    ]
+  },
+  {
+    "id": 86,
+    "source": "در نسخه آزمایشی، ثبت درخواست فعال است؛ ارسال پیامک، ایمیل و تماس واقعی فعال نیست.",
+    "locations": [
+      "app/[locale]/contact/page.tsx:167"
+    ]
+  },
+  {
+    "id": 87,
+    "source": "محصولات منتخب",
+    "locations": [
+      "app/[locale]/featured-products/page.tsx:4",
+      "app/[locale]/featured-products/page.tsx:21"
+    ]
+  },
+  {
+    "id": 88,
+    "source": "انتخاب‌های کاتالوگ کانوکس برای آشنایی با خانواده محصولات.",
+    "locations": [
+      "app/[locale]/featured-products/page.tsx:5"
+    ]
+  },
+  {
+    "id": 89,
+    "source": "منتخب کانوکس",
+    "locations": [
+      "app/[locale]/featured-products/page.tsx:15",
+      "components/home-interactions.tsx:31",
+      "components/product-card.tsx:32"
+    ]
+  },
+  {
+    "id": 90,
+    "source": "نقطه شروعی برای آشنایی با محصولات در پنج حوزه تخصصی؛ از اندازه‌گیری تا اجرای دقیق.",
+    "locations": [
+      "app/[locale]/featured-products/page.tsx:16"
+    ]
+  },
+  {
+    "id": 91,
+    "source": "مقاله پیدا نشد",
+    "locations": [
+      "app/[locale]/knowledge/[slug]/page.tsx:15"
+    ]
+  },
+  {
+    "id": 92,
+    "source": "دانشنامه ابزار",
+    "locations": [
+      "app/[locale]/knowledge/[slug]/page.tsx:34",
+      "app/[locale]/knowledge/page.tsx:13",
+      "app/[locale]/knowledge/page.tsx:38",
+      "app/[locale]/page.tsx:259",
+      "components/footer.tsx:57",
+      "components/header.tsx:70"
+    ]
+  },
+  {
+    "id": 93,
+    "source": "دانشنامه کانوکس",
+    "locations": [
+      "app/[locale]/knowledge/[slug]/page.tsx:48"
+    ]
+  },
+  {
+    "id": 94,
+    "source": "دقیقه مطالعه",
+    "locations": [
+      "app/[locale]/knowledge/[slug]/page.tsx:52",
+      "app/[locale]/knowledge/page.tsx:106",
+      "app/[locale]/page.tsx:287"
+    ]
+  },
+  {
+    "id": 95,
+    "source": "در این راهنما می‌خوانید",
+    "locations": [
+      "app/[locale]/knowledge/[slug]/page.tsx:76"
+    ]
+  },
+  {
+    "id": 96,
+    "source": "مشاهده محصولات مرتبط",
+    "locations": [
+      "app/[locale]/knowledge/[slug]/page.tsx:87"
+    ]
+  },
+  {
+    "id": 97,
+    "source": "این راهنما اطلاعات عمومی انتخاب ابزار است. دستورالعمل رسمی سازنده، استانداردهای مرتبط و ارزیابی ایمنی محیط کار همیشه در اولویت‌اند. مشخصات محصولات کاتالوگ این نسخه، نمونه هستند.",
+    "locations": [
+      "app/[locale]/knowledge/[slug]/page.tsx:109"
+    ]
+  },
+  {
+    "id": 98,
+    "source": "مقایسه مدل‌های",
+    "locations": [
+      "app/[locale]/knowledge/[slug]/page.tsx:118"
+    ]
+  },
+  {
+    "id": 99,
+    "source": "از دانش به انتخاب",
+    "locations": [
+      "app/[locale]/knowledge/[slug]/page.tsx:145"
+    ]
+  },
+  {
+    "id": 100,
+    "source": "محصولات مرتبط با این راهنما",
+    "locations": [
+      "app/[locale]/knowledge/[slug]/page.tsx:146"
+    ]
+  },
+  {
+    "id": 101,
+    "source": "مشاهده همه مدل‌ها",
+    "locations": [
+      "app/[locale]/knowledge/[slug]/page.tsx:148"
+    ]
+  },
+  {
+    "id": 102,
+    "source": "راهنماهای انتخاب ابزار، مشخصات فنی، سازگاری و نکات کاربردی برای کار حرفه‌ای.",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:14"
+    ]
+  },
+  {
+    "id": 103,
+    "source": "دانش انتخاب",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:42"
+    ]
+  },
+  {
+    "id": 104,
+    "source": "بهتر بشناسید.",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:45"
+    ]
+  },
+  {
+    "id": 105,
+    "source": "دقیق‌تر انتخاب کنید.",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:47"
+    ]
+  },
+  {
+    "id": 106,
+    "source": "راهنماهای کاربردی برای زمانی که جزئیات فنی، نتیجه کار را تغییر می‌دهند.",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:50"
+    ]
+  },
+  {
+    "id": 107,
+    "source": "دسته مقاله",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:55"
+    ]
+  },
+  {
+    "id": 108,
+    "source": "همه راهنماها",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:57",
+      "app/[locale]/knowledge/page.tsx:126",
+      "app/[locale]/page.tsx:262"
+    ]
+  },
+  {
+    "id": 109,
+    "source": "جستجو در راهنماها…",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:74"
+    ]
+  },
+  {
+    "id": 110,
+    "source": "جستجو در دانشنامه",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:75"
+    ]
+  },
+  {
+    "id": 111,
+    "source": "جستجوی مقاله",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:79"
+    ]
+  },
+  {
+    "id": 112,
+    "source": "مطالعه راهنما",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:114",
+      "app/[locale]/page.tsx:295"
+    ]
+  },
+  {
+    "id": 113,
+    "source": "راهنمایی با این عبارت پیدا نشد.",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:123"
+    ]
+  },
+  {
+    "id": 114,
+    "source": "یک عبارت کوتاه‌تر را امتحان کنید یا همه راهنماها را ببینید.",
+    "locations": [
+      "app/[locale]/knowledge/page.tsx:124"
+    ]
+  },
+  {
+    "id": 115,
+    "source": "محصولات جدید",
+    "locations": [
+      "app/[locale]/new-products/page.tsx:4",
+      "app/[locale]/new-products/page.tsx:21",
+      "components/footer.tsx:58",
+      "components/header.tsx:69"
+    ]
+  },
+  {
+    "id": 116,
+    "source": "تازه‌واردهای کاتالوگ نمونه کانوکس؛ مشخصات، مقایسه و درخواست قیمت.",
+    "locations": [
+      "app/[locale]/new-products/page.tsx:5"
+    ]
+  },
+  {
+    "id": 117,
+    "source": "تازه‌واردهای کانوکس",
+    "locations": [
+      "app/[locale]/new-products/page.tsx:15"
+    ]
+  },
+  {
+    "id": 118,
+    "source": "مدل‌های جدید کاتالوگ را بشناسید و مشخصات آن‌ها را با نیاز پروژه تطبیق دهید.",
+    "locations": [
+      "app/[locale]/new-products/page.tsx:16"
+    ]
+  },
+  {
+    "id": 119,
+    "source": "ابزار و تجهیزات صنعتی کانوکس",
+    "locations": [
+      "app/[locale]/page.tsx:54",
+      "lib/seo.ts:30"
+    ]
+  },
+  {
+    "id": 120,
+    "source": "دقت در انتخاب.",
+    "locations": [
+      "app/[locale]/page.tsx:57",
+      "app/[locale]/print/catalog/page.tsx:33"
+    ]
+  },
+  {
+    "id": 121,
+    "source": "قدرت در اجرا.",
+    "locations": [
+      "app/[locale]/page.tsx:59",
+      "app/[locale]/print/catalog/page.tsx:35"
+    ]
+  },
+  {
+    "id": 122,
+    "source": "برای آن‌هایی که کیفیت کارشان اتفاقی نیست.",
+    "locations": [
+      "app/[locale]/page.tsx:62"
+    ]
+  },
+  {
+    "id": 123,
+    "source": "ابزار مناسب را بشناسید، مشخصات را مقایسه کنید",
+    "locations": [
+      "app/[locale]/page.tsx:64"
+    ]
+  },
+  {
+    "id": 124,
+    "source": "و با اطمینان انتخاب کنید.",
+    "locations": [
+      "app/[locale]/page.tsx:65"
+    ]
+  },
+  {
+    "id": 125,
+    "source": "مشاهده محصولات",
+    "locations": [
+      "app/[locale]/page.tsx:69"
+    ]
+  },
+  {
+    "id": 126,
+    "source": "یک مجموعه تخصصی.",
+    "locations": [
+      "app/[locale]/page.tsx:77"
+    ]
+  },
+  {
+    "id": 127,
+    "source": "از اندازه‌گیری تا اجرای دقیق.",
+    "locations": [
+      "app/[locale]/page.tsx:79"
+    ]
+  },
+  {
+    "id": 128,
+    "source": "تصویر اختصاصی نمونه مجموعه ابزار صنعتی کانوکس شامل قلم، چرخ، تراز، متر لیزری و صفحه سایش روی سطوح بتنی",
+    "locations": [
+      "app/[locale]/page.tsx:91"
+    ]
+  },
+  {
+    "id": 129,
+    "source": "دقت در جزئیات",
+    "locations": [
+      "app/[locale]/page.tsx:103"
+    ]
+  },
+  {
+    "id": 130,
+    "source": "تفاوت در نتیجه.",
+    "locations": [
+      "app/[locale]/page.tsx:104"
+    ]
+  },
+  {
+    "id": 131,
+    "source": "حوزه تخصصی",
+    "locations": [
+      "app/[locale]/page.tsx:118"
+    ]
+  },
+  {
+    "id": 132,
+    "source": "یک مسیر روشن برای انتخاب",
+    "locations": [
+      "app/[locale]/page.tsx:119"
+    ]
+  },
+  {
+    "id": 133,
+    "source": "مشخصات فنی، بدون ابهام",
+    "locations": [
+      "app/[locale]/page.tsx:125"
+    ]
+  },
+  {
+    "id": 134,
+    "source": "جزئیاتی که برای کار شما مهم‌اند",
+    "locations": [
+      "app/[locale]/page.tsx:126"
+    ]
+  },
+  {
+    "id": 135,
+    "source": "مقایسه قبل از انتخاب",
+    "locations": [
+      "app/[locale]/page.tsx:132"
+    ]
+  },
+  {
+    "id": 136,
+    "source": "تصمیم بر اساس نیاز واقعی",
+    "locations": [
+      "app/[locale]/page.tsx:133"
+    ]
+  },
+  {
+    "id": 137,
+    "source": "انتخاب با راهنمایی",
+    "locations": [
+      "app/[locale]/page.tsx:139"
+    ]
+  },
+  {
+    "id": 138,
+    "source": "نیاز پروژه‌تان را مطرح کنید",
+    "locations": [
+      "app/[locale]/page.tsx:140"
+    ]
+  },
+  {
+    "id": 139,
+    "source": "دسته‌بندی محصولات",
+    "locations": [
+      "app/[locale]/page.tsx:149",
+      "components/catalog-explorer.tsx:196"
+    ]
+  },
+  {
+    "id": 140,
+    "source": "برای هر کار، ابزار مناسب.",
+    "locations": [
+      "app/[locale]/page.tsx:150",
+      "components/header.tsx:192"
+    ]
+  },
+  {
+    "id": 141,
+    "source": "از اینجا شروع کنید؛ یک قدم نزدیک‌تر به انتخاب درست.",
+    "locations": [
+      "app/[locale]/page.tsx:151"
+    ]
+  },
+  {
+    "id": 142,
+    "source": "مشاهده همه محصولات",
+    "locations": [
+      "app/[locale]/page.tsx:153",
+      "components/ui.tsx:139"
+    ]
+  },
+  {
+    "id": 143,
+    "source": "خانواده محصولات {v0}",
+    "locations": [
+      "app/[locale]/page.tsx:template"
+    ]
+  },
+  {
+    "id": 144,
+    "source": "محصول",
+    "locations": [
+      "app/[locale]/page.tsx:177",
+      "components/admin/dashboard.tsx:287",
+      "components/admin/dashboard.tsx:418",
+      "components/catalog-explorer.tsx:312",
+      "components/header.tsx:228",
+      "components/product-card.tsx:75",
+      "components/saved-products.tsx:37",
+      "components/search-dialog.tsx:231"
+    ]
+  },
+  {
+    "id": 145,
+    "source": "روش کانوکس",
+    "locations": [
+      "app/[locale]/page.tsx:202"
+    ]
+  },
+  {
+    "id": 146,
+    "source": "انتخاب حرفه‌ای،",
+    "locations": [
+      "app/[locale]/page.tsx:205"
+    ]
+  },
+  {
+    "id": 147,
+    "source": "از اطلاعات دقیق شروع می‌شود.",
+    "locations": [
+      "app/[locale]/page.tsx:207"
+    ]
+  },
+  {
+    "id": 148,
+    "source": "ما جزئیات را کنار هم می‌گذاریم",
+    "locations": [
+      "app/[locale]/page.tsx:210"
+    ]
+  },
+  {
+    "id": 149,
+    "source": "تا شما روی نتیجه کار تمرکز کنید.",
+    "locations": [
+      "app/[locale]/page.tsx:212"
+    ]
+  },
+  {
+    "id": 150,
+    "source": "بیشتر درباره کانوکس",
+    "locations": [
+      "app/[locale]/page.tsx:215"
+    ]
+  },
+  {
+    "id": 151,
+    "source": "شفافیت در مشخصات",
+    "locations": [
+      "app/[locale]/page.tsx:223"
+    ]
+  },
+  {
+    "id": 152,
+    "source": "ابعاد، جنس و عملکرد؛ اطلاعاتی مرتب و قابل بررسی، نه توضیحات مبهم.",
+    "locations": [
+      "app/[locale]/page.tsx:224"
+    ]
+  },
+  {
+    "id": 153,
+    "source": "انتخاب متناسب با نیاز",
+    "locations": [
+      "app/[locale]/page.tsx:228"
+    ]
+  },
+  {
+    "id": 154,
+    "source": "فیلترهای تخصصی برای پیدا کردن ابزار سازگار با شرایط پروژه شما.",
+    "locations": [
+      "app/[locale]/page.tsx:229"
+    ]
+  },
+  {
+    "id": 155,
+    "source": "مقایسه‌ای کاربردی",
+    "locations": [
+      "app/[locale]/page.tsx:233"
+    ]
+  },
+  {
+    "id": 156,
+    "source": "تفاوت مدل‌ها را کنار هم ببینید و با شناخت بیشتری تصمیم بگیرید.",
+    "locations": [
+      "app/[locale]/page.tsx:234"
+    ]
+  },
+  {
+    "id": 157,
+    "source": "استعلام پیش از سفارش",
+    "locations": [
+      "app/[locale]/page.tsx:238"
+    ]
+  },
+  {
+    "id": 158,
+    "source": "قیمت، موجودی و شرایط تأمین را پیش از نهایی کردن انتخاب بررسی کنید.",
+    "locations": [
+      "app/[locale]/page.tsx:239"
+    ]
+  },
+  {
+    "id": 159,
+    "source": "بهتر بشناسید. دقیق‌تر انتخاب کنید.",
+    "locations": [
+      "app/[locale]/page.tsx:260"
+    ]
+  },
+  {
+    "id": 160,
+    "source": "محصولات پرطرفدار نمونه",
+    "locations": [
+      "app/[locale]/popular-products/page.tsx:4"
+    ]
+  },
+  {
+    "id": 161,
+    "source": "چیدمان نمایشی محصولات پرطرفدار؛ بدون ادعای آمار فروش واقعی.",
+    "locations": [
+      "app/[locale]/popular-products/page.tsx:5"
+    ]
+  },
+  {
+    "id": 162,
+    "source": "محصولات پرطرفدار",
+    "locations": [
+      "app/[locale]/popular-products/page.tsx:16"
+    ]
+  },
+  {
+    "id": 163,
+    "source": "این مجموعه، چیدمان نمونه بخش پرطرفدارهاست و بر اساس آمار بازدید یا فروش واقعی نیست.",
+    "locations": [
+      "app/[locale]/popular-products/page.tsx:17"
+    ]
+  },
+  {
+    "id": 164,
+    "source": "پرطرفدارها",
+    "locations": [
+      "app/[locale]/popular-products/page.tsx:22",
+      "components/home-interactions.tsx:31"
+    ]
+  },
+  {
+    "id": 165,
+    "source": "کاتالوگ نمونه قابل چاپ",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:6"
+    ]
+  },
+  {
+    "id": 166,
+    "source": "خانواده محصولات نمونه کانوکس، مشخصات کلیدی و مدل‌ها.",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:7"
+    ]
+  },
+  {
+    "id": 167,
+    "source": "ابزار و تجهیزات صنعتی",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:31"
+    ]
+  },
+  {
+    "id": 168,
+    "source": "کاتالوگ معرفی خانواده محصولات کانوکس",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:37"
+    ]
+  },
+  {
+    "id": 169,
+    "source": "تصویر مفهومی نمونه مجموعه ابزار کانوکس",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:41"
+    ]
+  },
+  {
+    "id": 170,
+    "source": "نسخه نمونه — برای بررسی طراحی و ساختار کاتالوگ",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:55"
+    ]
+  },
+  {
+    "id": 171,
+    "source": "تمام مدل‌ها، مشخصات و تصاویر این نسخه نمونه‌اند. تصاویر با هوش مصنوعی تولید شده‌اند و عکس مستند کالای واقعی نیستند. اطلاعات این فایل نباید مبنای سفارش، انتخاب فنی یا تصمیم ایمنی باشد؛ تأیید رسمی برند لازم است.",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:57"
+    ]
+  },
+  {
+    "id": 172,
+    "source": "KONVEX | کانوکس",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:64",
+      "lib/seo.ts:22"
+    ]
+  },
+  {
+    "id": 173,
+    "source": "ویرایش نمونه / ۱۴۰۵",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:65"
+    ]
+  },
+  {
+    "id": 174,
+    "source": "خانواده محصولات",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:77"
+    ]
+  },
+  {
+    "id": 175,
+    "source": "— ادامه",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:80"
+    ]
+  },
+  {
+    "id": 176,
+    "source": "مدل:",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:97",
+      "app/[locale]/product/[slug]/page.tsx:105"
+    ]
+  },
+  {
+    "id": 177,
+    "source": "کد:",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:100"
+    ]
+  },
+  {
+    "id": 178,
+    "source": "قیمت و موجودی",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:116"
+    ]
+  },
+  {
+    "id": 179,
+    "source": "با استعلام",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:118"
+    ]
+  },
+  {
+    "id": 180,
+    "source": "اطلاعات و تصاویر نمونه‌اند.",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:124"
+    ]
+  },
+  {
+    "id": 181,
+    "source": "مشخصات، سازگاری، موجودی و شرایط ضمانت باید پیش از سفارش با سند رسمی محصول تطبیق داده شوند.",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:126"
+    ]
+  },
+  {
+    "id": 182,
+    "source": "نسخه نمونه — صفحه",
+    "locations": [
+      "app/[locale]/print/catalog/page.tsx:132"
+    ]
+  },
+  {
+    "id": 183,
+    "source": "حریم خصوصی",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:4",
+      "app/[locale]/privacy/page.tsx:11",
+      "components/footer.tsx:146",
+      "components/quote-form.tsx:457"
+    ]
+  },
+  {
+    "id": 184,
+    "source": "شیوه استفاده از داده‌ها در نسخه آزمایشی کاتالوگ کانوکس.",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:5"
+    ]
+  },
+  {
+    "id": 185,
+    "source": "داده‌های شما باید با هدف روشن و به اندازه لازم استفاده شوند.",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:12"
+    ]
+  },
+  {
+    "id": 186,
+    "source": "اطلاعات فرم درخواست",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:15"
+    ]
+  },
+  {
+    "id": 187,
+    "source": "فرم، نام، شماره تماس، ایمیل در صورت انتخاب پاسخ ایمیلی، محصولات و تعداد، توضیحات و روش تماس ترجیحی را دریافت می‌کند. این اطلاعات در پایگاه داده محلی همین نسخه ذخیره می‌شوند و برای مدیر دارای دسترسی قابل مشاهده‌اند. در نسخه فعلی سرویس خارجی ارسال ایمیل، پیامک یا CRM متصل نیست.",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:16"
+    ]
+  },
+  {
+    "id": 188,
+    "source": "ذخیره‌سازی در مرورگر",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:19"
+    ]
+  },
+  {
+    "id": 189,
+    "source": "فهرست علاقه‌مندی‌ها، مقایسه، محصولات اخیراً دیده‌شده و سابقه جستجو در فضای localStorage همین مرورگر نگهداری می‌شوند. این داده‌ها به حساب کاربری متصل نیستند و با پاک کردن داده‌های سایت در مرورگر حذف می‌شوند. سابقه جستجو همچنین از پنجره جستجو قابل پاک کردن است.",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:20"
+    ]
+  },
+  {
+    "id": 190,
+    "source": "کوکی‌های ضروری",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:23"
+    ]
+  },
+  {
+    "id": 191,
+    "source": "برای امنیت فرم، یک کوکی CSRF ضروری و برای ورود مدیریت یک کوکی HttpOnly با مدت محدود استفاده می‌شود. مرور صفحات عمومی به ورود نیاز ندارد. اطلاعات کارت بانکی یا گذرواژه کاربر عمومی دریافت نمی‌شود.",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:24"
+    ]
+  },
+  {
+    "id": 192,
+    "source": "رویدادهای استفاده",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:27"
+    ]
+  },
+  {
+    "id": 193,
+    "source": "ساختار رویدادهای کاربردی مانند مشاهده محصول و مقایسه آماده شده، اما در این نسخه تنها در حافظه صفحه و dataLayer قرار می‌گیرند. نام، شماره تماس، متن توضیحات و متن خام جستجو به این رویدادها افزوده نمی‌شود. اتصال ابزار تحلیلی بیرونی باید با سیاست و رضایت لازم بررسی شود.",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:28"
+    ]
+  },
+  {
+    "id": 194,
+    "source": "امنیت و نگهداری",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:31"
+    ]
+  },
+  {
+    "id": 195,
+    "source": "ورودی‌ها اعتبارسنجی می‌شوند، درخواست‌ها محدودیت نرخ دارند و دسترسی مدیریت محافظت‌شده است. مدت نگهداری نهایی داده‌ها، سیاست حذف، پشتیبان‌گیری و مسئول پاسخ‌گویی باید پیش از راه‌اندازی تجاری تعیین شوند. برای آزمودن این نسخه، ترجیحاً از اطلاعات آزمایشی استفاده کنید.",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:32"
+    ]
+  },
+  {
+    "id": 196,
+    "source": "پرسش و حذف اطلاعات",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:35"
+    ]
+  },
+  {
+    "id": 197,
+    "source": "برای درخواست بررسی یا حذف اطلاعات ثبت‌شده، از مسیر ارتباط با مجموعه موضوع را مطرح کنید و کد پیگیری را ارائه دهید. کانال رسمی پاسخ‌گویی پس از دریافت اطلاعات واقعی برند در صفحه تماس تکمیل خواهد شد.",
+    "locations": [
+      "app/[locale]/privacy/page.tsx:36"
+    ]
+  },
+  {
+    "id": 198,
+    "source": "محصول پیدا نشد",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:38"
+    ]
+  },
+  {
+    "id": 199,
+    "source": "دسته",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:82",
+      "components/admin/dashboard.tsx:253",
+      "components/admin/dashboard.tsx:289"
+    ]
+  },
+  {
+    "id": 200,
+    "source": "جدید در کاتالوگ",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:100"
+    ]
+  },
+  {
+    "id": 201,
+    "source": "کد کالا:",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:108"
+    ]
+  },
+  {
+    "id": 202,
+    "source": "هنوز دیدگاهی ثبت نشده",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:113"
+    ]
+  },
+  {
+    "id": 203,
+    "source": "تومان",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:133",
+      "components/product-card.tsx:60"
+    ]
+  },
+  {
+    "id": 204,
+    "source": "قیمت با استعلام",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:137",
+      "components/product-card.tsx:64"
+    ]
+  },
+  {
+    "id": 205,
+    "source": "متناسب با مدل و تعداد سفارش شما",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:138"
+    ]
+  },
+  {
+    "id": 206,
+    "source": "موجود",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:145",
+      "components/admin/dashboard.tsx:328",
+      "components/admin/product-editor.tsx:557",
+      "components/comparison.tsx:46"
+    ]
+  },
+  {
+    "id": 207,
+    "source": "فعلاً ناموجود",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:147"
+    ]
+  },
+  {
+    "id": 208,
+    "source": "موجودی نیازمند تأیید",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:148"
+    ]
+  },
+  {
+    "id": 209,
+    "source": "بررسی مشخصات پیش از انتخاب",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:155"
+    ]
+  },
+  {
+    "id": 210,
+    "source": "استعلام شرایط تأمین",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:159"
+    ]
+  },
+  {
+    "id": 211,
+    "source": "نگاهی نزدیک‌تر",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:170"
+    ]
+  },
+  {
+    "id": 212,
+    "source": "جزئیاتی که در کار تفاوت می‌سازند.",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:172"
+    ]
+  },
+  {
+    "id": 213,
+    "source": "ویژگی‌های کلیدی",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:176"
+    ]
+  },
+  {
+    "id": 214,
+    "source": "برای بررسی ویژگی‌های تکمیلی، مشخصات این محصول را مطالعه کنید.",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:188"
+    ]
+  },
+  {
+    "id": 215,
+    "source": "اطلاعات قابل بررسی",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:198"
+    ]
+  },
+  {
+    "id": 216,
+    "source": "مشخصات فنی",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:200",
+      "app/[locale]/product/[slug]/page.tsx:215",
+      "components/product-gallery.tsx:160"
+    ]
+  },
+  {
+    "id": 217,
+    "source": "دریافت برگه مشخصات",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:208"
+    ]
+  },
+  {
+    "id": 218,
+    "source": "برند",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:218",
+      "components/admin/dashboard.tsx:255",
+      "components/admin/entity-editor.tsx:72",
+      "components/admin/product-editor.tsx:212",
+      "components/comparison.tsx:32",
+      "lib/catalog.ts:182"
+    ]
+  },
+  {
+    "id": 219,
+    "source": "مدل",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:219",
+      "components/admin/product-editor.tsx:166"
+    ]
+  },
+  {
+    "id": 220,
+    "source": "کد کالا",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:220"
+    ]
+  },
+  {
+    "id": 221,
+    "source": "مشخصات بالا نمونه‌اند؛ قبل از سفارش با سند رسمی محصول تطبیق داده شوند.",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:238"
+    ]
+  },
+  {
+    "id": 222,
+    "source": "تناسب با نیاز شما",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:247"
+    ]
+  },
+  {
+    "id": 223,
+    "source": "کاربرد و سازگاری",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:249",
+      "components/product-gallery.tsx:161"
+    ]
+  },
+  {
+    "id": 224,
+    "source": "مدل دستگاه، ابعاد نصب، شرایط محیط و نوع کار را پیش از انتخاب بررسی کنید. صرفاً شباهت ظاهری، نشانه سازگاری نیست.",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:251"
+    ]
+  },
+  {
+    "id": 225,
+    "source": "محصولات مرتبط با سازگاری",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:264"
+    ]
+  },
+  {
+    "id": 226,
+    "source": "سازگاری‌های ثبت‌شده در این نسخه نمونه‌اند.",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:272"
+    ]
+  },
+  {
+    "id": 227,
+    "source": "اقلام همراه",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:279"
+    ]
+  },
+  {
+    "id": 228,
+    "source": "اقلام و بسته‌بندی نهایی را هنگام استعلام تأیید کنید.",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:285"
+    ]
+  },
+  {
+    "id": 229,
+    "source": "پیش از سفارش بررسی کنید",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:290"
+    ]
+  },
+  {
+    "id": 230,
+    "source": "اسناد، نگهداری و ضمانت",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:291"
+    ]
+  },
+  {
+    "id": 231,
+    "source": "برگه مشخصات محصول",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:296"
+    ]
+  },
+  {
+    "id": 232,
+    "source": "اطلاعات همین صفحه در یک فایل مستقل و قابل چاپ؛ با نمایش روشن وضعیت نمونه.",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:298"
+    ]
+  },
+  {
+    "id": 233,
+    "source": "دریافت فایل HTML",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:306"
+    ]
+  },
+  {
+    "id": 234,
+    "source": "دفترچه و اسناد رسمی",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:314"
+    ]
+  },
+  {
+    "id": 235,
+    "source": "هنوز سند رسمی برای این مدل بارگذاری نشده است. فایل ناموجود یا تأییدنشده ارائه نمی‌شود.",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:330"
+    ]
+  },
+  {
+    "id": 236,
+    "source": "در انتظار تکمیل اطلاعات",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:334"
+    ]
+  },
+  {
+    "id": 237,
+    "source": "شرایط ضمانت",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:341",
+      "components/admin/product-editor.tsx:587"
+    ]
+  },
+  {
+    "id": 238,
+    "source": "پرسش درباره خدمات",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:347"
+    ]
+  },
+  {
+    "id": 239,
+    "source": "ویدئوی محصول",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:355"
+    ]
+  },
+  {
+    "id": 240,
+    "source": "ویدئوی {v0}",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:template"
+    ]
+  },
+  {
+    "id": 241,
+    "source": "پاسخ به پرسش‌های شما",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:372"
+    ]
+  },
+  {
+    "id": 242,
+    "source": "پیش از انتخاب بدانید.",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:374"
+    ]
+  },
+  {
+    "id": 243,
+    "source": "پاسخ خود را پیدا نکردید؟",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:375"
+    ]
+  },
+  {
+    "id": 244,
+    "source": "پرسش از کارشناسان",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:380"
+    ]
+  },
+  {
+    "id": 245,
+    "source": "دیدگاه کاربران",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:415"
+    ]
+  },
+  {
+    "id": 246,
+    "source": "هنوز دیدگاهی برای این محصول ثبت نشده است. امتیاز یا تجربه تأییدنشده نمایش داده نمی‌شود.",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:417"
+    ]
+  },
+  {
+    "id": 247,
+    "source": "پرسش درباره محصول",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:425"
+    ]
+  },
+  {
+    "id": 248,
+    "source": "گزینه‌های دیگر را هم ببینید",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:434"
+    ]
+  },
+  {
+    "id": 249,
+    "source": "مدل‌های مشابه، برای مقایسه دقیق‌تر",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:435"
+    ]
+  },
+  {
+    "id": 250,
+    "source": "همه مدل‌های این دسته",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:437"
+    ]
+  },
+  {
+    "id": 251,
+    "source": "مجموعه‌تان را کامل کنید",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:447"
+    ]
+  },
+  {
+    "id": 252,
+    "source": "متعلقات پیشنهادی",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:448"
+    ]
+  },
+  {
+    "id": 253,
+    "source": "پیشنهادها بر اساس ارتباط ثبت‌شده در کاتالوگ نمونه‌اند، نه آمار خرید همزمان.",
+    "locations": [
+      "app/[locale]/product/[slug]/page.tsx:449"
+    ]
+  },
+  {
+    "id": 254,
+    "source": "دسته پیدا نشد",
+    "locations": [
+      "app/[locale]/products/[category]/page.tsx:13"
+    ]
+  },
+  {
+    "id": 255,
+    "source": "؛ مشخصات فنی مدل‌ها را کنار هم ببینید و متناسب با نیاز پروژه انتخاب کنید.",
+    "locations": [
+      "app/[locale]/products/[category]/page.tsx:27"
+    ]
+  },
+  {
+    "id": 256,
+    "source": "محصولات صنعتی",
+    "locations": [
+      "app/[locale]/products/page.tsx:4"
+    ]
+  },
+  {
+    "id": 257,
+    "source": "محصولات کانوکس را بر اساس دسته، کاربرد و مشخصات فنی پیدا و مقایسه کنید.",
+    "locations": [
+      "app/[locale]/products/page.tsx:5"
+    ]
+  },
+  {
+    "id": 258,
+    "source": "ابزار درست، برای کارِ درست.",
+    "locations": [
+      "app/[locale]/products/page.tsx:15",
+      "components/footer.tsx:37"
+    ]
+  },
+  {
+    "id": 259,
+    "source": "خانواده محصولات کانوکس را بشناسید. مشخصات را بررسی کنید و انتخاب را با نیاز کارتان هماهنگ کنید.",
+    "locations": [
+      "app/[locale]/products/page.tsx:16"
+    ]
+  },
+  {
+    "id": 260,
+    "source": "درخواست قیمت و مشاوره",
+    "locations": [
+      "app/[locale]/quote/page.tsx:6",
+      "app/[locale]/quote/page.tsx:25"
+    ]
+  },
+  {
+    "id": 261,
+    "source": "نیاز پروژه را مطرح کنید؛ استعلام قیمت، موجودی و راهنمایی انتخاب ابزار.",
+    "locations": [
+      "app/[locale]/quote/page.tsx:7"
+    ]
+  },
+  {
+    "id": 262,
+    "source": "شروع یک انتخاب مطمئن",
+    "locations": [
+      "app/[locale]/quote/page.tsx:29"
+    ]
+  },
+  {
+    "id": 263,
+    "source": "از نیازتان بگویید.",
+    "locations": [
+      "app/[locale]/quote/page.tsx:33"
+    ]
+  },
+  {
+    "id": 264,
+    "source": "برای پروژه شما، یک پیشنهاد مشخص.",
+    "locations": [
+      "app/[locale]/quote/page.tsx:34"
+    ]
+  },
+  {
+    "id": 265,
+    "source": "محصول، تعداد و شرایط کار را بنویسید. ثبت درخواست فقط چند دقیقه زمان می‌برد.",
+    "locations": [
+      "app/[locale]/quote/page.tsx:37"
+    ]
+  },
+  {
+    "id": 266,
+    "source": "جستجوی {v0}",
+    "locations": [
+      "app/[locale]/search/page.tsx:template"
+    ]
+  },
+  {
+    "id": 267,
+    "source": "جستجوی محصولات",
+    "locations": [
+      "app/[locale]/search/page.tsx:9",
+      "components/search-dialog.tsx:131"
+    ]
+  },
+  {
+    "id": 268,
+    "source": "جستجو بر اساس نام، مدل، کد کالا و مشخصات فنی.",
+    "locations": [
+      "app/[locale]/search/page.tsx:10"
+    ]
+  },
+  {
+    "id": 269,
+    "source": "نتایج جستجوی «{v0}»",
+    "locations": [
+      "app/[locale]/search/page.tsx:template"
+    ]
+  },
+  {
+    "id": 270,
+    "source": "محصول موردنظرتان را پیدا کنید.",
+    "locations": [
+      "app/[locale]/search/page.tsx:22"
+    ]
+  },
+  {
+    "id": 271,
+    "source": "نام فارسی یا لاتین، کد مدل یا یک مشخصه فنی را جستجو کنید.",
+    "locations": [
+      "app/[locale]/search/page.tsx:24"
+    ]
+  },
+  {
+    "id": 272,
+    "source": "جستجو",
+    "locations": [
+      "app/[locale]/search/page.tsx:26",
+      "components/admin/dashboard.tsx:280",
+      "components/header.tsx:138"
+    ]
+  },
+  {
+    "id": 273,
+    "source": "شرایط استفاده",
+    "locations": [
+      "app/[locale]/terms/page.tsx:4",
+      "app/[locale]/terms/page.tsx:11",
+      "components/footer.tsx:148"
+    ]
+  },
+  {
+    "id": 274,
+    "source": "شرایط استفاده از کاتالوگ نمونه و ثبت درخواست قیمت در کانوکس.",
+    "locations": [
+      "app/[locale]/terms/page.tsx:5"
+    ]
+  },
+  {
+    "id": 275,
+    "source": "کاتالوگ برای کمک به انتخاب است؛ سفارش نیازمند تأیید مشخصات و شرایط واقعی خواهد بود.",
+    "locations": [
+      "app/[locale]/terms/page.tsx:12"
+    ]
+  },
+  {
+    "id": 276,
+    "source": "ماهیت نسخه فعلی",
+    "locations": [
+      "app/[locale]/terms/page.tsx:15"
+    ]
+  },
+  {
+    "id": 277,
+    "source": "این وب‌سایت نسخه قابل اجرای آزمایشی برند KONVEX است. مدل‌ها، مشخصات و تصاویر محصولات نمونه‌اند. تصاویر این نسخه به‌صورت اختصاصی با هوش مصنوعی تولید شده‌اند و عکس مستند محصول واقعی نیستند.",
+    "locations": [
+      "app/[locale]/terms/page.tsx:16"
+    ]
+  },
+  {
+    "id": 278,
+    "source": "استعلام، نه خرید قطعی",
+    "locations": [
+      "app/[locale]/terms/page.tsx:19"
+    ]
+  },
+  {
+    "id": 279,
+    "source": "ثبت فرم، درخواست بررسی و استعلام است و سفارش قطعی، قرارداد تأمین، رزرو موجودی یا تعهد پرداخت ایجاد نمی‌کند. فروش آنلاین و درگاه پرداخت در این نسخه فعال نیستند.",
+    "locations": [
+      "app/[locale]/terms/page.tsx:20"
+    ]
+  },
+  {
+    "id": 280,
+    "source": "مشخصات و سازگاری",
+    "locations": [
+      "app/[locale]/terms/page.tsx:23"
+    ]
+  },
+  {
+    "id": 281,
+    "source": "تصمیم فنی، ایمنی یا سفارش نباید بر مبنای داده‌های نمونه گرفته شود. ابعاد، اتصال، ظرفیت، سرعت مجاز، دقت و شرایط محیطی باید با دفترچه و سند رسمی سازنده تطبیق داده شوند. ظاهر مشابه محصولات نشان‌دهنده سازگاری نیست.",
+    "locations": [
+      "app/[locale]/terms/page.tsx:24"
+    ]
+  },
+  {
+    "id": 282,
+    "source": "قیمت، موجودی و ضمانت",
+    "locations": [
+      "app/[locale]/terms/page.tsx:27"
+    ]
+  },
+  {
+    "id": 283,
+    "source": "اگر اطلاعاتی تأیید نشده باشد، وضعیت نیازمند استعلام نمایش داده می‌شود. قیمت، تعداد قابل تأمین، زمان ارسال و پوشش ضمانت باید به‌صورت جداگانه و پیش از توافق نهایی توسط مجموعه تأیید شوند.",
+    "locations": [
+      "app/[locale]/terms/page.tsx:28"
+    ]
+  },
+  {
+    "id": 284,
+    "source": "راهنماهای فنی",
+    "locations": [
+      "app/[locale]/terms/page.tsx:31"
+    ]
+  },
+  {
+    "id": 285,
+    "source": "مطالب دانشنامه، اطلاعات عمومی برای انتخاب ابزار هستند. دستورالعمل سازنده، مقررات و استانداردهای مرتبط و ارزیابی ایمنی محل کار بر این مطالب اولویت دارند. برای کارهای پرخطر از فرد دارای صلاحیت کمک بگیرید.",
+    "locations": [
+      "app/[locale]/terms/page.tsx:32"
+    ]
+  },
+  {
+    "id": 286,
+    "source": "استفاده مسئولانه",
+    "locations": [
+      "app/[locale]/terms/page.tsx:35"
+    ]
+  },
+  {
+    "id": 287,
+    "source": "از ارسال اطلاعات گمراه‌کننده، درخواست انبوه یا تلاش برای دسترسی غیرمجاز خودداری کنید. به‌منظور محافظت از فرم و مدیریت، اعتبارسنجی و محدودیت نرخ درخواست اعمال می‌شود.",
+    "locations": [
+      "app/[locale]/terms/page.tsx:36"
+    ]
+  },
+  {
+    "id": 288,
+    "source": "محصولات ذخیره‌شده",
+    "locations": [
+      "app/[locale]/wishlist/page.tsx:5",
+      "app/[locale]/wishlist/page.tsx:13",
+      "components/header.tsx:301",
+      "components/saved-products.tsx:31"
+    ]
+  },
+  {
+    "id": 289,
+    "source": "فهرست محصولات ذخیره‌شده شما در کانوکس.",
+    "locations": [
+      "app/[locale]/wishlist/page.tsx:6"
+    ]
+  },
+  {
+    "id": 290,
+    "source": "دسترسی مجاز نیست.",
+    "locations": [
+      "app/api/admin/entities/route.ts:10",
+      "app/api/admin/entities/route.ts:71",
+      "app/api/admin/logout/route.ts:5",
+      "app/api/admin/products/route.ts:78",
+      "app/api/admin/products/route.ts:97",
+      "app/api/admin/quotes/route.ts:7",
+      "app/api/admin/quotes/route.ts:28",
+      "app/api/admin/settings/route.ts:8",
+      "app/api/admin/upload/route.ts:9"
+    ]
+  },
+  {
+    "id": 291,
+    "source": "نوع محتوا معتبر نیست.",
+    "locations": [
+      "app/api/admin/entities/route.ts:23"
+    ]
+  },
+  {
+    "id": 292,
+    "source": "فیلدها را بررسی کنید.",
+    "locations": [
+      "app/api/admin/entities/route.ts:30"
+    ]
+  },
+  {
+    "id": 293,
+    "source": "دسته والد معتبر نیست؛ ساختار حلقه‌ای مجاز نیست.",
+    "locations": [
+      "app/api/admin/entities/route.ts:46"
+    ]
+  },
+  {
+    "id": 294,
+    "source": "دسته مرتبط مقاله وجود ندارد.",
+    "locations": [
+      "app/api/admin/entities/route.ts:54"
+    ]
+  },
+  {
+    "id": 295,
+    "source": "ذخیره انجام نشد؛ آدرس یا شناسه ممکن است تکراری باشد.",
+    "locations": [
+      "app/api/admin/entities/route.ts:64"
+    ]
+  },
+  {
+    "id": 296,
+    "source": "درخواست نامعتبر است.",
+    "locations": [
+      "app/api/admin/entities/route.ts:79",
+      "lib/validation.ts:36"
+    ]
+  },
+  {
+    "id": 297,
+    "source": "ابتدا زیرگروه‌ها را منتقل یا حذف کنید.",
+    "locations": [
+      "app/api/admin/entities/route.ts:88"
+    ]
+  },
+  {
+    "id": 298,
+    "source": "ابتدا دسته مرتبط مقاله‌ها را تغییر دهید.",
+    "locations": [
+      "app/api/admin/entities/route.ts:96"
+    ]
+  },
+  {
+    "id": 299,
+    "source": "ابتدا محصولات این گروه را منتقل یا حذف کنید.",
+    "locations": [
+      "app/api/admin/entities/route.ts:108"
+    ]
+  },
+  {
+    "id": 300,
+    "source": "حذف انجام نشد.",
+    "locations": [
+      "app/api/admin/entities/route.ts:117"
+    ]
+  },
+  {
+    "id": 301,
+    "source": "نشست نامعتبر است. صفحه را تازه کنید.",
+    "locations": [
+      "app/api/admin/login/route.ts:13"
+    ]
+  },
+  {
+    "id": 302,
+    "source": "تلاش‌های ورود زیاد است. ۱۵ دقیقه بعد تلاش کنید.",
+    "locations": [
+      "app/api/admin/login/route.ts:18"
+    ]
+  },
+  {
+    "id": 303,
+    "source": "دسترسی مدیریت هنوز پیکربندی نشده است.",
+    "locations": [
+      "app/api/admin/login/route.ts:23"
+    ]
+  },
+  {
+    "id": 304,
+    "source": "رمز ورود صحیح نیست.",
+    "locations": [
+      "app/api/admin/login/route.ts:30"
+    ]
+  },
+  {
+    "id": 305,
+    "source": "امکان ورود وجود ندارد.",
+    "locations": [
+      "app/api/admin/login/route.ts:46"
+    ]
+  },
+  {
+    "id": 306,
+    "source": "نشست مدیریت معتبر نیست.",
+    "locations": [
+      "app/api/admin/products/route.ts:14"
+    ]
+  },
+  {
+    "id": 307,
+    "source": "کمی بعد دوباره تلاش کنید.",
+    "locations": [
+      "app/api/admin/products/route.ts:19"
+    ]
+  },
+  {
+    "id": 308,
+    "source": "اطلاعات محصول معتبر نیست.",
+    "locations": [
+      "app/api/admin/products/route.ts:27"
+    ]
+  },
+  {
+    "id": 309,
+    "source": "برند یا دسته انتخاب‌شده وجود ندارد.",
+    "locations": [
+      "app/api/admin/products/route.ts:37"
+    ]
+  },
+  {
+    "id": 310,
+    "source": "یکی از کاربردها معتبر نیست.",
+    "locations": [
+      "app/api/admin/products/route.ts:42"
+    ]
+  },
+  {
+    "id": 311,
+    "source": "محصول مرتبط یا متعلقات معتبر نیست.",
+    "locations": [
+      "app/api/admin/products/route.ts:53"
+    ]
+  },
+  {
+    "id": 312,
+    "source": "کد کالا یا آدرس محصول تکراری است.",
+    "locations": [
+      "app/api/admin/products/route.ts:69"
+    ]
+  },
+  {
+    "id": 313,
+    "source": "ذخیره محصول انجام نشد.",
+    "locations": [
+      "app/api/admin/products/route.ts:70"
+    ]
+  },
+  {
+    "id": 314,
+    "source": "محصول پیدا نشد.",
+    "locations": [
+      "app/api/admin/products/route.ts:82",
+      "app/api/admin/products/route.ts:110",
+      "app/api/products/[id]/datasheet/route.ts:20"
+    ]
+  },
+  {
+    "id": 315,
+    "source": "حذف محصول انجام نشد.",
+    "locations": [
+      "app/api/admin/products/route.ts:89"
+    ]
+  },
+  {
+    "id": 316,
+    "source": "شناسه محصول لازم است.",
+    "locations": [
+      "app/api/admin/products/route.ts:101"
+    ]
+  },
+  {
+    "id": 317,
+    "source": "وضعیت معتبر نیست.",
+    "locations": [
+      "app/api/admin/quotes/route.ts:14"
+    ]
+  },
+  {
+    "id": 318,
+    "source": "ذخیره وضعیت انجام نشد.",
+    "locations": [
+      "app/api/admin/quotes/route.ts:21"
+    ]
+  },
+  {
+    "id": 319,
+    "source": "شناسه معتبر نیست.",
+    "locations": [
+      "app/api/admin/quotes/route.ts:32"
+    ]
+  },
+  {
+    "id": 320,
+    "source": "حذف درخواست انجام نشد.",
+    "locations": [
+      "app/api/admin/quotes/route.ts:39"
+    ]
+  },
+  {
+    "id": 321,
+    "source": "تنظیمات را بررسی کنید.",
+    "locations": [
+      "app/api/admin/settings/route.ts:14"
+    ]
+  },
+  {
+    "id": 322,
+    "source": "ذخیره تنظیمات انجام نشد.",
+    "locations": [
+      "app/api/admin/settings/route.ts:29"
+    ]
+  },
+  {
+    "id": 323,
+    "source": "تعداد بارگذاری‌ها زیاد است.",
+    "locations": [
+      "app/api/admin/upload/route.ts:12"
+    ]
+  },
+  {
+    "id": 324,
+    "source": "حداکثر اندازه تصویر ۵ مگابایت است.",
+    "locations": [
+      "app/api/admin/upload/route.ts:17"
+    ]
+  },
+  {
+    "id": 325,
+    "source": "تصویر JPG، PNG یا WebP تا ۵ مگابایت انتخاب کنید.",
+    "locations": [
+      "app/api/admin/upload/route.ts:29"
+    ]
+  },
+  {
+    "id": 326,
+    "source": "فایل تصویر قابل پردازش نیست.",
+    "locations": [
+      "app/api/admin/upload/route.ts:51"
+    ]
+  },
+  {
+    "id": 327,
+    "source": "تنظیمات امنیتی سرور کامل نیست.",
+    "locations": [
+      "app/api/csrf/route.ts:20"
+    ]
+  },
+  {
+    "id": 328,
+    "source": "<!doctype html><html lang=\"fa\" dir=\"rtl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>{v0} | KONVEX</title><style>@font-face{font-family:V;src:url(data:font/woff2;base64,{v1})}*{box-sizing:border-box}body{font:14px/2 V,Arial;max-width:860px;margin:40px auto;padding:24px;color:#202321}header{border-bottom:3px solid #ca4524;padding-bottom:16px;display:flex;justify-content:space-between;gap:20px}.brand{font:bold italic 30px Arial}h1{font-size:28px}h2{font-size:20px}p{color:#60675c}table{border-collapse:collapse;width:100%;margin:24px 0}td,th{padding:10px 18px;border-bottom:1px solid #d8dfd0;text-align:right;overflow-wrap:anywhere}th{background:#f2f5ec;width:40%;font-weight:500}.note{background:#faf2e8;padding:14px;border:1px solid #e2c9ab;font-size:12px}footer{border-top:1px solid #ddd;margin-top:32px;font-size:11px;color:#666}@media print{body{margin:0;max-width:none;padding:0}thead{display:table-header-group}tr{break-inside:avoid}}</style></head><body><header><span class=\"brand\" dir=\"ltr\">KONVEX</span><span>برگه مشخصات محصول</span></header><h1>{v2}</h1><p>مدل: <bdi>{v3}</bdi> · کد کالا: <bdi>{v4}</bdi></p>{v5}<p>{v6}</p><h2>مشخصات فنی</h2><table><tbody>{v7}</tbody></table><h2>کاربرد و توضیحات</h2><p>{v8}</p><h2>شرایط ضمانت</h2><p>{v9}</p><footer>این فایل از اطلاعات فعلی کاتالوگ تولید شده است. برای ذخیره به PDF از گزینه چاپ مرورگر استفاده کنید. · {v10}</footer></body></html>",
+    "locations": [
+      "app/api/products/[id]/datasheet/route.ts:template"
+    ]
+  },
+  {
+    "id": 329,
+    "source": "<div class=\"note\">کاتالوگ نمونه: این اطلاعات تأییدشده نیست و نباید مبنای سفارش یا تصمیم ایمنی قرار گیرد.</div>",
+    "locations": [
+      "app/api/products/[id]/datasheet/route.ts:24"
+    ]
+  },
+  {
+    "id": 330,
+    "source": "نشست فرم معتبر نیست. صفحه را تازه کنید و دوباره تلاش کنید.",
+    "locations": [
+      "app/api/quotes/route.ts:11"
+    ]
+  },
+  {
+    "id": 331,
+    "source": "تعداد درخواست‌ها زیاد است. ده دقیقه دیگر تلاش کنید.",
+    "locations": [
+      "app/api/quotes/route.ts:16"
+    ]
+  },
+  {
+    "id": 332,
+    "source": "حجم درخواست بیش از حد مجاز است.",
+    "locations": [
+      "app/api/quotes/route.ts:21",
+      "lib/request-body.ts:13",
+      "lib/request-body.ts:25"
+    ]
+  },
+  {
+    "id": 333,
+    "source": "اطلاعات فرم را بررسی کنید.",
+    "locations": [
+      "app/api/quotes/route.ts:32"
+    ]
+  },
+  {
+    "id": 334,
+    "source": "یکی از محصولات دیگر در کاتالوگ وجود ندارد. انتخاب خود را بررسی کنید.",
+    "locations": [
+      "app/api/quotes/route.ts:53"
+    ]
+  },
+  {
+    "id": 335,
+    "source": "درخواست ثبت نشد. ارتباط با سرور را بررسی و دوباره تلاش کنید.",
+    "locations": [
+      "app/api/quotes/route.ts:93"
+    ]
+  },
+  {
+    "id": 336,
+    "source": "تعداد جستجوها زیاد است. کمی بعد دوباره تلاش کنید.",
+    "locations": [
+      "app/api/search/route.ts:8"
+    ]
+  },
+  {
+    "id": 337,
+    "source": "ارتباط با کاتالوگ برقرار نشد. دوباره تلاش کنید.",
+    "locations": [
+      "app/api/search/route.ts:34"
+    ]
+  },
+  {
+    "id": 338,
+    "source": "ارتباط با سرور برقرار نشد.",
+    "locations": [
+      "app/error.tsx:13"
+    ]
+  },
+  {
+    "id": 339,
+    "source": "اطلاعات صفحه بارگذاری نشد. دوباره تلاش کنید؛ مسیر انتخاب شما همچنان در دسترس است.",
+    "locations": [
+      "app/error.tsx:15"
+    ]
+  },
+  {
+    "id": 340,
+    "source": "تلاش مجدد",
+    "locations": [
+      "app/error.tsx:21",
+      "components/search-dialog.tsx:194"
+    ]
+  },
+  {
+    "id": 341,
+    "source": "بازگشت به خانه",
+    "locations": [
+      "app/error.tsx:24",
+      "app/not-found.tsx:30"
+    ]
+  },
+  {
+    "id": 342,
+    "source": "کانوکس | ابزارِ کارِ حرفه‌ای",
+    "locations": [
+      "app/layout.tsx:12",
+      "app/layout.tsx:19"
+    ]
+  },
+  {
+    "id": 343,
+    "source": "%s | کانوکس",
+    "locations": [
+      "app/layout.tsx:12"
+    ]
+  },
+  {
+    "id": 344,
+    "source": "کاتالوگ تخصصی ابزار و تجهیزات صنعتی کانوکس. مشخصات فنی، مقایسه محصولات و درخواست قیمت.",
+    "locations": [
+      "app/layout.tsx:20"
+    ]
+  },
+  {
+    "id": 345,
+    "source": "رفتن به محتوای اصلی",
+    "locations": [
+      "app/layout.tsx:48"
+    ]
+  },
+  {
+    "id": 346,
+    "source": "مسیر پیدا نشد",
+    "locations": [
+      "app/not-found.tsx:11"
+    ]
+  },
+  {
+    "id": 347,
+    "source": "این مسیر به محصولی نمی‌رسد.",
+    "locations": [
+      "app/not-found.tsx:13"
+    ]
+  },
+  {
+    "id": 348,
+    "source": "ممکن است آدرس تغییر کرده باشد یا صفحه موردنظر دیگر در دسترس نباشد.",
+    "locations": [
+      "app/not-found.tsx:15"
+    ]
+  },
+  {
+    "id": 349,
+    "source": "از کاتالوگ یا جستجو، مسیر تازه‌ای پیدا کنید.",
+    "locations": [
+      "app/not-found.tsx:17"
+    ]
+  },
+  {
+    "id": 350,
+    "source": "رفتن به محصولات",
+    "locations": [
+      "app/not-found.tsx:21"
+    ]
+  },
+  {
+    "id": 351,
+    "source": "جستجوی محصول",
+    "locations": [
+      "app/not-found.tsx:26"
+    ]
+  },
+  {
+    "id": 352,
+    "source": "دسته‌بندی‌ها",
+    "locations": [
+      "components/admin/dashboard.tsx:88",
+      "components/search-dialog.tsx:268"
+    ]
+  },
+  {
+    "id": 353,
+    "source": "دانشنامه",
+    "locations": [
+      "components/admin/dashboard.tsx:95"
+    ]
+  },
+  {
+    "id": 354,
+    "source": "درخواست‌ها",
+    "locations": [
+      "components/admin/dashboard.tsx:101"
+    ]
+  },
+  {
+    "id": 355,
+    "source": "تنظیمات سایت",
+    "locations": [
+      "components/admin/dashboard.tsx:105"
+    ]
+  },
+  {
+    "id": 356,
+    "source": "«{v0}» حذف شود؟ این عملیات برگشت‌پذیر نیست.",
+    "locations": [
+      "components/admin/dashboard.tsx:template"
+    ]
+  },
+  {
+    "id": 357,
+    "source": "مورد انتخاب‌شده حذف شد.",
+    "locations": [
+      "components/admin/dashboard.tsx:145"
+    ]
+  },
+  {
+    "id": 358,
+    "source": "تغییرات با موفقیت ذخیره شد.",
+    "locations": [
+      "components/admin/dashboard.tsx:156"
+    ]
+  },
+  {
+    "id": 359,
+    "source": "وضعیت درخواست به‌روزرسانی شد.",
+    "locations": [
+      "components/admin/dashboard.tsx:162"
+    ]
+  },
+  {
+    "id": 360,
+    "source": "مدیریت کاتالوگ کانوکس",
+    "locations": [
+      "components/admin/dashboard.tsx:181"
+    ]
+  },
+  {
+    "id": 361,
+    "source": "مشاهده وب‌سایت",
+    "locations": [
+      "components/admin/dashboard.tsx:185"
+    ]
+  },
+  {
+    "id": 362,
+    "source": "خروج از مدیریت",
+    "locations": [
+      "components/admin/dashboard.tsx:191"
+    ]
+  },
+  {
+    "id": 363,
+    "source": "محیط محلی و آزمایشی",
+    "locations": [
+      "components/admin/dashboard.tsx:217"
+    ]
+  },
+  {
+    "id": 364,
+    "source": "از اطلاعات واقعی مشتریان برای آزمون استفاده نکنید.",
+    "locations": [
+      "components/admin/dashboard.tsx:218"
+    ]
+  },
+  {
+    "id": 365,
+    "source": "مرکز مدیریت /",
+    "locations": [
+      "components/admin/dashboard.tsx:224"
+    ]
+  },
+  {
+    "id": 366,
+    "source": "افزودن محصول",
+    "locations": [
+      "components/admin/dashboard.tsx:234",
+      "components/admin/product-editor.tsx:128",
+      "components/comparison.tsx:167"
+    ]
+  },
+  {
+    "id": 367,
+    "source": "افزودن",
+    "locations": [
+      "components/admin/dashboard.tsx:251"
+    ]
+  },
+  {
+    "id": 368,
+    "source": "مقاله",
+    "locations": [
+      "components/admin/dashboard.tsx:256",
+      "components/admin/entity-editor.tsx:72"
+    ]
+  },
+  {
+    "id": 369,
+    "source": "جستجوی نام، مدل یا کد کالا…",
+    "locations": [
+      "components/admin/dashboard.tsx:276"
+    ]
+  },
+  {
+    "id": 370,
+    "source": "جستجوی محصولات مدیریت",
+    "locations": [
+      "components/admin/dashboard.tsx:277"
+    ]
+  },
+  {
+    "id": 371,
+    "source": "مدل / شناسه",
+    "locations": [
+      "components/admin/dashboard.tsx:288"
+    ]
+  },
+  {
+    "id": 372,
+    "source": "وضعیت",
+    "locations": [
+      "components/admin/dashboard.tsx:290"
+    ]
+  },
+  {
+    "id": 373,
+    "source": "قیمت",
+    "locations": [
+      "components/admin/dashboard.tsx:291",
+      "components/comparison.tsx:35"
+    ]
+  },
+  {
+    "id": 374,
+    "source": "عملیات",
+    "locations": [
+      "components/admin/dashboard.tsx:292"
+    ]
+  },
+  {
+    "id": 375,
+    "source": "نمونه",
+    "locations": [
+      "components/admin/dashboard.tsx:308"
+    ]
+  },
+  {
+    "id": 376,
+    "source": "تأییدشده توسط مدیر",
+    "locations": [
+      "components/admin/dashboard.tsx:308"
+    ]
+  },
+  {
+    "id": 377,
+    "source": "/ منتخب",
+    "locations": [
+      "components/admin/dashboard.tsx:309"
+    ]
+  },
+  {
+    "id": 378,
+    "source": "استعلام",
+    "locations": [
+      "components/admin/dashboard.tsx:326",
+      "components/admin/dashboard.tsx:333"
+    ]
+  },
+  {
+    "id": 379,
+    "source": "ناموجود",
+    "locations": [
+      "components/admin/dashboard.tsx:329",
+      "components/admin/product-editor.tsx:558",
+      "components/comparison.tsx:48"
+    ]
+  },
+  {
+    "id": 380,
+    "source": "مشاهده {v0}",
+    "locations": [
+      "components/admin/dashboard.tsx:template",
+      "components/product-card.tsx:template"
+    ]
+  },
+  {
+    "id": 381,
+    "source": "ویرایش {v0}",
+    "locations": [
+      "components/admin/dashboard.tsx:template",
+      "components/admin/entity-editor.tsx:template",
+      "components/admin/product-editor.tsx:template"
+    ]
+  },
+  {
+    "id": 382,
+    "source": "حذف {v0}",
+    "locations": [
+      "components/admin/dashboard.tsx:template",
+      "components/admin/dashboard.tsx:template"
+    ]
+  },
+  {
+    "id": 383,
+    "source": "محصولی پیدا نشد.",
+    "locations": [
+      "components/admin/dashboard.tsx:372",
+      "components/ui.tsx:136"
+    ]
+  },
+  {
+    "id": 384,
+    "source": "ویرایش",
+    "locations": [
+      "components/admin/dashboard.tsx:427"
+    ]
+  },
+  {
+    "id": 385,
+    "source": "جدید",
+    "locations": [
+      "components/admin/dashboard.tsx:457",
+      "components/admin/dashboard.tsx:519",
+      "components/product-card.tsx:30"
+    ]
+  },
+  {
+    "id": 386,
+    "source": "در حال بررسی",
+    "locations": [
+      "components/admin/dashboard.tsx:458",
+      "components/admin/dashboard.tsx:520"
+    ]
+  },
+  {
+    "id": 387,
+    "source": "پاسخ داده‌شده",
+    "locations": [
+      "components/admin/dashboard.tsx:459",
+      "components/admin/dashboard.tsx:521"
+    ]
+  },
+  {
+    "id": 388,
+    "source": "بایگانی",
+    "locations": [
+      "components/admin/dashboard.tsx:460",
+      "components/admin/dashboard.tsx:522"
+    ]
+  },
+  {
+    "id": 389,
+    "source": "تلفن:",
+    "locations": [
+      "components/admin/dashboard.tsx:473"
+    ]
+  },
+  {
+    "id": 390,
+    "source": "ایمیل:",
+    "locations": [
+      "components/admin/dashboard.tsx:477"
+    ]
+  },
+  {
+    "id": 391,
+    "source": "روش ترجیحی:",
+    "locations": [
+      "components/admin/dashboard.tsx:481"
+    ]
+  },
+  {
+    "id": 392,
+    "source": "تلفن",
+    "locations": [
+      "components/admin/dashboard.tsx:484"
+    ]
+  },
+  {
+    "id": 393,
+    "source": "نوع:",
+    "locations": [
+      "components/admin/dashboard.tsx:491"
+    ]
+  },
+  {
+    "id": 394,
+    "source": "استعلام قیمت",
+    "locations": [
+      "components/admin/dashboard.tsx:492"
+    ]
+  },
+  {
+    "id": 395,
+    "source": "مشاوره",
+    "locations": [
+      "components/admin/dashboard.tsx:492",
+      "components/product-actions.tsx:30"
+    ]
+  },
+  {
+    "id": 396,
+    "source": "عدد",
+    "locations": [
+      "components/admin/dashboard.tsx:502",
+      "components/admin/entity-editor.tsx:180"
+    ]
+  },
+  {
+    "id": 397,
+    "source": "توضیحات",
+    "locations": [
+      "components/admin/dashboard.tsx:508"
+    ]
+  },
+  {
+    "id": 398,
+    "source": "توضیحی نوشته نشده است.",
+    "locations": [
+      "components/admin/dashboard.tsx:509"
+    ]
+  },
+  {
+    "id": 399,
+    "source": "وضعیت درخواست",
+    "locations": [
+      "components/admin/dashboard.tsx:513"
+    ]
+  },
+  {
+    "id": 400,
+    "source": "وضعیت درخواست {v0}",
+    "locations": [
+      "components/admin/dashboard.tsx:template"
+    ]
+  },
+  {
+    "id": 401,
+    "source": "حذف دائمی اطلاعات",
+    "locations": [
+      "components/admin/dashboard.tsx:530"
+    ]
+  },
+  {
+    "id": 402,
+    "source": "هنوز درخواستی ثبت نشده است.",
+    "locations": [
+      "components/admin/dashboard.tsx:539"
+    ]
+  },
+  {
+    "id": 403,
+    "source": "پس از ثبت فرم قیمت یا مشاوره، درخواست‌ها با کد پیگیری در این بخش ظاهر می‌شوند.",
+    "locations": [
+      "components/admin/dashboard.tsx:540"
+    ]
+  },
+  {
+    "id": 404,
+    "source": "مشاهده فرم استعلام",
+    "locations": [
+      "components/admin/dashboard.tsx:542"
+    ]
+  },
+  {
+    "id": 405,
+    "source": "صفحه‌های مدیریت",
+    "locations": [
+      "components/admin/dashboard.tsx:591"
+    ]
+  },
+  {
+    "id": 406,
+    "source": "قبلی",
+    "locations": [
+      "components/admin/dashboard.tsx:597",
+      "components/catalog-explorer.tsx:410",
+      "components/catalog-explorer.tsx:415"
+    ]
+  },
+  {
+    "id": 407,
+    "source": "صفحه",
+    "locations": [
+      "components/admin/dashboard.tsx:601"
+    ]
+  },
+  {
+    "id": 408,
+    "source": "از",
+    "locations": [
+      "components/admin/dashboard.tsx:601",
+      "components/product-gallery.tsx:140"
+    ]
+  },
+  {
+    "id": 409,
+    "source": "بعدی",
+    "locations": [
+      "components/admin/dashboard.tsx:608",
+      "components/catalog-explorer.tsx:436",
+      "components/catalog-explorer.tsx:441"
+    ]
+  },
+  {
+    "id": 410,
+    "source": "راهنمای انتخاب",
+    "locations": [
+      "components/admin/entity-editor.tsx:31"
+    ]
+  },
+  {
+    "id": 411,
+    "source": "دسته‌بندی",
+    "locations": [
+      "components/admin/entity-editor.tsx:72",
+      "components/admin/product-editor.tsx:190"
+    ]
+  },
+  {
+    "id": 412,
+    "source": "عنوان مقاله",
+    "locations": [
+      "components/admin/entity-editor.tsx:88"
+    ]
+  },
+  {
+    "id": 413,
+    "source": "نام",
+    "locations": [
+      "components/admin/entity-editor.tsx:88"
+    ]
+  },
+  {
+    "id": 414,
+    "source": "آدرس مستقل",
+    "locations": [
+      "components/admin/entity-editor.tsx:97"
+    ]
+  },
+  {
+    "id": 415,
+    "source": "حروف کوچک انگلیسی، عدد و خط تیره؛ بدون فاصله",
+    "locations": [
+      "components/admin/entity-editor.tsx:102"
+    ]
+  },
+  {
+    "id": 416,
+    "source": "عنوان لاتین گروه",
+    "locations": [
+      "components/admin/entity-editor.tsx:109"
+    ]
+  },
+  {
+    "id": 417,
+    "source": "ترتیب نمایش",
+    "locations": [
+      "components/admin/entity-editor.tsx:115"
+    ]
+  },
+  {
+    "id": 418,
+    "source": "توضیح دسته",
+    "locations": [
+      "components/admin/entity-editor.tsx:122"
+    ]
+  },
+  {
+    "id": 419,
+    "source": "دسته والد",
+    "locations": [
+      "components/admin/entity-editor.tsx:128"
+    ]
+  },
+  {
+    "id": 420,
+    "source": "دسته اصلی",
+    "locations": [
+      "components/admin/entity-editor.tsx:131"
+    ]
+  },
+  {
+    "id": 421,
+    "source": "آدرس تصویر",
+    "locations": [
+      "components/admin/entity-editor.tsx:140",
+      "components/admin/entity-editor.tsx:294",
+      "components/admin/product-editor.tsx:409"
+    ]
+  },
+  {
+    "id": 422,
+    "source": "فیلترهای اختصاصی این دسته",
+    "locations": [
+      "components/admin/entity-editor.tsx:145"
+    ]
+  },
+  {
+    "id": 423,
+    "source": "کلید فیلتر باید با کلید همان ویژگی در محصولات یکسان باشد؛ مثال: range برای برد. افزودن این فیلتر نیازی به تغییر کد سایت ندارد.",
+    "locations": [
+      "components/admin/entity-editor.tsx:147"
+    ]
+  },
+  {
+    "id": 424,
+    "source": "کلید",
+    "locations": [
+      "components/admin/entity-editor.tsx:157",
+      "components/admin/product-editor.tsx:247"
+    ]
+  },
+  {
+    "id": 425,
+    "source": "عنوان فارسی",
+    "locations": [
+      "components/admin/entity-editor.tsx:169",
+      "components/admin/product-editor.tsx:259"
+    ]
+  },
+  {
+    "id": 426,
+    "source": "حذف فیلتر",
+    "locations": [
+      "components/admin/entity-editor.tsx:193"
+    ]
+  },
+  {
+    "id": 427,
+    "source": "فیلتر جدید",
+    "locations": [
+      "components/admin/entity-editor.tsx:224"
+    ]
+  },
+  {
+    "id": 428,
+    "source": "نام لاتین",
+    "locations": [
+      "components/admin/entity-editor.tsx:231"
+    ]
+  },
+  {
+    "id": 429,
+    "source": "معرفی برند",
+    "locations": [
+      "components/admin/entity-editor.tsx:237"
+    ]
+  },
+  {
+    "id": 430,
+    "source": "بارگذاری لوگو",
+    "locations": [
+      "components/admin/entity-editor.tsx:243"
+    ]
+  },
+  {
+    "id": 431,
+    "source": "آدرس لوگو — اختیاری",
+    "locations": [
+      "components/admin/entity-editor.tsx:247"
+    ]
+  },
+  {
+    "id": 432,
+    "source": "خلاصه مقاله",
+    "locations": [
+      "components/admin/entity-editor.tsx:257"
+    ]
+  },
+  {
+    "id": 433,
+    "source": "گروه محتوایی",
+    "locations": [
+      "components/admin/entity-editor.tsx:264"
+    ]
+  },
+  {
+    "id": 434,
+    "source": "دسته محصول مرتبط",
+    "locations": [
+      "components/admin/entity-editor.tsx:269"
+    ]
+  },
+  {
+    "id": 435,
+    "source": "تاریخ انتشار",
+    "locations": [
+      "components/admin/entity-editor.tsx:280"
+    ]
+  },
+  {
+    "id": 436,
+    "source": "زمان مطالعه — دقیقه",
+    "locations": [
+      "components/admin/entity-editor.tsx:286"
+    ]
+  },
+  {
+    "id": 437,
+    "source": "بخش‌های مقاله",
+    "locations": [
+      "components/admin/entity-editor.tsx:299"
+    ]
+  },
+  {
+    "id": 438,
+    "source": "عنوان بخش",
+    "locations": [
+      "components/admin/entity-editor.tsx:304"
+    ]
+  },
+  {
+    "id": 439,
+    "source": "متن بخش",
+    "locations": [
+      "components/admin/entity-editor.tsx:316"
+    ]
+  },
+  {
+    "id": 440,
+    "source": "حذف بخش",
+    "locations": [
+      "components/admin/entity-editor.tsx:341"
+    ]
+  },
+  {
+    "id": 441,
+    "source": "بخش جدید",
+    "locations": [
+      "components/admin/entity-editor.tsx:356"
+    ]
+  },
+  {
+    "id": 442,
+    "source": "عنوان سئو",
+    "locations": [
+      "components/admin/entity-editor.tsx:359",
+      "components/admin/product-editor.tsx:600"
+    ]
+  },
+  {
+    "id": 443,
+    "source": "توضیح سئو",
+    "locations": [
+      "components/admin/entity-editor.tsx:364",
+      "components/admin/product-editor.tsx:605"
+    ]
+  },
+  {
+    "id": 444,
+    "source": "ذخیره",
+    "locations": [
+      "components/admin/entity-editor.tsx:384"
+    ]
+  },
+  {
+    "id": 445,
+    "source": "انصراف",
+    "locations": [
+      "components/admin/entity-editor.tsx:387",
+      "components/admin/product-editor.tsx:632"
+    ]
+  },
+  {
+    "id": 446,
+    "source": "بارگذاری تصویر",
+    "locations": [
+      "components/admin/fields.tsx:101"
+    ]
+  },
+  {
+    "id": 447,
+    "source": "در حال پردازش…",
+    "locations": [
+      "components/admin/fields.tsx:135"
+    ]
+  },
+  {
+    "id": 448,
+    "source": "JPG، PNG، WebP — تا ۵ مگابایت؛ بهینه‌سازی خودکار",
+    "locations": [
+      "components/admin/fields.tsx:148"
+    ]
+  },
+  {
+    "id": 449,
+    "source": "مدیریت کاتالوگ",
+    "locations": [
+      "components/admin/login.tsx:46"
+    ]
+  },
+  {
+    "id": 450,
+    "source": "خوش آمدید.",
+    "locations": [
+      "components/admin/login.tsx:48"
+    ]
+  },
+  {
+    "id": 451,
+    "source": "برای مدیریت محتوا و درخواست‌ها، وارد شوید.",
+    "locations": [
+      "components/admin/login.tsx:49"
+    ]
+  },
+  {
+    "id": 452,
+    "source": "رمز مدیریت",
+    "locations": [
+      "components/admin/login.tsx:52"
+    ]
+  },
+  {
+    "id": 453,
+    "source": "پنهان کردن رمز",
+    "locations": [
+      "components/admin/login.tsx:68"
+    ]
+  },
+  {
+    "id": 454,
+    "source": "نمایش رمز",
+    "locations": [
+      "components/admin/login.tsx:68"
+    ]
+  },
+  {
+    "id": 455,
+    "source": "در حال ورود…",
+    "locations": [
+      "components/admin/login.tsx:84"
+    ]
+  },
+  {
+    "id": 456,
+    "source": "ورود به مدیریت",
+    "locations": [
+      "components/admin/login.tsx:88"
+    ]
+  },
+  {
+    "id": 457,
+    "source": "دسترسی فقط برای مدیر مجاز مجموعه است.",
+    "locations": [
+      "components/admin/login.tsx:95"
+    ]
+  },
+  {
+    "id": 458,
+    "source": "بازگشت به وب‌سایت",
+    "locations": [
+      "components/admin/login.tsx:98"
+    ]
+  },
+  {
+    "id": 459,
+    "source": "مجموعه ابزار کانوکس",
+    "locations": [
+      "components/admin/login.tsx:105"
+    ]
+  },
+  {
+    "id": 460,
+    "source": "تصویر مرجع خانواده محصول",
+    "locations": [
+      "components/admin/product-editor.tsx:39"
+    ]
+  },
+  {
+    "id": 461,
+    "source": "شرایط ضمانت نیازمند تأیید است.",
+    "locations": [
+      "components/admin/product-editor.tsx:43"
+    ]
+  },
+  {
+    "id": 462,
+    "source": "اطلاعات پایه",
+    "locations": [
+      "components/admin/product-editor.tsx:85"
+    ]
+  },
+  {
+    "id": 463,
+    "source": "مشخصات و کاربرد",
+    "locations": [
+      "components/admin/product-editor.tsx:86"
+    ]
+  },
+  {
+    "id": 464,
+    "source": "تصاویر و محتوا",
+    "locations": [
+      "components/admin/product-editor.tsx:87"
+    ]
+  },
+  {
+    "id": 465,
+    "source": "فروش و سئو",
+    "locations": [
+      "components/admin/product-editor.tsx:88"
+    ]
+  },
+  {
+    "id": 466,
+    "source": "{v0} {v1} | کانوکس",
+    "locations": [
+      "components/admin/product-editor.tsx:template"
+    ]
+  },
+  {
+    "id": 467,
+    "source": "بخش‌های ویرایش محصول",
+    "locations": [
+      "components/admin/product-editor.tsx:140"
+    ]
+  },
+  {
+    "id": 468,
+    "source": "نام محصول",
+    "locations": [
+      "components/admin/product-editor.tsx:159",
+      "components/catalog-explorer.tsx:279"
+    ]
+  },
+  {
+    "id": 469,
+    "source": "کد کالا (SKU)",
+    "locations": [
+      "components/admin/product-editor.tsx:173"
+    ]
+  },
+  {
+    "id": 470,
+    "source": "آدرس مستقل محصول",
+    "locations": [
+      "components/admin/product-editor.tsx:181"
+    ]
+  },
+  {
+    "id": 471,
+    "source": "حروف کوچک انگلیسی، اعداد و خط تیره؛ مانند konvex-lm-60",
+    "locations": [
+      "components/admin/product-editor.tsx:186"
+    ]
+  },
+  {
+    "id": 472,
+    "source": "زیردسته",
+    "locations": [
+      "components/admin/product-editor.tsx:219"
+    ]
+  },
+  {
+    "id": 473,
+    "source": "توضیح کوتاه",
+    "locations": [
+      "components/admin/product-editor.tsx:224"
+    ]
+  },
+  {
+    "id": 474,
+    "source": "معرفی کامل",
+    "locations": [
+      "components/admin/product-editor.tsx:230"
+    ]
+  },
+  {
+    "id": 475,
+    "source": "کلید فنی به فیلتر همان دسته متصل است. برای هر مقدار، واحد را هم بنویسید؛ مثلاً",
+    "locations": [
+      "components/admin/product-editor.tsx:240"
+    ]
+  },
+  {
+    "id": 476,
+    "source": ". سه ویژگی مهم را برجسته کنید.",
+    "locations": [
+      "components/admin/product-editor.tsx:241"
+    ]
+  },
+  {
+    "id": 477,
+    "source": "مقدار و واحد",
+    "locations": [
+      "components/admin/product-editor.tsx:270"
+    ]
+  },
+  {
+    "id": 478,
+    "source": "برجسته",
+    "locations": [
+      "components/admin/product-editor.tsx:281"
+    ]
+  },
+  {
+    "id": 479,
+    "source": "حذف ویژگی {v0}",
+    "locations": [
+      "components/admin/product-editor.tsx:template"
+    ]
+  },
+  {
+    "id": 480,
+    "source": "ویژگی جدید",
+    "locations": [
+      "components/admin/product-editor.tsx:326"
+    ]
+  },
+  {
+    "id": 481,
+    "source": "ویژگی‌های کلیدی — هر مورد یک خط",
+    "locations": [
+      "components/admin/product-editor.tsx:346"
+    ]
+  },
+  {
+    "id": 482,
+    "source": "اقلام همراه — هر مورد یک خط",
+    "locations": [
+      "components/admin/product-editor.tsx:352"
+    ]
+  },
+  {
+    "id": 483,
+    "source": "شناسه محصولات مشابه",
+    "locations": [
+      "components/admin/product-editor.tsx:358"
+    ]
+  },
+  {
+    "id": 484,
+    "source": "شناسه‌ها را با کامای انگلیسی جدا کنید. خالی باشد: پیشنهاد خودکار از همان دسته.",
+    "locations": [
+      "components/admin/product-editor.tsx:361"
+    ]
+  },
+  {
+    "id": 485,
+    "source": "شناسه متعلقات",
+    "locations": [
+      "components/admin/product-editor.tsx:369"
+    ]
+  },
+  {
+    "id": 486,
+    "source": "شناسه محصولات سازگار",
+    "locations": [
+      "components/admin/product-editor.tsx:377"
+    ]
+  },
+  {
+    "id": 487,
+    "source": "شناسه همین محصول:",
+    "locations": [
+      "components/admin/product-editor.tsx:387"
+    ]
+  },
+  {
+    "id": 488,
+    "source": "تصویر محصول",
+    "locations": [
+      "components/admin/product-editor.tsx:397"
+    ]
+  },
+  {
+    "id": 489,
+    "source": "تصویر اصلی — آدرس",
+    "locations": [
+      "components/admin/product-editor.tsx:409"
+    ]
+  },
+  {
+    "id": 490,
+    "source": "توضیح تصویر (Alt)",
+    "locations": [
+      "components/admin/product-editor.tsx:421"
+    ]
+  },
+  {
+    "id": 491,
+    "source": "انتخاب به‌عنوان تصویر اصلی",
+    "locations": [
+      "components/admin/product-editor.tsx:436"
+    ]
+  },
+  {
+    "id": 492,
+    "source": "حذف تصویر {v0}",
+    "locations": [
+      "components/admin/product-editor.tsx:template"
+    ]
+  },
+  {
+    "id": 493,
+    "source": "افزودن تصویر از فایل موجود",
+    "locations": [
+      "components/admin/product-editor.tsx:475"
+    ]
+  },
+  {
+    "id": 494,
+    "source": "پرسش‌های متداول",
+    "locations": [
+      "components/admin/product-editor.tsx:477",
+      "components/product-gallery.tsx:163"
+    ]
+  },
+  {
+    "id": 495,
+    "source": "پرسش",
+    "locations": [
+      "components/admin/product-editor.tsx:481"
+    ]
+  },
+  {
+    "id": 496,
+    "source": "پاسخ",
+    "locations": [
+      "components/admin/product-editor.tsx:492"
+    ]
+  },
+  {
+    "id": 497,
+    "source": "حذف پرسش",
+    "locations": [
+      "components/admin/product-editor.tsx:511"
+    ]
+  },
+  {
+    "id": 498,
+    "source": "پرسش جدید",
+    "locations": [
+      "components/admin/product-editor.tsx:523"
+    ]
+  },
+  {
+    "id": 499,
+    "source": "محصول منتخب",
+    "locations": [
+      "components/admin/product-editor.tsx:531"
+    ]
+  },
+  {
+    "id": 500,
+    "source": "محصول جدید",
+    "locations": [
+      "components/admin/product-editor.tsx:536"
+    ]
+  },
+  {
+    "id": 501,
+    "source": "اطلاعات و تصاویر نمونه‌اند",
+    "locations": [
+      "components/admin/product-editor.tsx:541"
+    ]
+  },
+  {
+    "id": 502,
+    "source": "وضعیت موجودی",
+    "locations": [
+      "components/admin/product-editor.tsx:548"
+    ]
+  },
+  {
+    "id": 503,
+    "source": "نیازمند استعلام",
+    "locations": [
+      "components/admin/product-editor.tsx:556",
+      "components/comparison.tsx:37",
+      "components/comparison.tsx:49"
+    ]
+  },
+  {
+    "id": 504,
+    "source": "قیمت — تومان",
+    "locations": [
+      "components/admin/product-editor.tsx:562"
+    ]
+  },
+  {
+    "id": 505,
+    "source": "خالی بماند: قیمت با استعلام",
+    "locations": [
+      "components/admin/product-editor.tsx:568"
+    ]
+  },
+  {
+    "id": 506,
+    "source": "تخفیف — درصد",
+    "locations": [
+      "components/admin/product-editor.tsx:573"
+    ]
+  },
+  {
+    "id": 507,
+    "source": "رتبه نمایش در پرطرفدارها",
+    "locations": [
+      "components/admin/product-editor.tsx:579"
+    ]
+  },
+  {
+    "id": 508,
+    "source": "این رتبه آماری نیست؛ مقدار ۷ به بالا در این مجموعه نمایش داده می‌شود.",
+    "locations": [
+      "components/admin/product-editor.tsx:583"
+    ]
+  },
+  {
+    "id": 509,
+    "source": "برچسب‌ها — با ویرگول جدا کنید",
+    "locations": [
+      "components/admin/product-editor.tsx:593"
+    ]
+  },
+  {
+    "id": 510,
+    "source": "،",
+    "locations": [
+      "components/admin/product-editor.tsx:594"
+    ]
+  },
+  {
+    "id": 511,
+    "source": "تا زمانی که مشخصات محصول تأیید نشده‌اند، علامت نمونه را حفظ کنید. حالت ایندکس سایت از تنظیمات استقرار کنترل می‌شود.",
+    "locations": [
+      "components/admin/product-editor.tsx:611"
+    ]
+  },
+  {
+    "id": 512,
+    "source": "در حال ذخیره…",
+    "locations": [
+      "components/admin/product-editor.tsx:629"
+    ]
+  },
+  {
+    "id": 513,
+    "source": "ذخیره محصول",
+    "locations": [
+      "components/admin/product-editor.tsx:629",
+      "components/store.tsx:312"
+    ]
+  },
+  {
+    "id": 514,
+    "source": "تغییرات مستقیماً در کاتالوگ اعمال می‌شوند.",
+    "locations": [
+      "components/admin/product-editor.tsx:634"
+    ]
+  },
+  {
+    "id": 515,
+    "source": "تنظیمات سایت ذخیره شد.",
+    "locations": [
+      "components/admin/settings-editor.tsx:21"
+    ]
+  },
+  {
+    "id": 516,
+    "source": "نام فارسی برند",
+    "locations": [
+      "components/admin/settings-editor.tsx:35"
+    ]
+  },
+  {
+    "id": 517,
+    "source": "نام لاتین برند",
+    "locations": [
+      "components/admin/settings-editor.tsx:36"
+    ]
+  },
+  {
+    "id": 518,
+    "source": "شعار برند",
+    "locations": [
+      "components/admin/settings-editor.tsx:37"
+    ]
+  },
+  {
+    "id": 519,
+    "source": "شماره تماس — با ارقام انگلیسی",
+    "locations": [
+      "components/admin/settings-editor.tsx:38"
+    ]
+  },
+  {
+    "id": 520,
+    "source": "واتس‌اپ — کد کشور و شماره",
+    "locations": [
+      "components/admin/settings-editor.tsx:39"
+    ]
+  },
+  {
+    "id": 521,
+    "source": "نشانی رسمی",
+    "locations": [
+      "components/admin/settings-editor.tsx:41"
+    ]
+  },
+  {
+    "id": 522,
+    "source": "لینک نقشه — HTTPS",
+    "locations": [
+      "components/admin/settings-editor.tsx:43"
+    ]
+  },
+  {
+    "id": 523,
+    "source": "لینک اینستاگرام — HTTPS",
+    "locations": [
+      "components/admin/settings-editor.tsx:44"
+    ]
+  },
+  {
+    "id": 524,
+    "source": "لینک لینکدین — HTTPS",
+    "locations": [
+      "components/admin/settings-editor.tsx:45"
+    ]
+  },
+  {
+    "id": 525,
+    "source": "کانال‌های خالی، لینک ساختگی ندارند. با ثبت شماره و نشانی تأییدشده، مسیرهای تماس در سایت فعال می‌شوند.",
+    "locations": [
+      "components/admin/settings-editor.tsx:55"
+    ]
+  },
+  {
+    "id": 526,
+    "source": "نمایش هشدار محیط آزمایشی",
+    "locations": [
+      "components/admin/settings-editor.tsx:70"
+    ]
+  },
+  {
+    "id": 527,
+    "source": "خاموش کردن هشدار، داده‌ها را تأیید نمی‌کند و سرویس پیامک یا پرداخت را فعال نمی‌کند. اتصال سرویس‌ها و دامنه رسمی، تنظیمات استقرار جداگانه دارند.",
+    "locations": [
+      "components/admin/settings-editor.tsx:75"
+    ]
+  },
+  {
+    "id": 528,
+    "source": "ذخیره تنظیمات",
+    "locations": [
+      "components/admin/settings-editor.tsx:90"
+    ]
+  },
+  {
+    "id": 529,
+    "source": "فیلتر محصولات",
+    "locations": [
+      "components/catalog-explorer.tsx:192",
+      "components/catalog-explorer.tsx:451"
+    ]
+  },
+  {
+    "id": 530,
+    "source": "پاک کردن",
+    "locations": [
+      "components/catalog-explorer.tsx:193",
+      "components/catalog-explorer.tsx:475",
+      "components/search-dialog.tsx:175"
+    ]
+  },
+  {
+    "id": 531,
+    "source": "همه محصولات",
+    "locations": [
+      "components/catalog-explorer.tsx:198",
+      "components/catalog-explorer.tsx:384",
+      "components/header.tsx:199",
+      "components/header.tsx:284",
+      "components/home-interactions.tsx:40"
+    ]
+  },
+  {
+    "id": 532,
+    "source": "مطمئن نیستید؟",
+    "locations": [
+      "components/catalog-explorer.tsx:216"
+    ]
+  },
+  {
+    "id": 533,
+    "source": "از نیازتان شروع کنید.",
+    "locations": [
+      "components/catalog-explorer.tsx:217"
+    ]
+  },
+  {
+    "id": 534,
+    "source": "شرایط کار را بنویسید تا مسیر انتخاب روشن‌تر شود.",
+    "locations": [
+      "components/catalog-explorer.tsx:218"
+    ]
+  },
+  {
+    "id": 535,
+    "source": "درخواست مشاوره",
+    "locations": [
+      "components/catalog-explorer.tsx:220",
+      "components/catalog-explorer.tsx:392",
+      "components/ui.tsx:180"
+    ]
+  },
+  {
+    "id": 536,
+    "source": "جستجو در این دسته",
+    "locations": [
+      "components/catalog-explorer.tsx:240"
+    ]
+  },
+  {
+    "id": 537,
+    "source": "جستجو در محصولات",
+    "locations": [
+      "components/catalog-explorer.tsx:240",
+      "components/header.tsx:276"
+    ]
+  },
+  {
+    "id": 538,
+    "source": "جستجو در این دسته…",
+    "locations": [
+      "components/catalog-explorer.tsx:242"
+    ]
+  },
+  {
+    "id": 539,
+    "source": "نام، مدل یا مشخصه فنی…",
+    "locations": [
+      "components/catalog-explorer.tsx:242"
+    ]
+  },
+  {
+    "id": 540,
+    "source": "پاک کردن عبارت جستجو",
+    "locations": [
+      "components/catalog-explorer.tsx:252"
+    ]
+  },
+  {
+    "id": 541,
+    "source": "اجرای جستجو",
+    "locations": [
+      "components/catalog-explorer.tsx:264"
+    ]
+  },
+  {
+    "id": 542,
+    "source": "مرتب‌سازی:",
+    "locations": [
+      "components/catalog-explorer.tsx:270"
+    ]
+  },
+  {
+    "id": 543,
+    "source": "مرتب‌سازی محصولات",
+    "locations": [
+      "components/catalog-explorer.tsx:272"
+    ]
+  },
+  {
+    "id": 544,
+    "source": "پیشنهاد کانوکس",
+    "locations": [
+      "components/catalog-explorer.tsx:277",
+      "components/search-dialog.tsx:229"
+    ]
+  },
+  {
+    "id": 545,
+    "source": "جدیدترین",
+    "locations": [
+      "components/catalog-explorer.tsx:278"
+    ]
+  },
+  {
+    "id": 546,
+    "source": "ترتیب محبوبیت نمونه",
+    "locations": [
+      "components/catalog-explorer.tsx:280"
+    ]
+  },
+  {
+    "id": 547,
+    "source": "نمایش شبکه‌ای",
+    "locations": [
+      "components/catalog-explorer.tsx:286"
+    ]
+  },
+  {
+    "id": 548,
+    "source": "نمایش فهرستی",
+    "locations": [
+      "components/catalog-explorer.tsx:294"
+    ]
+  },
+  {
+    "id": 549,
+    "source": "در حال به‌روزرسانی…",
+    "locations": [
+      "components/catalog-explorer.tsx:308"
+    ]
+  },
+  {
+    "id": 550,
+    "source": "برای «",
+    "locations": [
+      "components/catalog-explorer.tsx:313"
+    ]
+  },
+  {
+    "id": 551,
+    "source": "فیلترها",
+    "locations": [
+      "components/catalog-explorer.tsx:325"
+    ]
+  },
+  {
+    "id": 552,
+    "source": "کاتالوگ نمونه",
+    "locations": [
+      "components/catalog-explorer.tsx:330",
+      "components/ui.tsx:192"
+    ]
+  },
+  {
+    "id": 553,
+    "source": "حذف فیلتر {v0} {v1}",
+    "locations": [
+      "components/catalog-explorer.tsx:template"
+    ]
+  },
+  {
+    "id": 554,
+    "source": "حذف همه",
+    "locations": [
+      "components/catalog-explorer.tsx:355"
+    ]
+  },
+  {
+    "id": 555,
+    "source": "فهرست محصولات",
+    "locations": [
+      "components/catalog-explorer.tsx:359"
+    ]
+  },
+  {
+    "id": 556,
+    "source": "محصول موردنظر پیدا نشد.",
+    "locations": [
+      "components/catalog-explorer.tsx:372",
+      "components/search-dialog.tsx:211"
+    ]
+  },
+  {
+    "id": 557,
+    "source": "محصولی با این مشخصات پیدا نشد.",
+    "locations": [
+      "components/catalog-explorer.tsx:373"
+    ]
+  },
+  {
+    "id": 558,
+    "source": "عبارت کوتاه‌تر یا فیلترهای کمتری را امتحان کنید. اگر به راهنمایی نیاز دارید، درخواست مشاوره ثبت کنید.",
+    "locations": [
+      "components/catalog-explorer.tsx:375"
+    ]
+  },
+  {
+    "id": 559,
+    "source": "پاک کردن فیلترها",
+    "locations": [
+      "components/catalog-explorer.tsx:380"
+    ]
+  },
+  {
+    "id": 560,
+    "source": "این محصولات را هم بررسی کنید",
+    "locations": [
+      "components/catalog-explorer.tsx:398"
+    ]
+  },
+  {
+    "id": 561,
+    "source": "صفحه‌های محصولات",
+    "locations": [
+      "components/catalog-explorer.tsx:406"
+    ]
+  },
+  {
+    "id": 562,
+    "source": "مشخصات موردنیاز را انتخاب کنید.",
+    "locations": [
+      "components/catalog-explorer.tsx:455"
+    ]
+  },
+  {
+    "id": 563,
+    "source": "اعمال فیلترها",
+    "locations": [
+      "components/catalog-explorer.tsx:471"
+    ]
+  },
+  {
+    "id": 564,
+    "source": "کاتالوگ تخصصی ابزار و تجهیزات صنعتی",
+    "locations": [
+      "components/catalog-page.tsx:48"
+    ]
+  },
+  {
+    "id": 565,
+    "source": "محصول در این مجموعه",
+    "locations": [
+      "components/catalog-page.tsx:55"
+    ]
+  },
+  {
+    "id": 566,
+    "source": "ثبت نشده",
+    "locations": [
+      "components/comparison.tsx:28"
+    ]
+  },
+  {
+    "id": 567,
+    "source": "{v0} تومان",
+    "locations": [
+      "components/comparison.tsx:template"
+    ]
+  },
+  {
+    "id": 568,
+    "source": "موجودی",
+    "locations": [
+      "components/comparison.tsx:43"
+    ]
+  },
+  {
+    "id": 569,
+    "source": "ضمانت",
+    "locations": [
+      "components/comparison.tsx:54"
+    ]
+  },
+  {
+    "id": 570,
+    "source": "نیازمند تأیید",
+    "locations": [
+      "components/comparison.tsx:55"
+    ]
+  },
+  {
+    "id": 571,
+    "source": "انتخاب‌های شما هنوز کنار هم نیستند.",
+    "locations": [
+      "components/comparison.tsx:65"
+    ]
+  },
+  {
+    "id": 572,
+    "source": "از روی کارت یا صفحه محصول، گزینه مقایسه را انتخاب کنید. می‌توانید تا سه محصول از یک دسته را کنار هم ببینید.",
+    "locations": [
+      "components/comparison.tsx:66"
+    ]
+  },
+  {
+    "id": 573,
+    "source": "انتخاب محصولات برای مقایسه",
+    "locations": [
+      "components/comparison.tsx:67"
+    ]
+  },
+  {
+    "id": 574,
+    "source": "محصول از دسته",
+    "locations": [
+      "components/comparison.tsx:76"
+    ]
+  },
+  {
+    "id": 575,
+    "source": "فقط تفاوت‌ها",
+    "locations": [
+      "components/comparison.tsx:88"
+    ]
+  },
+  {
+    "id": 576,
+    "source": "پاک کردن مقایسه",
+    "locations": [
+      "components/comparison.tsx:92",
+      "components/store.tsx:203"
+    ]
+  },
+  {
+    "id": 577,
+    "source": "برای دیدن تفاوت‌ها، حداقل یک محصول دیگر از همین دسته انتخاب کنید.",
+    "locations": [
+      "components/comparison.tsx:97"
+    ]
+  },
+  {
+    "id": 578,
+    "source": "برای دیدن سایر مدل‌ها، جدول را به طرفین بکشید.",
+    "locations": [
+      "components/comparison.tsx:102"
+    ]
+  },
+  {
+    "id": 579,
+    "source": "جدول مقایسه محصولات؛ در صفحه کوچک به طرفین پیمایش کنید",
+    "locations": [
+      "components/comparison.tsx:108"
+    ]
+  },
+  {
+    "id": 580,
+    "source": "مقایسه مشخصات محصولات",
+    "locations": [
+      "components/comparison.tsx:112"
+    ]
+  },
+  {
+    "id": 581,
+    "source": "یک نگاه.",
+    "locations": [
+      "components/comparison.tsx:118"
+    ]
+  },
+  {
+    "id": 582,
+    "source": "تمام تفاوت‌ها.",
+    "locations": [
+      "components/comparison.tsx:120"
+    ]
+  },
+  {
+    "id": 583,
+    "source": "مشخصات کاتالوگ نمونه",
+    "locations": [
+      "components/comparison.tsx:122"
+    ]
+  },
+  {
+    "id": 584,
+    "source": "حذف {v0} از مقایسه",
+    "locations": [
+      "components/comparison.tsx:template",
+      "components/store.tsx:template"
+    ]
+  },
+  {
+    "id": 585,
+    "source": "درخواست قیمت",
+    "locations": [
+      "components/comparison.tsx:152",
+      "components/header.tsx:131",
+      "components/header.tsx:309",
+      "components/product-actions.tsx:21",
+      "components/product-actions.tsx:50"
+    ]
+  },
+  {
+    "id": 586,
+    "source": "از همین دسته",
+    "locations": [
+      "components/comparison.tsx:169"
+    ]
+  },
+  {
+    "id": 587,
+    "source": "در مشخصات ثبت‌شده تفاوتی پیدا نشد. نمایش «فقط تفاوت‌ها» را خاموش کنید.",
+    "locations": [
+      "components/comparison.tsx:196"
+    ]
+  },
+  {
+    "id": 588,
+    "source": "اطلاعات این نسخه نمونه‌اند. شرایط ضمانت، موجودی و قیمت باید پیش از سفارش تأیید شوند.",
+    "locations": [
+      "components/comparison.tsx:203"
+    ]
+  },
+  {
+    "id": 589,
+    "source": "استعلام محصولات انتخاب‌شده",
+    "locations": [
+      "components/comparison.tsx:210"
+    ]
+  },
+  {
+    "id": 590,
+    "source": "کاتالوگ تخصصی ابزار و تجهیزات صنعتی؛",
+    "locations": [
+      "components/footer.tsx:39"
+    ]
+  },
+  {
+    "id": 591,
+    "source": "با نگاهی دقیق به نیاز حرفه‌ای‌ها.",
+    "locations": [
+      "components/footer.tsx:41"
+    ]
+  },
+  {
+    "id": 592,
+    "source": "دسترسی سریع",
+    "locations": [
+      "components/footer.tsx:54",
+      "components/header.tsx:256"
+    ]
+  },
+  {
+    "id": 593,
+    "source": "انتخاب بر اساس کاربرد",
+    "locations": [
+      "components/footer.tsx:56"
+    ]
+  },
+  {
+    "id": 594,
+    "source": "ذخیره‌شده‌ها",
+    "locations": [
+      "components/footer.tsx:60"
+    ]
+  },
+  {
+    "id": 595,
+    "source": "در ارتباط باشیم.",
+    "locations": [
+      "components/footer.tsx:63"
+    ]
+  },
+  {
+    "id": 596,
+    "source": "برای انتخاب محصول و استعلام قیمت،",
+    "locations": [
+      "components/footer.tsx:65"
+    ]
+  },
+  {
+    "id": 597,
+    "source": "نیاز پروژه‌تان را با ما در میان بگذارید.",
+    "locations": [
+      "components/footer.tsx:67"
+    ]
+  },
+  {
+    "id": 598,
+    "source": "درخواست تماس و مشاوره",
+    "locations": [
+      "components/footer.tsx:74"
+    ]
+  },
+  {
+    "id": 599,
+    "source": "اینستاگرام کانوکس",
+    "locations": [
+      "components/footer.tsx:105"
+    ]
+  },
+  {
+    "id": 600,
+    "source": "لینکدین کانوکس",
+    "locations": [
+      "components/footer.tsx:115"
+    ]
+  },
+  {
+    "id": 601,
+    "source": "راه‌های ارتباطی",
+    "locations": [
+      "components/footer.tsx:123"
+    ]
+  },
+  {
+    "id": 602,
+    "source": "نسخه نمایشی — اطلاعات و تصاویر محصولات نمونه‌اند. درخواست‌ها در محیط آزمایشی ذخیره می‌شوند.",
+    "locations": [
+      "components/footer.tsx:132"
+    ]
+  },
+  {
+    "id": 603,
+    "source": "کانوکس. تمامی حقوق محفوظ است.",
+    "locations": [
+      "components/footer.tsx:143"
+    ]
+  },
+  {
+    "id": 604,
+    "source": "از انتخاب دقیق، تا اجرای حرفه‌ای.",
+    "locations": [
+      "components/header.tsx:80"
+    ]
+  },
+  {
+    "id": 605,
+    "source": "باز کردن منوی اصلی",
+    "locations": [
+      "components/header.tsx:90"
+    ]
+  },
+  {
+    "id": 606,
+    "source": "نام محصول، مدل یا کد فنی را جستجو کنید…",
+    "locations": [
+      "components/header.tsx:103"
+    ]
+  },
+  {
+    "id": 607,
+    "source": "مقایسه، {v0} محصول",
+    "locations": [
+      "components/header.tsx:template"
+    ]
+  },
+  {
+    "id": 608,
+    "source": "محصولات ذخیره‌شده، {v0} محصول",
+    "locations": [
+      "components/header.tsx:template"
+    ]
+  },
+  {
+    "id": 609,
+    "source": "منوی اصلی",
+    "locations": [
+      "components/header.tsx:145"
+    ]
+  },
+  {
+    "id": 610,
+    "source": "مشاوره انتخاب ابزار",
+    "locations": [
+      "components/header.tsx:176",
+      "components/quote-form.tsx:235"
+    ]
+  },
+  {
+    "id": 611,
+    "source": "کاتالوگ تخصصی کانوکس",
+    "locations": [
+      "components/header.tsx:191"
+    ]
+  },
+  {
+    "id": 612,
+    "source": "بستن فهرست محصولات",
+    "locations": [
+      "components/header.tsx:205"
+    ]
+  },
+  {
+    "id": 613,
+    "source": "متعلقات و لوازم جانبی",
+    "locations": [
+      "components/header.tsx:235"
+    ]
+  },
+  {
+    "id": 614,
+    "source": "با نام مدل یا مشخصه فنی هم می‌توانید جستجو کنید.",
+    "locations": [
+      "components/header.tsx:238"
+    ]
+  },
+  {
+    "id": 615,
+    "source": "بستن منوی محصولات",
+    "locations": [
+      "components/header.tsx:246"
+    ]
+  },
+  {
+    "id": 616,
+    "source": "تازه‌واردها",
+    "locations": [
+      "components/home-interactions.tsx:31"
+    ]
+  },
+  {
+    "id": 617,
+    "source": "انتخاب دقیق، کار حرفه‌ای",
+    "locations": [
+      "components/home-interactions.tsx:37"
+    ]
+  },
+  {
+    "id": 618,
+    "source": "برای کارهای جدی ساخته شده‌اند.",
+    "locations": [
+      "components/home-interactions.tsx:38"
+    ]
+  },
+  {
+    "id": 619,
+    "source": "مجموعه محصولات",
+    "locations": [
+      "components/home-interactions.tsx:45"
+    ]
+  },
+  {
+    "id": 620,
+    "source": "این چیدمان نمونه است و بر اساس آمار فروش یا بازدید واقعی نیست.",
+    "locations": [
+      "components/home-interactions.tsx:82"
+    ]
+  },
+  {
+    "id": 621,
+    "source": "از کارتان شروع کنید",
+    "locations": [
+      "components/home-interactions.tsx:114"
+    ]
+  },
+  {
+    "id": 622,
+    "source": "ابزار را برای کارتان انتخاب کنید.",
+    "locations": [
+      "components/home-interactions.tsx:117"
+    ]
+  },
+  {
+    "id": 623,
+    "source": "نه برعکس.",
+    "locations": [
+      "components/home-interactions.tsx:119"
+    ]
+  },
+  {
+    "id": 624,
+    "source": "لازم نیست نام همه ابزارها را بدانید.",
+    "locations": [
+      "components/home-interactions.tsx:123"
+    ]
+  },
+  {
+    "id": 625,
+    "source": "کافی است بدانید چه کاری پیش رو دارید.",
+    "locations": [
+      "components/home-interactions.tsx:125"
+    ]
+  },
+  {
+    "id": 626,
+    "source": "انتخاب کاربرد",
+    "locations": [
+      "components/home-interactions.tsx:131"
+    ]
+  },
+  {
+    "id": 627,
+    "source": "محصولات مناسب",
+    "locations": [
+      "components/home-interactions.tsx:195"
+    ]
+  },
+  {
+    "id": 628,
+    "source": "تصویر مفهومی کاربرد ابزار در {v0}",
+    "locations": [
+      "components/home-interactions.tsx:template"
+    ]
+  },
+  {
+    "id": 629,
+    "source": "کار درست، با ابزار درست.",
+    "locations": [
+      "components/home-interactions.tsx:207"
+    ]
+  },
+  {
+    "id": 630,
+    "source": "دریافت کاتالوگ",
+    "locations": [
+      "components/home-interactions.tsx:227"
+    ]
+  },
+  {
+    "id": 631,
+    "source": "شفافیت در استفاده",
+    "locations": [
+      "components/legal-page.tsx:18"
+    ]
+  },
+  {
+    "id": 632,
+    "source": "پیش‌نویس مربوط به نسخه آزمایشی — سیاست نهایی باید پیش از انتشار تجاری توسط مالک مجموعه تأیید شود.",
+    "locations": [
+      "components/legal-page.tsx:24"
+    ]
+  },
+  {
+    "id": 633,
+    "source": "پرسش درباره این سیاست",
+    "locations": [
+      "components/legal-page.tsx:36"
+    ]
+  },
+  {
+    "id": 634,
+    "source": "بستن",
+    "locations": [
+      "components/modal.tsx:55"
+    ]
+  },
+  {
+    "id": 635,
+    "source": "لینک محصول کپی شد.",
+    "locations": [
+      "components/product-actions.tsx:12"
+    ]
+  },
+  {
+    "id": 636,
+    "source": "برای اشتراک‌گذاری، آدرس صفحه را از مرورگر کپی کنید.",
+    "locations": [
+      "components/product-actions.tsx:14"
+    ]
+  },
+  {
+    "id": 637,
+    "source": "کپی لینک محصول",
+    "locations": [
+      "components/product-actions.tsx:39"
+    ]
+  },
+  {
+    "id": 638,
+    "source": "قیمت و موجودی با استعلام",
+    "locations": [
+      "components/product-actions.tsx:47"
+    ]
+  },
+  {
+    "id": 639,
+    "source": "مشخصات محصول {v0}",
+    "locations": [
+      "components/product-card.tsx:template"
+    ]
+  },
+  {
+    "id": 640,
+    "source": "مشخصات",
+    "locations": [
+      "components/product-card.tsx:75"
+    ]
+  },
+  {
+    "id": 641,
+    "source": "بزرگ‌نمایی تصویر {v0}",
+    "locations": [
+      "components/product-gallery.tsx:template"
+    ]
+  },
+  {
+    "id": 642,
+    "source": "تصویر نمونه",
+    "locations": [
+      "components/product-gallery.tsx:64"
+    ]
+  },
+  {
+    "id": 643,
+    "source": "تصویر {v0}: {v1}",
+    "locations": [
+      "components/product-gallery.tsx:template"
+    ]
+  },
+  {
+    "id": 644,
+    "source": "جزئیات را از نزدیک ببینید.",
+    "locations": [
+      "components/product-gallery.tsx:81"
+    ]
+  },
+  {
+    "id": 645,
+    "source": "نمایش تمام‌صفحه",
+    "locations": [
+      "components/product-gallery.tsx:89"
+    ]
+  },
+  {
+    "id": 646,
+    "source": "تصویر قبلی",
+    "locations": [
+      "components/product-gallery.tsx:105"
+    ]
+  },
+  {
+    "id": 647,
+    "source": "کوچک کردن تصویر",
+    "locations": [
+      "components/product-gallery.tsx:117"
+    ]
+  },
+  {
+    "id": 648,
+    "source": "بزرگ کردن تصویر",
+    "locations": [
+      "components/product-gallery.tsx:117"
+    ]
+  },
+  {
+    "id": 649,
+    "source": "تصویر بعدی",
+    "locations": [
+      "components/product-gallery.tsx:129"
+    ]
+  },
+  {
+    "id": 650,
+    "source": "اندازه اصلی",
+    "locations": [
+      "components/product-gallery.tsx:147"
+    ]
+  },
+  {
+    "id": 651,
+    "source": "بزرگ‌نمایی",
+    "locations": [
+      "components/product-gallery.tsx:147"
+    ]
+  },
+  {
+    "id": 652,
+    "source": "معرفی محصول",
+    "locations": [
+      "components/product-gallery.tsx:159"
+    ]
+  },
+  {
+    "id": 653,
+    "source": "اسناد و ضمانت",
+    "locations": [
+      "components/product-gallery.tsx:162"
+    ]
+  },
+  {
+    "id": 654,
+    "source": "بخش‌های اطلاعات محصول",
+    "locations": [
+      "components/product-gallery.tsx:179"
+    ]
+  },
+  {
+    "id": 655,
+    "source": "جستجو انجام نشد. عبارت را تغییر دهید و دوباره تلاش کنید.",
+    "locations": [
+      "components/product-picker.tsx:36"
+    ]
+  },
+  {
+    "id": 656,
+    "source": "جستجو و افزودن محصول به درخواست",
+    "locations": [
+      "components/product-picker.tsx:66"
+    ]
+  },
+  {
+    "id": 657,
+    "source": "نام یا مدل محصول را جستجو و اضافه کنید…",
+    "locations": [
+      "components/product-picker.tsx:74"
+    ]
+  },
+  {
+    "id": 658,
+    "source": "انتخاب محصول",
+    "locations": [
+      "components/product-picker.tsx:102"
+    ]
+  },
+  {
+    "id": 659,
+    "source": "در حال جستجو…",
+    "locations": [
+      "components/product-picker.tsx:105"
+    ]
+  },
+  {
+    "id": 660,
+    "source": "محصول دیگری پیدا نشد. مدل یا نام کوتاه‌تری را امتحان کنید.",
+    "locations": [
+      "components/product-picker.tsx:132"
+    ]
+  },
+  {
+    "id": 661,
+    "source": "در حال بارگذاری محصول",
+    "locations": [
+      "components/product-skeleton.tsx:6"
+    ]
+  },
+  {
+    "id": 662,
+    "source": "لطفاً بخش‌های مشخص‌شده را بررسی کنید.",
+    "locations": [
+      "components/quote-form.tsx:100"
+    ]
+  },
+  {
+    "id": 663,
+    "source": "ارتباط با سرور برقرار نشد. دوباره تلاش کنید.",
+    "locations": [
+      "components/quote-form.tsx:117",
+      "components/search-dialog.tsx:69"
+    ]
+  },
+  {
+    "id": 664,
+    "source": "درخواست با موفقیت ذخیره شد",
+    "locations": [
+      "components/quote-form.tsx:130"
+    ]
+  },
+  {
+    "id": 665,
+    "source": "درخواست آزمایشی شما ثبت شد.",
+    "locations": [
+      "components/quote-form.tsx:132"
+    ]
+  },
+  {
+    "id": 666,
+    "source": "درخواست شما ثبت شد.",
+    "locations": [
+      "components/quote-form.tsx:132"
+    ]
+  },
+  {
+    "id": 667,
+    "source": "کد پیگیری را نگه دارید تا در مراجعه بعدی به درخواست خود اشاره کنید.",
+    "locations": [
+      "components/quote-form.tsx:135"
+    ]
+  },
+  {
+    "id": 668,
+    "source": "کد پیگیری",
+    "locations": [
+      "components/quote-form.tsx:138"
+    ]
+  },
+  {
+    "id": 669,
+    "source": "کپی کد پیگیری",
+    "locations": [
+      "components/quote-form.tsx:142"
+    ]
+  },
+  {
+    "id": 670,
+    "source": "کد پیگیری کپی شد.",
+    "locations": [
+      "components/quote-form.tsx:146"
+    ]
+  },
+  {
+    "id": 671,
+    "source": "کد پیگیری را انتخاب و کپی کنید.",
+    "locations": [
+      "components/quote-form.tsx:148"
+    ]
+  },
+  {
+    "id": 672,
+    "source": "این درخواست در پایگاه داده همین نسخه ذخیره شده است. در محیط آزمایشی، پیامک یا ایمیل ارسال نمی‌شود و تماس واقعی برنامه‌ریزی نشده است.",
+    "locations": [
+      "components/quote-form.tsx:159"
+    ]
+  },
+  {
+    "id": 673,
+    "source": "ادامه بررسی محصولات",
+    "locations": [
+      "components/quote-form.tsx:167"
+    ]
+  },
+  {
+    "id": 674,
+    "source": "درخواست جدید",
+    "locations": [
+      "components/quote-form.tsx:180"
+    ]
+  },
+  {
+    "id": 675,
+    "source": "۰۱",
+    "locations": [
+      "components/quote-form.tsx:203"
+    ]
+  },
+  {
+    "id": 676,
+    "source": "چطور می‌توانیم کمک کنیم؟",
+    "locations": [
+      "components/quote-form.tsx:204"
+    ]
+  },
+  {
+    "id": 677,
+    "source": "نوع درخواست",
+    "locations": [
+      "components/quote-form.tsx:209"
+    ]
+  },
+  {
+    "id": 678,
+    "source": "قیمت، موجودی و شرایط تأمین",
+    "locations": [
+      "components/quote-form.tsx:221"
+    ]
+  },
+  {
+    "id": 679,
+    "source": "راهنمایی بر اساس نیاز پروژه",
+    "locations": [
+      "components/quote-form.tsx:235"
+    ]
+  },
+  {
+    "id": 680,
+    "source": "۰۲",
+    "locations": [
+      "components/quote-form.tsx:243"
+    ]
+  },
+  {
+    "id": 681,
+    "source": "محصولات موردنظر",
+    "locations": [
+      "components/quote-form.tsx:244"
+    ]
+  },
+  {
+    "id": 682,
+    "source": "اختیاری برای مشاوره",
+    "locations": [
+      "components/quote-form.tsx:247"
+    ]
+  },
+  {
+    "id": 683,
+    "source": "حداکثر ۱۰ محصول",
+    "locations": [
+      "components/quote-form.tsx:248"
+    ]
+  },
+  {
+    "id": 684,
+    "source": "افزایش تعداد {v0}",
+    "locations": [
+      "components/quote-form.tsx:template"
+    ]
+  },
+  {
+    "id": 685,
+    "source": "تعداد {v0}",
+    "locations": [
+      "components/quote-form.tsx:template"
+    ]
+  },
+  {
+    "id": 686,
+    "source": "کاهش تعداد {v0}",
+    "locations": [
+      "components/quote-form.tsx:template"
+    ]
+  },
+  {
+    "id": 687,
+    "source": "حذف {v0} از درخواست",
+    "locations": [
+      "components/quote-form.tsx:template"
+    ]
+  },
+  {
+    "id": 688,
+    "source": "مدل دقیق را نمی‌دانید؟ «مشاوره انتخاب ابزار» را انتخاب کنید و نیازتان را بنویسید.",
+    "locations": [
+      "components/quote-form.tsx:323"
+    ]
+  },
+  {
+    "id": 689,
+    "source": "۰۳",
+    "locations": [
+      "components/quote-form.tsx:329"
+    ]
+  },
+  {
+    "id": 690,
+    "source": "اطلاعات تماس شما",
+    "locations": [
+      "components/quote-form.tsx:330"
+    ]
+  },
+  {
+    "id": 691,
+    "source": "نام و نام خانوادگی",
+    "locations": [
+      "components/quote-form.tsx:335"
+    ]
+  },
+  {
+    "id": 692,
+    "source": "نام کامل شما",
+    "locations": [
+      "components/quote-form.tsx:342"
+    ]
+  },
+  {
+    "id": 693,
+    "source": "شماره تماس",
+    "locations": [
+      "components/quote-form.tsx:352"
+    ]
+  },
+  {
+    "id": 694,
+    "source": "۰۹۱۲۱۲۳۴۵۶۷",
+    "locations": [
+      "components/quote-form.tsx:362"
+    ]
+  },
+  {
+    "id": 695,
+    "source": "روش تماس ترجیحی",
+    "locations": [
+      "components/quote-form.tsx:372"
+    ]
+  },
+  {
+    "id": 696,
+    "source": "درباره نیازتان بیشتر بگویید",
+    "locations": [
+      "components/quote-form.tsx:421"
+    ]
+  },
+  {
+    "id": 697,
+    "source": "اختیاری",
+    "locations": [
+      "components/quote-form.tsx:421"
+    ]
+  },
+  {
+    "id": 698,
+    "source": "نوع پروژه، شرایط کار، تعداد موردنیاز یا پرسش فنی خود را بنویسید…",
+    "locations": [
+      "components/quote-form.tsx:426"
+    ]
+  },
+  {
+    "id": 699,
+    "source": "تا ۲۰۰۰ نویسه؛ نیازی به ارسال اطلاعات حساس پروژه نیست.",
+    "locations": [
+      "components/quote-form.tsx:432"
+    ]
+  },
+  {
+    "id": 700,
+    "source": "وب‌سایت",
+    "locations": [
+      "components/quote-form.tsx:438"
+    ]
+  },
+  {
+    "id": 701,
+    "source": "با استفاده از اطلاعات تماس من برای پاسخ به این درخواست، طبق",
+    "locations": [
+      "components/quote-form.tsx:455"
+    ]
+  },
+  {
+    "id": 702,
+    "source": "موافقم.",
+    "locations": [
+      "components/quote-form.tsx:459"
+    ]
+  },
+  {
+    "id": 703,
+    "source": "در حال ثبت درخواست…",
+    "locations": [
+      "components/quote-form.tsx:478"
+    ]
+  },
+  {
+    "id": 704,
+    "source": "ارسال درخواست",
+    "locations": [
+      "components/quote-form.tsx:482"
+    ]
+  },
+  {
+    "id": 705,
+    "source": "این فرم تعهدی برای خرید ایجاد نمی‌کند.",
+    "locations": [
+      "components/quote-form.tsx:489"
+    ]
+  },
+  {
+    "id": 706,
+    "source": "از انتخاب تا استعلام",
+    "locations": [
+      "components/quote-form.tsx:495"
+    ]
+  },
+  {
+    "id": 707,
+    "source": "یک قدم نزدیک‌تر",
+    "locations": [
+      "components/quote-form.tsx:497"
+    ]
+  },
+  {
+    "id": 708,
+    "source": "به ابزار مناسب.",
+    "locations": [
+      "components/quote-form.tsx:499"
+    ]
+  },
+  {
+    "id": 709,
+    "source": "هرچه نیازتان دقیق‌تر باشد، بررسی گزینه‌های مناسب ساده‌تر خواهد بود.",
+    "locations": [
+      "components/quote-form.tsx:502"
+    ]
+  },
+  {
+    "id": 710,
+    "source": "۱",
+    "locations": [
+      "components/quote-form.tsx:506"
+    ]
+  },
+  {
+    "id": 711,
+    "source": "مدل یا کاربرد را مشخص کنید",
+    "locations": [
+      "components/quote-form.tsx:508"
+    ]
+  },
+  {
+    "id": 712,
+    "source": "محصول را انتخاب کنید یا شرایط کار را بنویسید.",
+    "locations": [
+      "components/quote-form.tsx:509"
+    ]
+  },
+  {
+    "id": 713,
+    "source": "۲",
+    "locations": [
+      "components/quote-form.tsx:513"
+    ]
+  },
+  {
+    "id": 714,
+    "source": "تعداد و راه ارتباطی را بنویسید",
+    "locations": [
+      "components/quote-form.tsx:515"
+    ]
+  },
+  {
+    "id": 715,
+    "source": "اطلاعات لازم برای بررسی درخواست، نه بیشتر.",
+    "locations": [
+      "components/quote-form.tsx:516"
+    ]
+  },
+  {
+    "id": 716,
+    "source": "کد پیگیری دریافت کنید",
+    "locations": [
+      "components/quote-form.tsx:522"
+    ]
+  },
+  {
+    "id": 717,
+    "source": "ثبت درخواست را با یک شناسه مشخص دنبال کنید.",
+    "locations": [
+      "components/quote-form.tsx:523"
+    ]
+  },
+  {
+    "id": 718,
+    "source": "برای تصمیم‌گیری عجله نکنید.",
+    "locations": [
+      "components/quote-form.tsx:530"
+    ]
+  },
+  {
+    "id": 719,
+    "source": "اول مشخصات را بررسی کنید.",
+    "locations": [
+      "components/quote-form.tsx:532"
+    ]
+  },
+  {
+    "id": 720,
+    "source": "درباره این نسخه",
+    "locations": [
+      "components/quote-form.tsx:540"
+    ]
+  },
+  {
+    "id": 721,
+    "source": "درخواست واقعاً در پایگاه داده محلی ثبت می‌شود؛ ارسال پیامک، ایمیل و تماس خودکار فعال نیست.",
+    "locations": [
+      "components/quote-form.tsx:542"
+    ]
+  },
+  {
+    "id": 722,
+    "source": "بازگشت به کاتالوگ",
+    "locations": [
+      "components/quote-form.tsx:549"
+    ]
+  },
+  {
+    "id": 723,
+    "source": "در حال بارگذاری صفحه",
+    "locations": [
+      "components/route-skeleton.tsx:6"
+    ]
+  },
+  {
+    "id": 724,
+    "source": "ادامه مسیر انتخاب",
+    "locations": [
+      "components/saved-products.tsx:15"
+    ]
+  },
+  {
+    "id": 725,
+    "source": "اخیراً دیده‌اید",
+    "locations": [
+      "components/saved-products.tsx:15"
+    ]
+  },
+  {
+    "id": 726,
+    "source": "فهرست شخصی شما",
+    "locations": [
+      "components/saved-products.tsx:29"
+    ]
+  },
+  {
+    "id": 727,
+    "source": "انتخاب‌های خود را نگه دارید و هر زمان آماده بودید، دوباره بررسی کنید.",
+    "locations": [
+      "components/saved-products.tsx:33"
+    ]
+  },
+  {
+    "id": 728,
+    "source": "این فهرست فقط در همین مرورگر ذخیره می‌شود و به حساب کاربری متصل نیست.",
+    "locations": [
+      "components/saved-products.tsx:50"
+    ]
+  },
+  {
+    "id": 729,
+    "source": "هنوز محصولی ذخیره نکرده‌اید.",
+    "locations": [
+      "components/saved-products.tsx:56"
+    ]
+  },
+  {
+    "id": 730,
+    "source": "با انتخاب نشان قلب روی هر محصول، آن را به این فهرست اضافه کنید.",
+    "locations": [
+      "components/saved-products.tsx:57"
+    ]
+  },
+  {
+    "id": 731,
+    "source": "پیدا کردن محصول مناسب",
+    "locations": [
+      "components/saved-products.tsx:58"
+    ]
+  },
+  {
+    "id": 732,
+    "source": "چه ابزاری نیاز دارید؟",
+    "locations": [
+      "components/search-dialog.tsx:120"
+    ]
+  },
+  {
+    "id": 733,
+    "source": "نام محصول، مدل یا مشخصه فنی…",
+    "locations": [
+      "components/search-dialog.tsx:130"
+    ]
+  },
+  {
+    "id": 734,
+    "source": "پاک کردن جستجو",
+    "locations": [
+      "components/search-dialog.tsx:148"
+    ]
+  },
+  {
+    "id": 735,
+    "source": "جستجوهای اخیر",
+    "locations": [
+      "components/search-dialog.tsx:166"
+    ]
+  },
+  {
+    "id": 736,
+    "source": "در حال جستجو",
+    "locations": [
+      "components/search-dialog.tsx:200"
+    ]
+  },
+  {
+    "id": 737,
+    "source": "نام کوتاه‌تر، کد مدل یا مشخصه‌ای مثل «۶۰ متر» را امتحان کنید.",
+    "locations": [
+      "components/search-dialog.tsx:213"
+    ]
+  },
+  {
+    "id": 738,
+    "source": "برای انتخاب محصول راهنمایی می‌خواهم",
+    "locations": [
+      "components/search-dialog.tsx:221"
+    ]
+  },
+  {
+    "id": 739,
+    "source": "محصولات مرتبط",
+    "locations": [
+      "components/search-dialog.tsx:229"
+    ]
+  },
+  {
+    "id": 740,
+    "source": "پیشنهادهای محصول",
+    "locations": [
+      "components/search-dialog.tsx:236"
+    ]
+  },
+  {
+    "id": 741,
+    "source": "شاید این محصولات مناسب باشند",
+    "locations": [
+      "components/search-dialog.tsx:287"
+    ]
+  },
+  {
+    "id": 742,
+    "source": "جستجو بر اساس نام، مدل، کد و مشخصات فنی",
+    "locations": [
+      "components/search-dialog.tsx:317"
+    ]
+  },
+  {
+    "id": 743,
+    "source": "نمایش همه نتایج",
+    "locations": [
+      "components/search-dialog.tsx:319"
+    ]
+  },
+  {
+    "id": 744,
+    "source": "محصول از ذخیره‌شده‌ها حذف شد.",
+    "locations": [
+      "components/store.tsx:112"
+    ]
+  },
+  {
+    "id": 745,
+    "source": "محصول در فهرست شما ذخیره شد.",
+    "locations": [
+      "components/store.tsx:112"
+    ]
+  },
+  {
+    "id": 746,
+    "source": "محصول از مقایسه حذف شد.",
+    "locations": [
+      "components/store.tsx:119"
+    ]
+  },
+  {
+    "id": 747,
+    "source": "برای مقایسه دقیق، محصولات یک دسته را انتخاب کنید. ابتدا مقایسه فعلی را پاک کنید.",
+    "locations": [
+      "components/store.tsx:124"
+    ]
+  },
+  {
+    "id": 748,
+    "source": "حداکثر سه محصول قابل مقایسه است. ابتدا یکی را حذف کنید.",
+    "locations": [
+      "components/store.tsx:129"
+    ]
+  },
+  {
+    "id": 749,
+    "source": "محصول به مقایسه اضافه شد.",
+    "locations": [
+      "components/store.tsx:134"
+    ]
+  },
+  {
+    "id": 750,
+    "source": "محصولات منتخب برای مقایسه",
+    "locations": [
+      "components/store.tsx:164"
+    ]
+  },
+  {
+    "id": 751,
+    "source": "از ۳",
+    "locations": [
+      "components/store.tsx:168"
+    ]
+  },
+  {
+    "id": 752,
+    "source": "مقایسه مشخصات",
+    "locations": [
+      "components/store.tsx:198"
+    ]
+  },
+  {
+    "id": 753,
+    "source": "انتخاب محصول دوم",
+    "locations": [
+      "components/store.tsx:198"
+    ]
+  },
+  {
+    "id": 754,
+    "source": "بستن پیام",
+    "locations": [
+      "components/store.tsx:222"
+    ]
+  },
+  {
+    "id": 755,
+    "source": "نگاه نزدیک‌تر",
+    "locations": [
+      "components/store.tsx:232"
+    ]
+  },
+  {
+    "id": 756,
+    "source": "اطلاعات و تصویر این محصول نمونه است.",
+    "locations": [
+      "components/store.tsx:263"
+    ]
+  },
+  {
+    "id": 757,
+    "source": "مشاهده کامل محصول",
+    "locations": [
+      "components/store.tsx:271"
+    ]
+  },
+  {
+    "id": 758,
+    "source": "ذخیره شده؛ حذف {v0} از فهرست",
+    "locations": [
+      "components/store.tsx:template"
+    ]
+  },
+  {
+    "id": 759,
+    "source": "ذخیره محصول: {v0}",
+    "locations": [
+      "components/store.tsx:template"
+    ]
+  },
+  {
+    "id": 760,
+    "source": "حذف {v0} از ذخیره‌شده‌ها",
+    "locations": [
+      "components/store.tsx:template"
+    ]
+  },
+  {
+    "id": 761,
+    "source": "ذخیره {v0}",
+    "locations": [
+      "components/store.tsx:template"
+    ]
+  },
+  {
+    "id": 762,
+    "source": "ذخیره شده",
+    "locations": [
+      "components/store.tsx:312"
+    ]
+  },
+  {
+    "id": 763,
+    "source": "{v0} مقایسه: {v1}",
+    "locations": [
+      "components/store.tsx:template"
+    ]
+  },
+  {
+    "id": 764,
+    "source": "حذف از",
+    "locations": [
+      "components/store.tsx:332"
+    ]
+  },
+  {
+    "id": 765,
+    "source": "افزودن به",
+    "locations": [
+      "components/store.tsx:332"
+    ]
+  },
+  {
+    "id": 766,
+    "source": "مشاهده سریع {v0}",
+    "locations": [
+      "components/store.tsx:template"
+    ]
+  },
+  {
+    "id": 767,
+    "source": "مشاهده سریع",
+    "locations": [
+      "components/store.tsx:354"
+    ]
+  },
+  {
+    "id": 768,
+    "source": "کانوکس",
+    "locations": [
+      "components/ui.tsx:10"
+    ]
+  },
+  {
+    "id": 769,
+    "source": "ابزارِ کارِ حرفه‌ای",
+    "locations": [
+      "components/ui.tsx:28"
+    ]
+  },
+  {
+    "id": 770,
+    "source": "خانه",
+    "locations": [
+      "components/ui.tsx:70"
+    ]
+  },
+  {
+    "id": 771,
+    "source": "مسیر صفحه",
+    "locations": [
+      "components/ui.tsx:73"
+    ]
+  },
+  {
+    "id": 772,
+    "source": "مشاهده همه",
+    "locations": [
+      "components/ui.tsx:101"
+    ]
+  },
+  {
+    "id": 773,
+    "source": "فیلترها را تغییر دهید یا از دسته‌بندی‌های دیگر کمک بگیرید.",
+    "locations": [
+      "components/ui.tsx:137"
+    ]
+  },
+  {
+    "id": 774,
+    "source": "یک انتخاب مطمئن، از یک گفت‌وگو شروع می‌شود.",
+    "locations": [
+      "components/ui.tsx:172"
+    ]
+  },
+  {
+    "id": 775,
+    "source": "برای انتخاب ابزار مناسب،",
+    "locations": [
+      "components/ui.tsx:175"
+    ]
+  },
+  {
+    "id": 776,
+    "source": "کنار شما هستیم.",
+    "locations": [
+      "components/ui.tsx:176"
+    ]
+  },
+  {
+    "id": 777,
+    "source": "— تصاویر و مشخصات این نسخه نمایشی‌اند و پیش از سفارش باید تأیید شوند.",
+    "locations": [
+      "components/ui.tsx:195"
+    ]
+  },
+  {
+    "id": 778,
+    "source": "کاربرد",
+    "locations": [
+      "lib/catalog.ts:184"
+    ]
+  },
+  {
+    "id": 779,
+    "source": "نشست امن برقرار نشد.",
+    "locations": [
+      "lib/client-api.ts:10"
+    ]
+  },
+  {
+    "id": 780,
+    "source": "پاسخ سرور قابل خواندن نیست. دوباره تلاش کنید.",
+    "locations": [
+      "lib/client-api.ts:40"
+    ]
+  },
+  {
+    "id": 781,
+    "source": "درخواست انجام نشد.",
+    "locations": [
+      "lib/client-api.ts:47"
+    ]
+  },
+  {
+    "id": 782,
+    "source": "ی",
+    "locations": [
+      "lib/format.ts:12"
+    ]
+  },
+  {
+    "id": 783,
+    "source": "ک",
+    "locations": [
+      "lib/format.ts:13"
+    ]
+  },
+  {
+    "id": 784,
+    "source": "بتنکن",
+    "locations": [
+      "lib/format.ts:15"
+    ]
+  },
+  {
+    "id": 785,
+    "source": "بدنه درخواست خالی است.",
+    "locations": [
+      "lib/request-body.ts:15"
+    ]
+  },
+  {
+    "id": 786,
+    "source": "ساختار درخواست معتبر نیست.",
+    "locations": [
+      "lib/request-body.ts:41"
+    ]
+  },
+  {
+    "id": 787,
+    "source": "نام را کامل وارد کنید.",
+    "locations": [
+      "lib/validation.ts:6"
+    ]
+  },
+  {
+    "id": 788,
+    "source": "شماره تماس معتبر وارد کنید؛ مانند ۰۹۱۲۱۲۳۴۵۶۷.",
+    "locations": [
+      "lib/validation.ts:15"
+    ]
+  },
+  {
+    "id": 789,
+    "source": "ایمیل معتبر وارد کنید.",
+    "locations": [
+      "lib/validation.ts:19"
+    ]
+  },
+  {
+    "id": 790,
+    "source": "پذیرش حریم خصوصی برای ثبت درخواست لازم است.",
+    "locations": [
+      "lib/validation.ts:34"
+    ]
+  },
+  {
+    "id": 791,
+    "source": "حداقل یک محصول انتخاب کنید یا درخواست مشاوره را فعال کنید.",
+    "locations": [
+      "lib/validation.ts:44"
+    ]
+  },
+  {
+    "id": 792,
+    "source": "برای پاسخ ایمیلی، ایمیل را وارد کنید.",
+    "locations": [
+      "lib/validation.ts:50"
+    ]
+  },
+  {
+    "id": 793,
+    "source": "کلید ویژگی‌های فنی باید یکتا باشد.",
+    "locations": [
+      "lib/validation.ts:145"
+    ]
+  },
+  {
+    "id": 794,
+    "source": "کلید فیلترها باید یکتا و متفاوت از brand و application باشد.",
+    "locations": [
+      "lib/validation.ts:177"
+    ]
+  },
+  {
+    "id": 795,
+    "source": "لینک باید با https شروع شود.",
+    "locations": [
+      "lib/validation.ts:208"
+    ]
+  }
+]

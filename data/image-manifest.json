@@ -1,0 +1,38 @@
+{
+  "/images/caster.webp": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/images/laser.webp": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/images/hero.webp": {
+    "width": 1264,
+    "height": 848
+  },
+  "/images/chisels.webp": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/images/level.webp": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/images/abrasives.webp": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/images/measurement.webp": {
+    "width": 1408,
+    "height": 768
+  },
+  "/images/workshop.webp": {
+    "width": 1376,
+    "height": 768
+  },
+  "/images/accessories.webp": {
+    "width": 1024,
+    "height": 1024
+  }
+}

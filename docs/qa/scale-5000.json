@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-06T18:16:43.144Z",
+  "environment": "Isolated local SQLite repository benchmark; not an HTTP concurrency or production load test.",
+  "products": 5000,
+  "creationMs": 4107,
+  "results": [
+    {
+      "name": "First catalog page",
+      "total": 5000,
+      "averageMs": 8.72,
+      "p95Ms": 9.26,
+      "responseBytes": 16313
+    },
+    {
+      "name": "Laser category and all its facets",
+      "total": 936,
+      "averageMs": 9.31,
+      "p95Ms": 9.59,
+      "responseBytes": 19723
+    },
+    {
+      "name": "Technical model full-text search",
+      "total": 156,
+      "averageMs": 3.42,
+      "p95Ms": 3.52,
+      "responseBytes": 18536
+    },
+    {
+      "name": "Combined technical facets",
+      "total": 156,
+      "averageMs": 17.12,
+      "p95Ms": 17.28,
+      "responseBytes": 19443
+    },
+    {
+      "name": "Deep pagination",
+      "total": 5000,
+      "averageMs": 55.46,
+      "p95Ms": 56.99,
+      "responseBytes": 16240
+    }
+  ]
+}
