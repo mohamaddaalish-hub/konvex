@@ -20,7 +20,7 @@ export function getDictionary(scope: DictionaryScope = {}): Dictionary {
     if (row.type==="product" && productIds.size && !scope.allProducts && !productIds.has(row.id)) continue;
     if (row.type==="product" && !scope.allProducts && !productIds.size) continue;
     if (row.type==="article" && !articleIds.has(row.id)) continue;
-    if (!["product","article"].includes(row.type)) continue;
+    if (!["product","article","category","application","brand"].includes(row.type)) continue;
     const fullProduct = scope.fullProducts?.includes(row.id);
     const fullArticle = scope.fullArticles?.includes(row.id);
     for (const [key,field] of Object.entries(row.fields)) {

@@ -1485,6 +1485,38 @@ button {
   line-height: 2;
   color: var(--muted);
 }
+.product-variant {
+  border-radius: 9px;
+  background: var(--glass);
+  border: 1px solid var(--line);
+  color: var(--ink);
+}
+.product-variant:hover {
+  border-color: var(--accent-line);
+  color: var(--accent-text);
+}
+.product-variant.active {
+  background: var(--accent-soft);
+  border-color: var(--accent-line);
+  color: var(--accent-text);
+}
+.product-variant-model {
+  color: var(--muted);
+}
+.specs-jump {
+  color: var(--accent-text);
+}
+.family-note > p {
+  color: var(--muted);
+}
+.family-note-sources li {
+  background: var(--glass);
+  border-color: var(--line);
+  border-radius: 12px;
+}
+.family-note-disclaimer {
+  color: var(--muted);
+}
 .review-jump {
   color: var(--muted);
   font-size: 11px;
