@@ -23,11 +23,14 @@ import {
   getProductsByIds,
   getApplications,
   queryProducts,
+  getAllProducts,
   summary,
 } from "@/lib/catalog";
+import { familyNotes } from "@/data/family-notes";
+import { sortFamily, variantParts } from "@/lib/product-variants";
 import { safeJson, siteUrl } from "@/lib/seo";
 import { localizedMetadata as metadata } from "@/i18n/metadata";
-import { isTechnical, faNumber, brandImageSource } from "@/lib/format";
+import { isTechnical, brandImageSource } from "@/lib/format";
 import { Breadcrumb, SectionHeading, SampleNotice } from "@/components/ui";
 import { ProductGallery, ProductTabs } from "@/components/product-gallery";
 import { ProductActions, DocumentDownload } from "@/components/product-actions";
@@ -64,12 +67,18 @@ export default async function ProductPage({ params }: Props) {
   const ps = summary(p),
     apps = getApplications().filter((a) => p.applications.includes(a.id)),
     accessories = getProductsByIds(p.accessoryIds),
-    related = p.relatedProductIds.length
-      ? getProductsByIds(p.relatedProductIds)
-      : queryProducts({ category: p.categoryId, pageSize: 5 })
-          .products.filter((v) => v.id !== p.id)
-          .slice(0, 4),
-    compatible = getProductsByIds(p.compatibleProductIds);
+    related = (
+      p.relatedProductIds.length
+        ? getProductsByIds(p.relatedProductIds)
+        : queryProducts({ category: p.categoryId, pageSize: 5 }).products.filter(
+            (v) => v.id !== p.id,
+          )
+    ).slice(0, 4),
+    compatible = getProductsByIds(p.compatibleProductIds),
+    family = getAllProducts()
+      .filter((v) => v.categoryId === p.categoryId)
+      .sort(sortFamily),
+    note = familyNotes[p.categoryId];
   const schema = {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -145,6 +154,40 @@ export default async function ProductPage({ params }: Props) {
                 <p className="product-summary-description">
                   {tr(p.shortDescription)}
                 </p>
+                {family.length > 1 && (
+                  <nav
+                    className="product-variants"
+                    aria-label={tr("سایر اندازه‌ها و مدل‌های همین خانواده")}
+                  >
+                    <p className="product-variants-label">
+                      {tr("سایر اندازه‌ها و مدل‌های همین خانواده")}
+                    </p>
+                    <div className="product-variants-list">
+                      {family.map((v) => (
+                        <Link
+                          key={v.id}
+                          href={`/product/${v.slug}`}
+                          className={
+                            v.id === p.id
+                              ? "product-variant active"
+                              : "product-variant"
+                          }
+                          aria-current={v.id === p.id ? "page" : undefined}
+                        >
+                          <span className="product-variant-value">
+                            {variantParts(v).map((part, i) => (
+                              <span key={`${v.id}-${part}-${i}`}>
+                                {i > 0 ? " · " : ""}
+                                {tr(part)}
+                              </span>
+                            ))}
+                          </span>
+                          <bdi className="product-variant-model">{v.model}</bdi>
+                        </Link>
+                      ))}
+                    </div>
+                  </nav>
+                )}
                 <div className="technical-highlights">
                   {p.specifications
                     .filter((s) => s.highlight)
@@ -189,6 +232,10 @@ export default async function ProductPage({ params }: Props) {
                     )}
                   </span>
                 </div>
+                <a href="#specifications" className="text-link specs-jump">
+                  {tr("مشاهده مشخصات فنی")}
+                  <ArrowLeft size={16} />
+                </a>
                 <ProductActions product={ps} />
                 <div className="product-assurances">
                   <span>
@@ -233,6 +280,34 @@ export default async function ProductPage({ params }: Props) {
                 )}
               </div>
             </section>
+            {note && (
+              <section className="product-section family-note-section">
+                <div className="family-note">
+                  <div className="eyebrow">
+                    <span />
+                    {tr("شناسایی ظاهری و زمینه فنی")}
+                  </div>
+                  <h2>{tr("آنچه در تصویر دیده می‌شود.")}</h2>
+                  <p>{tr(note.identification)}</p>
+                  <p>{tr(note.context)}</p>
+                  {note.sources.length > 0 && (
+                    <ul className="family-note-sources">
+                      {note.sources.map((source) => (
+                        <li key={source.name}>
+                          <bdi>{source.name}</bdi>
+                          <span>{tr(source.note)}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                  <p className="family-note-disclaimer">
+                    {tr(
+                      "این نکات گواهی یا مشخصات تأییدشده این مدل نیستند.",
+                    )}
+                  </p>
+                </div>
+              </section>
+            )}
             <section id="specifications" className="product-section">
               <div className="section-heading">
                 <div>
@@ -464,8 +539,11 @@ export default async function ProductPage({ params }: Props) {
                     "@type": "FAQPage",
                     mainEntity: p.faq.map((f) => ({
                       "@type": "Question",
-                      name: f.question,
-                      acceptedAnswer: { "@type": "Answer", text: f.answer },
+                      name: tr(f.question),
+                      acceptedAnswer: {
+                        "@type": "Answer",
+                        text: tr(f.answer),
+                      },
                     })),
                   }),
                 }}

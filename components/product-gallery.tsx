@@ -1,7 +1,7 @@
 "use client";
 import { useI18n } from "@/i18n/use-i18n";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import {
   Expand,
   ChevronLeft,
@@ -26,7 +26,27 @@ export function ProductGallery({
   const [index, setIndex] = useState(0),
     [fullscreen, setFullscreen] = useState(false),
     [zoom, setZoom] = useState(false);
+  const touch = useRef<{ x: number; y: number } | null>(null);
   const image = images[index] || images[0];
+  const step = (forward: boolean) => {
+    if (images.length < 2) return;
+    setIndex((v) => (v + (forward ? 1 : images.length - 1)) % images.length);
+    setZoom(false);
+  };
+  const onTouchStart = (e: React.TouchEvent) => {
+    const t = e.changedTouches[0];
+    touch.current = { x: t.clientX, y: t.clientY };
+  };
+  const onTouchEnd = (e: React.TouchEvent) => {
+    if (!touch.current || images.length < 2) return;
+    const t = e.changedTouches[0];
+    const dx = t.clientX - touch.current.x;
+    const dy = t.clientY - touch.current.y;
+    touch.current = null;
+    if (Math.abs(dx) < 40 || Math.abs(dx) < Math.abs(dy)) return;
+    const goNext = locale === "en" ? dx < 0 : dx > 0;
+    step(goNext);
+  };
   useEffect(() => {
     if (!fullscreen) return;
     const key = (e: KeyboardEvent) => {
@@ -34,10 +54,7 @@ export function ProductGallery({
         e.preventDefault();
         const forward =
           e.key === (locale === "en" ? "ArrowRight" : "ArrowLeft");
-        setIndex(
-          (v) => (v + (forward ? 1 : images.length - 1)) % images.length,
-        );
-        setZoom(false);
+        step(forward);
       }
     };
     window.addEventListener("keydown", key);
@@ -45,13 +62,36 @@ export function ProductGallery({
   }, [fullscreen, images.length, locale]);
   return (
     <div className="product-gallery">
-      <div className="gallery-main">
+      <div
+        className="gallery-main"
+        style={{ touchAction: "pan-y" }}
+        onTouchStart={onTouchStart}
+        onTouchEnd={onTouchEnd}
+      >
         <ProductImage
           src={image.url}
           alt={tr(image.alt)}
           eager
           sizes="(max-width: 768px) 100vw, 50vw"
         />
+        {images.length > 1 && (
+          <>
+            <button
+              className="icon-button gallery-prev"
+              aria-label={tr("تصویر قبلی")}
+              onClick={() => step(false)}
+            >
+              <ChevronRight size={24} />
+            </button>
+            <button
+              className="icon-button gallery-next"
+              aria-label={tr("تصویر بعدی")}
+              onClick={() => step(true)}
+            >
+              <ChevronLeft size={24} />
+            </button>
+          </>
+        )}
         <button
           className="icon-button gallery-expand"
           aria-label={tr("بزرگ‌نمایی تصویر {v0}", { v0: tr(name) })}
@@ -72,7 +112,7 @@ export function ProductGallery({
         <div className="gallery-thumbnails">
           {images.map((im, i) => (
             <button
-              key={im.url}
+              key={`${im.url}-${i}`}
               className={i === index ? "active" : ""}
               aria-label={tr("تصویر {v0}: {v1}", {
                 v0: tr(fmtNumber(i + 1)),
@@ -111,10 +151,7 @@ export function ProductGallery({
               <button
                 className="icon-button gallery-prev"
                 aria-label={tr("تصویر قبلی")}
-                onClick={() => {
-                  setIndex((v) => (v + images.length - 1) % images.length);
-                  setZoom(false);
-                }}
+                onClick={() => step(false)}
               >
                 <ChevronRight size={24} />
               </button>
@@ -137,10 +174,7 @@ export function ProductGallery({
               <button
                 className="icon-button gallery-next"
                 aria-label={tr("تصویر بعدی")}
-                onClick={() => {
-                  setIndex((v) => (v + 1) % images.length);
-                  setZoom(false);
-                }}
+                onClick={() => step(true)}
               >
                 <ChevronLeft size={24} />
               </button>
